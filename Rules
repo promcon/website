@@ -28,7 +28,9 @@ end
 compile '*' do
   filter :erb
 
-  if item[:extension] == 'md'
+  if item[:title] == 'README.md'
+    # Don't filter; this should propagate verbatim to the output GitHub repository.
+  elsif item[:extension] == 'md'
     filter :redcarpet, options: {filter_html: true, autolink: true, no_intraemphasis: true, fenced_code_blocks: true, gh_blockcode: true, tables: true}, renderer_options: {with_toc_data: true}
     filter :add_anchors
     filter :bootstrappify
