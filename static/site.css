@@ -1,0 +1,150 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  font-family: 'Open Sans', serif;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #aaa;
+}
+
+.navbar-brand img {
+  height: 27px;
+  display: inline;
+  margin-top: -4px;
+  margin-right: 3px;
+}
+
+.jumbotron {
+  background-color: #e6522c;
+  background-image: url("/assets/jumbotron-background.png");
+  text-align: center;
+  padding: 40px 0;
+}
+
+.jumbotron h1 {
+  color: #fff;
+}
+
+.jumbotron p {
+  color: rgba(255,255,255,0.7);
+}
+
+.jumbotron a.btn {
+  border: none;
+  background-color: rgba(0,0,0,0.15);
+  color: #fff;
+}
+
+.jumbotron a.btn:hover {
+  background-color: rgba(0,0,0,0.25);
+  color: #fff;
+}
+
+.jumbotron img {
+  height: 100px;
+  padding-bottom: 15px;
+}
+
+.jumbotron .subtitle {
+  margin-bottom: 20px;
+}
+
+.main .fa {
+  color: #e6522c;
+}
+
+.main h2 {
+  font-size: 25px;
+  white-space: nowrap;
+}
+
+footer {
+  font-size: 12px;
+  color: #333;
+}
+
+/* Docs-related styles. */
+.content {
+  font-size: 18px;
+}
+
+.content p, .content.ul, .content .alert {
+  margin: 25px 0 25px 0;
+}
+
+.content > h1 {
+  color: #e6522c;
+  text-transform: uppercase;
+  margin: 40px 0 10px 0;
+}
+
+.content > h1 a {
+  color: #e6522c;
+}
+
+.content > h2 {
+  color: #e6522c;
+  font-size: 25px;
+}
+
+.content > h2 code {
+  color: #e6522c;
+  background: none;
+}
+
+.content > h3 {
+  font-size: 22px;
+}
+
+.content > h4 {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.content a.header-anchor {
+  padding-left: 15px;
+}
+
+.content a.header-anchor:after {
+  content: "\F0C1";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-size: .8em;
+}
+
+.content a.header-anchor:link,
+.content a.header-anchor:visited {
+  visibility: hidden;
+}
+
+.content h1:hover a.header-anchor:hover,
+.content h2:hover a.header-anchor:hover,
+.content h3:hover a.header-anchor:hover,
+.content h4:hover a.header-anchor:hover,
+.content h5:hover a.header-anchor:hover,
+.content h6:hover a.header-anchor:hover {
+  color: #000;
+}
+
+.content h1:hover a.header-anchor,
+.content h2:hover a.header-anchor,
+.content h3:hover a.header-anchor,
+.content h4:hover a.header-anchor,
+.content h5:hover a.header-anchor,
+.content h6:hover a.header-anchor {
+  color: #999;
+  visibility: visible;
+}
+
+.content img {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

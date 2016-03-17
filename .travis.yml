@@ -1,0 +1,12 @@
+sudo: false
+language: ruby
+
+branches:
+    only:
+        - master
+script: make deploy
+before_install:
+    - eval "$(ssh-agent -s)"
+    - openssl aes-256-cbc -K $encrypted_49197457e0a3_key -iv $encrypted_49197457e0a3_iv -in promcon_rsa.enc -out promcon_rsa -d
+    - chmod 600 promcon_rsa
+    - ssh-add promcon_rsa
