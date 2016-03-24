@@ -1,7 +1,16 @@
 <%= render 'header' %>
 
 <div class="container">
-  <%= yield %>
+  <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <div class="content">
+        <%= yield %>
+      </div>
+      <%= render 'container_footer' %>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
 </div>
 
 <%= render 'footer' %>

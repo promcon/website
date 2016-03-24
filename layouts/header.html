@@ -52,6 +52,13 @@
 
   <body>
 
+    <div class="header-banner">
+      <div class="container">
+        <h1><img src="/assets/prometheus_logo.svg" alt="Prometheus logo"> PromCon 2016</h1>
+        <p class="subtitle">The Prometheus conference — August 25 - 26 in Berlin</p>
+      </div>
+    </div>
+
     <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -61,13 +68,15 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/"><img src="/assets/prometheus_logo_grey.svg" alt="Prometheus logo"> PromCon</a>
         </div>
 
         <div class="collapse navbar-collapse" id="navbar">
-          <ul class="nav navbar-nav navbar-right main-nav">
-            <li><a href="/">Overview</a></li>
-            <li><a href="/contact/">Contact</a></li>
+          <ul class="nav navbar-nav main-nav">
+            <li class="<%= @item[:id] == 'overview' ? 'selected' : '' %>"><a href="/">Overview</a></li>
+            <li class="<%= @item[:id] == 'submit' ? 'selected' : '' %>"><a href="/submit/">Submit Talk</a></li>
+            <li class="<%= @item[:id] == 'sponsor' ? 'selected' : '' %>"><a href="/sponsor/">Sponsor</a></li>
+            <li class="<%= @item[:id] == 'register' ? 'selected' : '' %>"><a href="/register/">Register</a></li>
+            <li class="<%= @item[:id] == 'coc' ? 'selected' : '' %>"><a href="/coc/">Code of Conduct</a></li>
           </ul>
         </div>
       </div>

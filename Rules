@@ -37,7 +37,7 @@ compile '*' do
     filter :admonition
     filter :colorize_syntax, :default_colorizer => :pygmentsrb
     filter :toc, style: item[:toc]
-    layout 'plain'
+    layout 'default'
   elsif item[:extension] == 'css'
     # don’t filter stylesheets
   elsif item.binary?

@@ -1,15 +1,46 @@
-/* Move down content because we have a fixed navbar that is 50px tall */
 body {
   font-family: 'Open Sans', serif;
 }
 
-.navbar {
-  margin-bottom: 0;
+.header-banner {
+  background-color: #e6522c;
+  background-image: url("/assets/jumbotron-background.png");
+  text-align: center;
+  padding: 15px 0;
 }
 
-.navbar-brand {
-  font-size: 20px;
-  color: #aaa;
+.header-banner h1 {
+  color: #fff;
+}
+
+.header-banner p {
+  color: rgba(255,255,255,0.8);
+  font-size: 16px;
+}
+
+.header-banner img {
+  height: 60px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+
+.header-banner .subtitle {
+  margin-bottom: 20px;
+}
+
+.navbar {
+  text-transform: uppercase;
+  font-size: 14px;
+  height: 50px;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
 }
 
 .navbar-brand img {
@@ -19,39 +50,17 @@ body {
   margin-right: 3px;
 }
 
-.jumbotron {
+.navbar-nav li {
+  padding: 0 8px 0 8px;
+}
+
+.navbar-nav li.selected {
   background-color: #e6522c;
   background-image: url("/assets/jumbotron-background.png");
-  text-align: center;
-  padding: 40px 0;
 }
 
-.jumbotron h1 {
-  color: #fff;
-}
-
-.jumbotron p {
-  color: rgba(255,255,255,0.7);
-}
-
-.jumbotron a.btn {
-  border: none;
-  background-color: rgba(0,0,0,0.15);
-  color: #fff;
-}
-
-.jumbotron a.btn:hover {
-  background-color: rgba(0,0,0,0.25);
-  color: #fff;
-}
-
-.jumbotron img {
-  height: 100px;
-  padding-bottom: 15px;
-}
-
-.jumbotron .subtitle {
-  margin-bottom: 20px;
+.navbar-nav li.selected a {
+  color: white;
 }
 
 .main .fa {
@@ -70,7 +79,7 @@ footer {
 
 /* Docs-related styles. */
 .content {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .content p, .content.ul, .content .alert {
@@ -147,4 +156,15 @@ footer {
   margin-left: auto;
   margin-right: auto;
   display: block;
+}
+
+.btn-default {
+  background-color: #e6522c;
+  color: white;
+  border: none;
+}
+
+.btn-default:hover {
+  background-color: rgba(230, 82, 44, 0.7);
+  color: white;
 }
