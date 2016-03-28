@@ -31,7 +31,13 @@ body {
 .navbar {
   text-transform: uppercase;
   font-size: 14px;
-  height: 50px;
+}
+
+/* Only override the auto-height of the navbar when it is expanded. */
+@media (min-width: 768px) {
+  .navbar {
+    height: 50px;
+  }
 }
 
 .navbar .navbar-nav {
