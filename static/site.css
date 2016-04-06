@@ -1,8 +1,9 @@
 body {
-  font-family: 'Open Sans', serif;
+  font-family: Arial, sans-serif;
 }
 
 .header-banner {
+  font-family: 'Lato', sans-serif;
   background-color: #e6522c;
   background-image: url("/assets/jumbotron-background.png");
   text-align: center;
@@ -11,11 +12,14 @@ body {
 
 .header-banner h1 {
   color: #fff;
+  font-size: 45px;
+  font-weight: 300;
 }
 
 .header-banner p {
   color: rgba(255,255,255,0.8);
-  font-size: 16px;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 .header-banner img {
@@ -76,6 +80,7 @@ body {
 .main h2 {
   font-size: 25px;
   white-space: nowrap;
+  font-weight: 300;
 }
 
 footer {
