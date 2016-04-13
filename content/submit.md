@@ -20,8 +20,8 @@ levels ranging from beginner to expert:
 * Prometheus internals and core development</li>
 
 **Speaker reimbursements:** Since PromCon is a non-commercial community
-conference, we will likely not be able to reimburse speakers for travel and
-accommodation. If you want to give a talk but cannot get reimbursed by your
+conference, speaker reimbursements for travel and accommodation will depend on
+available funding. If you want to give a talk but cannot get reimbursed by your
 company, please submit a proposal anyway and let us know in the "Additional
-note to the selection committee" field.  We will then see what we can do,
-depending on available funding.
+note to the selection committee" field. We will then let you know what we can
+offer.
