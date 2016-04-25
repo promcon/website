@@ -40,7 +40,7 @@ body {
 /* Only override the auto-height of the navbar when it is expanded. */
 @media (min-width: 768px) {
   .navbar {
-    height: 50px;
+    height: 56px;
   }
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 .navbar-nav li {
-  padding: 0 8px 0 8px;
+  padding: 3px 8px 3px 8px;
 }
 
 .navbar-nav li.selected {
