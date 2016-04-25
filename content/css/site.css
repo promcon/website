@@ -5,10 +5,47 @@ body {
 .header-banner {
   font-family: 'Lato', sans-serif;
   background-color: #e6522c;
-  background-image: url("/assets/jumbotron-background.png");
+  background-image: url("/assets/jumbotron-background.jpg");
   text-align: center;
-  padding: 60px 0;
+  padding: 190px 0 60px 0;
   text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px;
+  background-size: auto;
+
+  background-position-y: -36px;
+  -webkit-animation: fadein 5s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadein 5s; /* Firefox < 16 */
+  -ms-animation: fadein 5s; /* Internet Explorer */
+  -o-animation: fadein 5s; /* Opera < 12.1 */
+  animation: fadein 5s;
+}
+
+@keyframes fadein {
+  from { background-position-y: -150px; }
+  to   { background-position-y: -36px; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+  from { background-position-y: -150px; }
+  to   { background-position-y: -36px; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+  from { background-position-y: -150px; }
+  to   { background-position-y: -36px; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+  from { background-position-y: -150px; }
+  to   { background-position-y: -36px; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+  from { background-position-y: -150px; }
+  to   { background-position-y: -36px; }
 }
 
 .header-banner h1 {
@@ -18,7 +55,7 @@ body {
 }
 
 .header-banner p {
-  color: rgba(255,255,255,0.8);
+  color: rgba(255,255,255,0.9);
   font-size: 25px;
   font-weight: 300;
 }
@@ -41,7 +78,7 @@ body {
 /* Only override the auto-height of the navbar when it is expanded. */
 @media (min-width: 768px) {
   .navbar {
-    height: 56px;
+  height: 56px;
   }
 }
 
@@ -67,7 +104,6 @@ body {
 
 .navbar-nav li.selected {
   background-color: #e6522c;
-  background-image: url("/assets/jumbotron-background.png");
 }
 
 .navbar-nav li.selected a {
