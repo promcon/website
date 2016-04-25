@@ -8,6 +8,7 @@ body {
   background-image: url("/assets/jumbotron-background.png");
   text-align: center;
   padding: 60px 0;
+  text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px;
 }
 
 .header-banner h1 {
