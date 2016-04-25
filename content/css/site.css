@@ -4,7 +4,7 @@ body {
 
 .header-banner {
   font-family: 'Lato', sans-serif;
-  background-color: #BE4525;
+  background-color: #e6522c;
   background-image: url("/assets/jumbotron-background.png");
   text-align: center;
   padding: 60px 0;
@@ -66,7 +66,7 @@ body {
 }
 
 .navbar-nav li.selected {
-  background-color: #BE4525;
+  background-color: #e6522c;
   background-image: url("/assets/jumbotron-background.png");
 }
 
@@ -75,7 +75,7 @@ body {
 }
 
 .main .fa {
-  color: #BE4525;
+  color: #e6522c;
 }
 
 .main h2 {
@@ -99,22 +99,22 @@ footer {
 }
 
 .content > h1 {
-  color: #BE4525;
+  color: #e6522c;
   text-transform: uppercase;
   margin: 40px 0 10px 0;
 }
 
 .content > h1 a {
-  color: #BE4525;
+  color: #e6522c;
 }
 
 .content > h2 {
-  color: #BE4525;
+  color: #e6522c;
   font-size: 25px;
 }
 
 .content > h2 code {
-  color: #BE4525;
+  color: #e6522c;
   background: none;
 }
 
@@ -171,7 +171,7 @@ footer {
 }
 
 .btn-default {
-  background-color: #BE4525;
+  background-color: #e6522c;
   color: white;
   border: none;
 }
