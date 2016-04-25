@@ -19,6 +19,6 @@ videos, banners, and printed materials?</b> Please register to be notified
 below and we will contact you when we have defined detailed sponsorship
 conditions:
 
-<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/17KakZ4dE_8d1D6lyGA9SIE15vAm9NIiOPhlDiVkM9ak/viewform" target="_blank" role="button">Become a Sponsor</a>
+<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/17KakZ4dE_8d1D6lyGA9SIE15vAm9NIiOPhlDiVkM9ak/viewform" target="_blank" role="button"><i class="fa fa-credit-card"></i>&nbsp;&nbsp;Become a Sponsor</a>
 
 Thanks for your interest in sponsoring PromCon!

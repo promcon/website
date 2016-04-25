@@ -8,7 +8,7 @@ title: Submit Talk
 The PromCon Call for Papers (CFP) is open for talk submissions until April 30,
 2016, and we encourage you to submit a talk!
 
-<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/1b7lq7-h8f0JRPThl6oc3Q70YsbzR__FcGNKbCvdetow/viewform" target="_blank" role="button">Submit Talk</a>
+<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/1b7lq7-h8f0JRPThl6oc3Q70YsbzR__FcGNKbCvdetow/viewform" target="_blank" role="button"><i class="fa fa-commenting"></i>&nbsp;&nbsp;Submit Talk</a>
 
 We are accepting talk proposals around the following topics, with experience
 levels ranging from beginner to expert:
