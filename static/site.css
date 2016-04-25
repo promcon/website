@@ -74,7 +74,7 @@ body {
 }
 
 .main .fa {
-  color: #e6522c;
+  color: #BE4525;
 }
 
 .main h2 {
@@ -98,22 +98,22 @@ footer {
 }
 
 .content > h1 {
-  color: #e6522c;
+  color: #BE4525;
   text-transform: uppercase;
   margin: 40px 0 10px 0;
 }
 
 .content > h1 a {
-  color: #e6522c;
+  color: #BE4525;
 }
 
 .content > h2 {
-  color: #e6522c;
+  color: #BE4525;
   font-size: 25px;
 }
 
 .content > h2 code {
-  color: #e6522c;
+  color: #BE4525;
   background: none;
 }
 
@@ -170,7 +170,7 @@ footer {
 }
 
 .btn-default {
-  background-color: #e6522c;
+  background-color: #BE4525;
   color: white;
   border: none;
 }
