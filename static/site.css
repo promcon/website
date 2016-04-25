@@ -4,21 +4,21 @@ body {
 
 .header-banner {
   font-family: 'Lato', sans-serif;
-  background-color: #e6522c;
+  background-color: #BE4525;
   background-image: url("/assets/jumbotron-background.png");
   text-align: center;
-  padding: 15px 0;
+  padding: 60px 0;
 }
 
 .header-banner h1 {
   color: #fff;
-  font-size: 45px;
+  font-size: 60px;
   font-weight: 300;
 }
 
 .header-banner p {
   color: rgba(255,255,255,0.8);
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 300;
 }
 
@@ -65,7 +65,7 @@ body {
 }
 
 .navbar-nav li.selected {
-  background-color: #e6522c;
+  background-color: #BE4525;
   background-image: url("/assets/jumbotron-background.png");
 }
 
