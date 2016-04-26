@@ -4,7 +4,6 @@ body {
 
 .header-banner {
   font-family: 'Lato', sans-serif;
-  background-color: #e6522c;
   background-image: url("/assets/jumbotron-background.jpg");
   text-align: center;
   padding: 190px 0 60px 0;
