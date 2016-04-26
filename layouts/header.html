@@ -53,7 +53,7 @@
 
   <body>
 
-    <div class="header-banner">
+    <div class="header-banner <%= @item[:id] == 'overview' ? 'overview-banner' : '' %>">
       <div class="container">
         <h1><img src="/assets/prometheus_logo.svg" alt="Prometheus logo"> PromCon 2016</h1>
         <p class="subtitle">The Prometheus conference — August 25 - 26 in Berlin</p>

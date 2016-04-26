@@ -12,6 +12,9 @@ body {
 
   background-position: center;
   background-position-y: -36px;
+}
+
+.overview-banner {
   -webkit-animation: fadein 5s; /* Safari, Chrome and Opera > 12.1 */
   -moz-animation: fadein 5s; /* Firefox < 16 */
   -ms-animation: fadein 5s; /* Internet Explorer */
