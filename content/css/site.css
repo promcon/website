@@ -11,6 +11,7 @@ body {
   text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px;
   background-size: auto;
 
+  background-position: center;
   background-position-y: -36px;
   -webkit-animation: fadein 5s; /* Safari, Chrome and Opera > 12.1 */
   -moz-animation: fadein 5s; /* Firefox < 16 */
