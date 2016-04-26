@@ -3,6 +3,7 @@ body {
 }
 
 .header-banner {
+  background-color: #222;
   font-family: 'Lato', sans-serif;
   background-image: url("/assets/jumbotron-background.jpg");
   text-align: center;
@@ -10,6 +11,7 @@ body {
   text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px;
   background-size: auto;
 
+  background-repeat: no-repeat;
   background-position: center;
   background-position-y: -36px;
 }
