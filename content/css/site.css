@@ -135,8 +135,12 @@ footer {
   font-size: 16px;
 }
 
-.content p, .content.ul, .content .alert {
+.content p, .content ul, .content .alert {
   margin: 25px 0 25px 0;
+}
+
+ul ul {
+  margin: 0 !important;
 }
 
 .content > h1 {
@@ -220,4 +224,32 @@ footer {
 .btn-default:hover {
   background-color: rgba(230, 82, 44, 0.7);
   color: white;
+}
+
+.sponsorships-table td.benefit {
+  text-align: center;
+}
+
+.sponsorships-table {
+  background-color: #b6d7a8;
+}
+
+.diamond {
+  background-color: #fefffe;
+}
+
+.platinum {
+  background-color: #cfe2f3;
+}
+
+.gold {
+  background-color: #ffd966;
+}
+
+.silver {
+  background-color: #cccccc;
+}
+
+.bronze {
+  background-color: #ff9900;
 }
