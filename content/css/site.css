@@ -115,14 +115,16 @@ body {
   color: white;
 }
 
-.main .fa {
-  color: #e6522c;
+.sponsor-logos {
+  text-align: center;
 }
 
-.main h2 {
-  font-size: 25px;
-  white-space: nowrap;
-  font-weight: 300;
+img.logo {
+  max-width: 250px;
+  max-height: 250px;
+  display: inline-block !important;
+  margin-left: 55px;
+  margin-right: 55px;
 }
 
 footer {
@@ -164,7 +166,8 @@ ul ul {
 }
 
 .content > h3 {
-  font-size: 22px;
+  font-size: 20px;
+  color: #606060;
 }
 
 .content > h4 {
@@ -206,13 +209,6 @@ ul ul {
 .content h6:hover a.header-anchor {
   color: #999;
   visibility: visible;
-}
-
-.content img {
-  width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
 }
 
 .btn-default {

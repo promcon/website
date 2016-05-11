@@ -23,3 +23,36 @@ We are looking forward to seeing you at PromCon 2016!
 PromCon is organized by the [Prometheus developer
 community](https://prometheus.io/community/). For PromCon-related inquiries,
 please contact [Julius Volz](mailto:julius.volz@gmail.com).
+
+## Our sponsors
+
+A big thank you to all of our sponsors who are making PromCon 2016 happen!
+
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="http://www.robustperception.io/"><img src="assets/robust_perception_logo.png" class="logo"/></a>
+  <a href="https://www.weave.works/"><img src="assets/weave_logo.png" class="logo"/></a>
+</div>
+
+<hr>
+
+<h3>Platinum</h3>
+<div class="sponsor-logos">
+  <a href="https://cncf.io/"><img src="assets/cncf_logo.png" class="logo"/></a>
+  <a href="https://coreos.com/"><img src="assets/coreos_logo.svg" class="logo"/></a>
+</div>
+
+<hr>
+
+<h3>Venue</h3>
+<div class="sponsor-logos">
+  <a href="https://google.com/"><img src="assets/google_cloud_platform_logo.png" class="logo"/></a>
+</div>
+
+<hr>
+
+<h3>Silver</h3>
+<div class="sponsor-logos">
+  <a href="https://improbable.io/"><img src="assets/improbable_logo.png" class="logo"/></a>
+  <a href="https://www.justwatch.com/"><img src="assets/justwatch_logo.png" class="logo"/></a>
+</div>
