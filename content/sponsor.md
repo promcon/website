@@ -122,12 +122,13 @@ prices and benefits:
     </tr>
     <tr>
       <td>
-        Free attendee tickets
+        <strike>Free attendee tickets</strike><br><br>
+        <i><b>Sorry!</b> At this time, we do not offer tickets along with new sponsorships anymore, since available space has become too limited.</i>
       </td>
-      <td class="benefit diamond">3</td>
-      <td class="benefit platinum">2</td>
-      <td class="benefit gold">1</td>
-      <td class="benefit silver">1</td>
+      <td class="benefit diamond"><strike>3</strike></td>
+      <td class="benefit platinum"><strike>2</strike></td>
+      <td class="benefit gold"><strike>1</strike></td>
+      <td class="benefit silver"><strike>1</strike></td>
     </tr>
   </tbody>
 </table>
