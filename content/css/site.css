@@ -123,8 +123,7 @@ img.logo {
   max-width: 250px;
   max-height: 250px;
   display: inline-block !important;
-  margin-left: 55px;
-  margin-right: 55px;
+  margin: 15px 55px 15px 55px;
 }
 
 footer {
