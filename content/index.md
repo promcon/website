@@ -56,4 +56,5 @@ A big thank you to all of our sponsors who are making PromCon 2016 happen!
   <a href="https://improbable.io/"><img src="assets/improbable_logo.png" class="logo"/></a>
   <a href="https://www.justwatch.com/"><img src="assets/justwatch_logo.png" class="logo"/></a>
   <a href="https://www.percona.com/"><img src="assets/percona_logo.png" class="logo"/></a>
+  <a href="https://rancher.com/"><img src="assets/rancher_logo.jpg" class="logo"/></a>
 </div>

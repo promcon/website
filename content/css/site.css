@@ -120,8 +120,7 @@ body {
 }
 
 img.logo {
-  max-width: 250px;
-  max-height: 250px;
+  width: 250px;
   display: inline-block !important;
   margin: 15px 55px 15px 55px;
 }
