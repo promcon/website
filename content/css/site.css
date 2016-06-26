@@ -247,3 +247,19 @@ ul ul {
 .bronze {
   background-color: #ff9900;
 }
+
+.schedule-table a {
+  text-decoration: underline;
+  color: #e6522c;
+}
+
+.schedule-table tr.day th {
+  text-align: center;
+}
+
+.schedule-table tr.talk {
+}
+
+.schedule-table tr.break {
+  color: #e6522c;
+}
