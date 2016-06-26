@@ -5,7 +5,8 @@ title: Schedule
 
 ## PromCon 2016 Schedule
 
-This schedule is tentative. Abstracts and more functionality will follow soon.
+This schedule is tentative. Abstracts, speaker biographies, and other
+information will follow soon.
 
 <table class="table schedule-table">
   <tr class="day">
