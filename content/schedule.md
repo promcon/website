@@ -9,7 +9,7 @@ This schedule is tentative. Abstracts and more functionality will follow soon.
 
 <table class="table schedule-table">
   <tr class="day">
-    <th colspan="3">Thursday, August 25</th>
+    <th colspan="3">Day 1 - Thursday, August 25</th>
   </tr>
   <tr class="break">
     <td>8:00</td>
@@ -111,7 +111,7 @@ This schedule is tentative. Abstracts and more functionality will follow soon.
 
 <table class="table schedule-table">
   <tr class="day">
-    <th colspan="3">Friday, August 26</th>
+    <th colspan="3">Day 2 - Friday, August 26</th>
   </tr>
   <tr class="break">
     <td>8:00</td>
