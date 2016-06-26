@@ -249,7 +249,7 @@ ul ul {
 }
 
 .schedule-table a {
-  text-decoration: underline;
+  border-bottom: 1px dotted;
   color: #e6522c;
 }
 
