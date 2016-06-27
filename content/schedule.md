@@ -267,7 +267,7 @@ information will follow soon.
   </tr>
   <tr class="talk">
     <td>17:30</td>
-    <td>Goodbye</td>
+    <td>Closing</td>
     <td>
       <a href="/speakers/julius_volz">Julius Volz</a>
       <br>
