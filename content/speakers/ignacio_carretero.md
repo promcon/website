@@ -6,5 +6,5 @@ kind: speaker
 
 ## Ignacio P. Carretero
 
-Ignacio is an SRE in ShuttleCloud, a small startup specialized in email and
-contacts migrations.
+Ignacio Carretero is a Sofware Engineer in ShuttleCloud, a small startup
+specialized in email and contacts migrations.
