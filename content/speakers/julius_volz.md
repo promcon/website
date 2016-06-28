@@ -1,6 +1,7 @@
 ---
 id: julius_volz
 title: Julius Volz
+kind: speaker
 ---
 
 ## Julius Volz

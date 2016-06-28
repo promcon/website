@@ -1,6 +1,7 @@
 ---
 id: carl_bergquist
 title: Carl Bergquist
+kind: speaker
 ---
 
 ## Carl Bergquist

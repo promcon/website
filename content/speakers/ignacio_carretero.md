@@ -1,6 +1,7 @@
 ---
 id: ignacio_carretero
 title: Ignacio P. Carretero
+kind: speaker
 ---
 
 ## Ignacio P. Carretero

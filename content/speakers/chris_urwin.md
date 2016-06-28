@@ -1,6 +1,7 @@
 ---
 id: chris_urwin
 title: Chris Urwin
+kind: speaker
 ---
 
 ## Chris Urwin

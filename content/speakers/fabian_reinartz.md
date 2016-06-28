@@ -1,6 +1,7 @@
 ---
 id: fabian_reinartz
 title: Fabian Reinartz
+kind: speaker
 ---
 
 ## Fabian Reinartz

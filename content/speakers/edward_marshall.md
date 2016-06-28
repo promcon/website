@@ -1,6 +1,7 @@
 ---
 id: edward_marshall
 title: Edward Marshall
+kind: speaker
 ---
 
 ## Edward Marshall

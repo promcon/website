@@ -1,6 +1,7 @@
 ---
 id: richard_kiene
 title: Richard Kiene
+kind: speaker
 ---
 
 ## Richard Kiene

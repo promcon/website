@@ -1,6 +1,7 @@
 ---
 id: wataru_yukawa
 title: Wataru Yukawa
+kind: speaker
 ---
 
 ## Wataru Yukawa

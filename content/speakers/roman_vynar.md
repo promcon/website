@@ -1,6 +1,7 @@
 ---
 id: roman_vynar
 title: Roman Vynar
+kind: speaker
 ---
 
 ## Roman Vynar

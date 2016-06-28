@@ -1,6 +1,7 @@
 ---
 id: tim_gross
 title: Tim Gross
+kind: speaker
 ---
 
 ## Tim Gross

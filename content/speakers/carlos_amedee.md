@@ -1,6 +1,7 @@
 ---
 id: carlos_amedee
 title: Carlos Amedee
+kind: speaker
 ---
 
 ## Carlos Amedee

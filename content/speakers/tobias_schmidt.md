@@ -1,6 +1,7 @@
 ---
 id: tobias_schmidt
 title: Tobias Schmidt
+kind: speaker
 ---
 
 ## Tobias Schmidt

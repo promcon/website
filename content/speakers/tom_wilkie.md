@@ -1,6 +1,7 @@
 ---
 id: tom_wilkie
 title: Tom Wilkie
+kind: speaker
 ---
 
 ## Tom Wilkie

@@ -1,6 +1,7 @@
 ---
 id: bjoern_rabenstein
 title: Björn Rabenstein
+kind: speaker
 ---
 
 ## Björn Rabenstein

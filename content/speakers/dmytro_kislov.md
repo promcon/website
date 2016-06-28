@@ -1,6 +1,7 @@
 ---
 id: dmytro_kislov
 title: Dmytro Kislov
+kind: speaker
 ---
 
 ## Dmytro Kislov

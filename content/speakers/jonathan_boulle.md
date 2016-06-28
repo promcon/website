@@ -1,6 +1,7 @@
 ---
 id: jonathan_boulle
 title: Jonathan Boulle
+kind: speaker
 ---
 
 ## Jonathan Boulle
