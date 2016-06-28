@@ -249,7 +249,23 @@ ul ul {
 }
 
 .schedule-table a {
-  border-bottom: 1px dotted;
+  text-decoration: none;
+  border-bottom: 1px dotted #ccc;
+}
+
+.schedule-table tr.break a {
+  color: #e6522c;
+}
+
+.schedule-table tr.break a:hover {
+  color: #333;
+}
+
+.schedule-table tr.talk a {
+  color: #333;
+}
+
+.schedule-table tr.talk a:hover {
   color: #e6522c;
 }
 
