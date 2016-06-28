@@ -1,5 +1,5 @@
 ---
-id: register
+id: schedule
 title: Schedule
 ---
 
