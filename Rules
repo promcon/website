@@ -76,6 +76,4 @@ route '*' do
   end
 end
 
-#passthrough '/assets/*'
-
 layout '*', :erb
