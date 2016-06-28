@@ -53,12 +53,14 @@
 
   <body>
 
+    <% unless @hide_header_image %>
     <div class="header-banner <%= @item[:id] == 'overview' ? 'overview-banner' : '' %>">
       <div class="container">
         <h1><img src="/assets/prometheus_logo.svg" alt="Prometheus logo"> PromCon 2016</h1>
         <p class="subtitle">The Prometheus conference — August 25 - 26 in Berlin</p>
       </div>
     </div>
+    <% end %>
 
     <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
       <div class="container">

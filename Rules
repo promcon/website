@@ -42,7 +42,14 @@ compile '*' do
     filter :admonition
     filter :colorize_syntax, :default_colorizer => :pygmentsrb
     filter :toc, style: item[:toc]
-    layout 'default'
+    case item[:kind]
+    when 'talk'
+      layout 'talk'
+    when 'speaker'
+      layout 'speaker'
+    else
+      layout 'default'
+    end
   elsif item[:extension] == 'css'
     # don’t filter stylesheets
   elsif item.binary?
