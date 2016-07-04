@@ -151,7 +151,7 @@ This schedule is tentative and still subject to change.
     </td>
   </tr>
   <tr class="break">
-    <td>16:45</td>
+    <td>16:30</td>
     <td>Break</td>
     <td></td>
   </tr>
@@ -327,7 +327,7 @@ This schedule is tentative and still subject to change.
     </td>
   </tr>
   <tr class="break">
-    <td>16:45</td>
+    <td>16:30</td>
     <td>Break</td>
     <td></td>
   </tr>
