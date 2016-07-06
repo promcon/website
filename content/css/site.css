@@ -104,7 +104,8 @@ body {
 }
 
 .navbar-nav li {
-  padding: 3px 8px 3px 8px;
+  padding: 3px 0 3px 0;
+  width: 170px;
 }
 
 .navbar-nav li.selected {
