@@ -8,8 +8,9 @@ title: Overview
 PromCon 2016 will be the first conference around the
 [Prometheus](https://prometheus.io/) monitoring system. It will take
 place from August 25 - 26 at [Google Berlin](https://goo.gl/maps/a9cCmgbsq7L2)
-and will be a single-track event with space for 80 attendants. All talks will
-be recorded and published after the event to create maximum exposure.
+and will be a single-track event with space for 80 attendants. Tickets are
+already sold out at this time. However, all talks will be recorded and
+published after the event to create maximum exposure.
 
 PromCon aims to connect Prometheus users and developers from around the world
 in order to exchange knowledge, best practices, and experience gained around
