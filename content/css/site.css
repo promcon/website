@@ -126,6 +126,10 @@ img.logo {
   margin: 15px 55px 15px 55px;
 }
 
+img.logo.narrow {
+  width: 200px;
+}
+
 footer {
   font-size: 12px;
   color: #333;

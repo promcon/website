@@ -52,6 +52,13 @@ A big thank you to all of our sponsors who are making PromCon 2016 happen!
 
 <hr>
 
+<h3>Gold</h3>
+<div class="sponsor-logos">
+  <a href="https://soundcloud.com/"><img src="assets/soundcloud_logo.png" class="logo narrow"/></a>
+</div>
+
+<hr>
+
 <h3>Silver</h3>
 <div class="sponsor-logos">
   <a href="https://improbable.io/"><img src="assets/improbable_logo.png" class="logo"/></a>
