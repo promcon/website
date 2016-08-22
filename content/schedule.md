@@ -269,8 +269,8 @@ This schedule is tentative and still subject to change.
   <tr class="talk">
     <td>13:45</td>
     <td>
-      <a href="/talks/tindex_how_to_not_drown_in_time_series">
-        Tindex: How to Not Drown in Time Series?
+      <a href="/talks/alerting_in_the_prometheus_universe">
+        Alerting in the Prometheus Universe
       </a>
     </td>
     <td>
