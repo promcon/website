@@ -1,4 +1,4 @@
-<%= render 'header', hide_header_image: true %>
+<%= render '_header', hide_header_image: true %>
 
 <div class="container">
   <div class="row">
@@ -9,10 +9,10 @@
         <%= yield %>
         <a class="btn btn-default" href="javascript:window.history.back();">Back to schedule</a>
       </div>
-      <%= render 'container_footer' %>
+      <%= render '_container_footer' %>
     </div>
     <div class="col-md-2"></div>
   </div>
 </div>
 
-<%= render 'footer' %>
+<%= render '_footer' %>
