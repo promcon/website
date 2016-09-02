@@ -12,11 +12,11 @@ include Nanoc::Helpers::CacheBusting
 def navigation
   links =
     case @item.identifier
-    when /^\/2016-berlin/
+    when /^\/2016-berlin\//, '/coc/'
       {
        '/2016-berlin/' => 'Overview',
        '/2016-berlin/schedule/' => 'Schedule',
-       '/2016-berlin/coc/' => 'Code of Conduct',
+       '/coc/' => 'Code of Conduct',
       }
     else
       {
