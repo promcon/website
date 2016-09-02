@@ -4,19 +4,17 @@ title: Overview
 
 ## Overview
 
-PromCon 2016 will be the first conference around the
-[Prometheus](https://prometheus.io/) monitoring system. It will take
+PromCon 2016 was the first conference around the
+[Prometheus](https://prometheus.io/) monitoring system. It took
 place from August 25 - 26 at [Google Berlin](https://goo.gl/maps/a9cCmgbsq7L2)
-and will be a single-track event with space for 80 attendants. Tickets are
-already sold out at this time. However, all talks will be recorded and
-published after the event to create maximum exposure.
+as a single-track event with space for 80 attendants.
 
 PromCon aims to connect Prometheus users and developers from around the world
 in order to exchange knowledge, best practices, and experience gained around
 using Prometheus. We also want to collaborate to build a community and grow
 professional connections around systems and service monitoring.
 
-We are looking forward to seeing you at PromCon 2016!
+We are looking forward to seeing you at the next PromCon!
 
 ## Contact
 
@@ -26,7 +24,7 @@ please contact [Julius Volz](mailto:julius.volz@gmail.com).
 
 ## Our sponsors
 
-A big thank you to all of our sponsors who are making PromCon 2016 happen!
+A big thank you to all of our sponsors who made PromCon 2016 happen!
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">

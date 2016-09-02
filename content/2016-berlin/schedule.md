@@ -4,8 +4,6 @@ title: Schedule
 
 ## PromCon 2016 Schedule
 
-This schedule is tentative and still subject to change.
-
 <table class="table schedule-table">
   <tr class="day">
     <th colspan="3">Day 1 - Thursday, August 25</th>

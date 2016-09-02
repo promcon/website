@@ -15,7 +15,6 @@ def navigation
     when /^\/2016-berlin/
       {
        '/2016-berlin/' => 'Overview',
-       '/2016-berlin/venue/' => 'Venue',
        '/2016-berlin/schedule/' => 'Schedule',
        '/2016-berlin/coc/' => 'Code of Conduct',
       }
