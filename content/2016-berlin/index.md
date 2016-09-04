@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: PromCon 2016
 ---
 
 ## Overview

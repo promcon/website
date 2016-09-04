@@ -1,5 +1,5 @@
 ---
-title: PromCon Overview
+title: The Prometheus Conference
 redirect: /2016-berlin/
 ---
 
