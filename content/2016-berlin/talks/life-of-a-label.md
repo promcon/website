@@ -5,6 +5,8 @@ kind: talk
 
 ## Life of a Label
 
+Speaker: [Brian Brazil](/2016-berlin/speakers/brian-brazil/)
+
 Labels are at the core of Prometheus's dimensional data model. The Prometheus
 server and its surrounding ecosystem components all either attach, modify, or
 act on labels in various ways. In this talk, Brian explains the entire life

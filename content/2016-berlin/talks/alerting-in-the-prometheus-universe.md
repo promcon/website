@@ -5,6 +5,8 @@ kind: talk
 
 ## Alerting in the Prometheus universe
 
+Speaker: [Fabian Reinartz](/2016-berlin/speakers/fabian-reinartz/)
+
 In a Cloud Native infrastructure, failure is normal and expected. The loss of a
 single node or a dozen hard drives is gracefully handled by the systems running
 a datacenter and there is no reason to page someone at 4am.

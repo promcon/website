@@ -5,6 +5,8 @@ kind: talk
 
 ## Prometheus Design and Philosophy
 
+Speaker: [Julius Volz](/2016-berlin/speakers/julius-volz/)
+
 Prometheus is an opinionated monitoring system that chooses to do a lot of
 things differently from traditional monitoring systems. This leads to a
 culture clash for those used to other approaches, and raises questions as to

@@ -5,6 +5,9 @@ kind: talk
 
 ## Full Stack Metrics with Triton's Native Prometheus Support
 
+Speaker: [Richard Kiene](/2016-berlin/speakers/richard-kiene/) /
+         [Tim Gross](/2016-berlin/speakers/tim-gross/)
+
 Triton is the open source data center automation solution that powers public
 cloud and private data centers world-wide. In early 2016, Joyent undertook a
 project to expose infrastructure and system for every instance — including

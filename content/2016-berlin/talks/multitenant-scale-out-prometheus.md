@@ -5,6 +5,8 @@ kind: talk
 
 ## Multitenant, Scale-Out Prometheus
 
+Speaker: [Tom Wilkie](/2016-berlin/speakers/tom-wilkie/)
+
 In this talk we'll present a prototype solution for multitenant, scale-out
 Prometheus.
 

@@ -5,6 +5,8 @@ kind: talk
 
 ## 10x Improvement for Kubernetes Performance
 
+Speaker: [Jonathan Boulle](/2016-berlin/speakers/jonathan-boulle/)
+
 Scalability is one of the important factors that make a successful distributed
 system. At CoreOS, we love Kubernetes and help drive the project forward
 through upstream contributions. Learn how we analyzed Kubernetes cluster

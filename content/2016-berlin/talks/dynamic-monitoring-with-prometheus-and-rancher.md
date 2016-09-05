@@ -5,6 +5,9 @@ kind: talk
 
 ## Dynamic Monitoring with Prometheus and Rancher
 
+Speaker: [Chris Urwin](/2016-berlin/speakers/chris-urwin/) /
+         [Edward Marshall](/2016-berlin/speakers/edward-marshall/)
+
 Both Prometheus and Rancher have extremely active communities and were born
 from the same requirement to support the newer dynamic infrastructures.
 

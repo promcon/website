@@ -5,6 +5,8 @@ kind: talk
 
 ## Hadoop, Fluentd Cluster Monitoring with Prometheus and Grafana
 
+Speaker: [Wataru Yukawa](/2016-berlin/speakers/wataru-yukawa/)
+
 At LINE, we are creating and maintaining a log analysis platform on top of
 Hadoop, Hive, and Fluentd. We were unsatisfied with existing monitoring
 systems like Ganglia and Nagios and recently started using Prometheus and

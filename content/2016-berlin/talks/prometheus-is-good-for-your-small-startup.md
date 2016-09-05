@@ -5,6 +5,8 @@ kind: talk
 
 ## Prometheus Is Good for Your Small Startup
 
+Speaker: [Ignacio P. Carretero](/2016-berlin/speakers/ignacio-carretero/)
+
 ShuttleCloud is a small startup specialized in email and contacts migrations.
 We are proud of having Gmail, Gcontacts and Comcast among our clients.
 

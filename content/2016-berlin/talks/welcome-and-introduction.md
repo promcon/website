@@ -5,6 +5,8 @@ kind: talk
 
 ## Welcome and Introduction
 
+Speaker: [Julius Volz](/2016-berlin/speakers/julius-volz/)
+
 Julius opens the conference and gives an overview of the state of Prometheus.
 
 <%= youtube_player "-JkxB0CiMjU" %>

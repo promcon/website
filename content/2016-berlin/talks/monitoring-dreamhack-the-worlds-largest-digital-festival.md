@@ -5,6 +5,8 @@ kind: talk
 
 ## Monitoring DreamHack - The World's Largest Digital Festival
 
+Speaker: [Christian Svensson](/2016-berlin/speakers/christian-svensson/)
+
 If you are operating the network for 10,000's of demanding gamers, you need to
 really know what is going on inside your network. Oh, and everything needs to
 be built from scratch in just five days.

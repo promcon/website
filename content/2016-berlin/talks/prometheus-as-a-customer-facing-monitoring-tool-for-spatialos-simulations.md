@@ -5,6 +5,8 @@ kind: talk
 
 ## Prometheus as a Customer-Facing Monitoring Tool for SpatialOS Simulations
 
+Speaker: [Dmytro Kislov](/2016-berlin/speakers/dmytro-kislov/)
+
 At Improbable we provide a platform for spatially distributed simulations to
 our customers. We use Prometheus for monitoring our internal microservice
 stack, but also offer it as a first class customer-facing system on our

@@ -5,6 +5,8 @@ kind: talk
 
 ## The Prometheus Time Series Database
 
+Speaker: [Björn Rabenstein](/2016-berlin/speakers/bjoern-rabenstein/)
+
 Various time series databases (TSDBs) have been implemented on top of
 key-value stores with BigTable semantics. The TSDB that sits at the core of
 the Prometheus monitoring system started with a similar approach and was built
