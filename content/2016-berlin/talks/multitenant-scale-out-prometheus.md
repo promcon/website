@@ -21,3 +21,6 @@ Weave Service, a hosted management, monitoring and visualisation platform for
 microservice & containerised applications. This platform is built from 100%
 open source components, and we're working with the Prometheus community to
 contribute all the changes we've made back to Prometheus.
+
+<%= youtube_player "3Tb4Wc0kfCM" %>
+<%= google_drive_player "0BwqTw528sZRIVGpIN1hTVExhdFE" %>

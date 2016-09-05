@@ -168,7 +168,7 @@ title: Schedule
   <tr class="talk">
     <td>17:30</td>
     <td>
-      <a href="/2016-berlin/talks/lightning-talks">
+      <a href="/2016-berlin/talks/lightning-talks-day1">
         Lightning Talks
       </a>
     </td>
@@ -344,7 +344,7 @@ title: Schedule
   <tr class="talk">
     <td>17:30</td>
     <td>
-      <a href="/2016-berlin/talks/lightning-talks">
+      <a href="/2016-berlin/talks/lightning-talks-day2">
         Lightning Talks
       </a>
     </td>

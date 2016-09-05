@@ -12,3 +12,6 @@ This talk will focus on how Rancher and its community are leveraging the power
 of Prometheus for monitoring both hosts and applications, and how we are
 leveraging Prometheus's dynamic server discovery to minimise the amount of
 static configuration and maintenance.
+
+<%= youtube_player "fSJs-lvegtI" %>
+<%= google_slides_player "1rmRKcQVwHX1IXRNtWwLKMG3mCaANIRI4Y6i0pVJKhmA" %>

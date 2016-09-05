@@ -14,3 +14,6 @@ This talk will describe our transition from an ops team to a "you build it,
 you own it" approach, why we needed something like Prometheus, as well as how
 Prometheus helped us to achieve that and highlight a few success and failure
 stories.
+
+<%= youtube_player "cdKc8ePbj4A" %>
+<%= slideshare_player "sxqQUP9fMjqyZp" %>

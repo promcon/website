@@ -17,3 +17,6 @@ isolation based on ACLs.
 
 In this talk we will be discussing our federation set up and monitoring data
 isolation.
+
+<%= youtube_player "39xVoFW6eUw" %>
+<%= google_slides_player "19I5XNAKd8NXQYZi11yax5-8c3FopSYIhQhOlkUQc0TM" %>

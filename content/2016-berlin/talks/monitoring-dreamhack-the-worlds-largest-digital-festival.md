@@ -14,3 +14,6 @@ If you have never heard about DreamHack before, here is the pitch: Bring
 Mix in professional gaming (eSports), programming contests, and live music
 concerts. The result is the world's largest festival dedicated solely to
 everything digital.
+
+<%= youtube_player "7IPdyKwr_wg" %>
+<%= google_slides_player "1-Yoix53wvnE1OL7tFmQl0EIqS9GlUqFKYxRFXYh0K4M" %>

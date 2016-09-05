@@ -28,3 +28,6 @@ the challenges and successes of implementing Prometheus as a native interface
 in Triton, and ContainerPilot lead engineer Tim Gross will demonstrate
 ContainerPilot telemetry and discuss the application-level decisions around
 defining metrics to drive application scaling.
+
+<%= youtube_player "X8QV9HgPNbc" %>
+<%= speakerdeck_player "ceeedb31ae474ccc8c078c5c9d6a3dd2" %>

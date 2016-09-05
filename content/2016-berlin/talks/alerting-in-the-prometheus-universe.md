@@ -17,3 +17,5 @@ meaningful notifications.
 Fabian will walk through the philosophy of time series based alerting, the Prometheus
 architecture behind it, and how practical anomaly detection can be implemented.
 
+<%= youtube_player "yrK6z3fpu1E" %>
+<%= google_slides_player "16hsV0Pyxxk7ta7gIif7Tfxcr1Oy1LmfUbKXaeXisDvw" %>

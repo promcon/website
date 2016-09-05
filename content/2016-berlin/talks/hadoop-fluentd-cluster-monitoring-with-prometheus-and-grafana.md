@@ -13,3 +13,6 @@ monitoring and alerting, as well as the pull-based architecture. We created
 Prometheus exporters for Hadoop and jstat and fluentd, and are also using Node
 Exporter to monitor machine-level metrics. For access and application log
 metrics, we use fluent-plugin-prometheus. This talk presents our use case.
+
+<%= youtube_player "dzmzvmul7PU" %>
+<%= slideshare_player "3v2wpHNu1g873R" %>
