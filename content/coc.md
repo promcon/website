@@ -1,5 +1,4 @@
 ---
-id: coc
 title: Code of Conduct
 ---
 

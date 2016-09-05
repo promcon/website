@@ -253,6 +253,10 @@ ul ul {
   background-color: #ff9900;
 }
 
+.schedule-table {
+  margin-top: 3em;
+}
+
 .schedule-table a {
   text-decoration: none;
   border-bottom: 1px dotted #ccc;
