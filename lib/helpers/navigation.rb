@@ -1,7 +1,15 @@
 def navigation
   links =
     case @item.identifier
-    when /^\/2016-berlin\//, '/coc.md'
+    when /^\/2017-munich\//, '/coc.md'
+      {
+       '/2017-munich/' => 'Overview',
+       '/2017-munich/register/' => 'Register',
+       # '/2017-munich/submit/' => 'Call for Papers',
+       # '/2017-munich/sponsor/' => 'Sponsor',
+       '/coc/' => 'Code of Conduct',
+      }
+    when /^\/2016-berlin\//
       {
        '/2016-berlin/' => 'Overview',
        '/2016-berlin/schedule/' => 'Schedule',
@@ -9,6 +17,7 @@ def navigation
       }
     else
       {
+        '/2017-munich/' => '2017 - Munich',
         '/2016-berlin/' => '2016 - Berlin',
       }
     end

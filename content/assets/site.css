@@ -3,20 +3,20 @@ body {
 }
 
 .header-banner {
-  background-color: #222;
+  background-color: #e6522c;
+  background-image: url("/assets/jumbotron-background.png");
   font-family: 'Lato', sans-serif;
   text-align: center;
   padding: 190px 0 60px 0;
   text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px;
-  background-size: auto;
-
-  background-repeat: no-repeat;
-  background-position: center;
-  background-position-y: -36px;
 }
 
 .berlin-banner {
   background-image: url("/assets/berlin-banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  background-position-y: -36px;
 }
 
 .fadein-banner {
@@ -78,6 +78,12 @@ body {
   margin-bottom: 20px;
 }
 
+@media only screen and (max-height: 800px) {
+  .header-banner {
+    display: none;
+  }
+}
+
 .navbar {
   text-transform: uppercase;
   font-size: 14px;
@@ -86,7 +92,7 @@ body {
 /* Only override the auto-height of the navbar when it is expanded. */
 @media (min-width: 768px) {
   .navbar {
-  height: 56px;
+    height: 56px;
   }
 }
 

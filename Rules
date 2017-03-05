@@ -15,15 +15,12 @@ compile '/**/*.md' do
     layout '/kind/talk.html'
   end
 
-  layout '/container.html'
-
   case
-  when item.identifier =~ '/2016-berlin/*' || item.identifier == '/coc.md' || item.identifier == '/index.md'
-    layout '/banner/2016-berlin.html'
+  when item.identifier =~ '/2016-berlin/**/*'
+    layout '/2016-berlin.html'
   else
-    layout '/banner/none.html'
+    layout '/2017-munich.html'
   end
-
   layout '/default.html'
 end
 

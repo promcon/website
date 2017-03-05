@@ -1,0 +1,32 @@
+<div class="header-banner">
+    <div class="container">
+    <h1><img src="/assets/prometheus_logo.svg" alt="Prometheus logo"> PromCon 2017</h1>
+    <p class="subtitle">The Prometheus conference — August 17 - 18 in Munich</p>
+    </div>
+</div>
+
+<%= render '/_navigation.html' %>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <div class="content">
+        <%= yield %>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p class="pull-left">
+          <a href="/2016-berlin/">PromCon 2016</a> |
+          <a href="/2017-munich/">PromCon 2017</a> |
+          &copy; Prometheus Authors 2017
+        </p>
+        <p class="pull-right">
+        </p>
+      </footer>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+</div>

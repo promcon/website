@@ -1,6 +1,6 @@
 ---
 title: The Prometheus Conference
-redirect: /2016-berlin/
+redirect: /2017-munich/
 ---
 
 ## PromCon - The Prometheus Conference
@@ -9,6 +9,9 @@ PromCon aims to connect Prometheus users and developers from around the world
 in order to exchange knowledge, best practices, and experience gained around
 using Prometheus. We also want to collaborate to build a community and grow
 professional connections around systems and service monitoring.
+
+The next conference will be [PromCon 2017](/2017-munich/), August 17-18 in
+Munich!
 
 [PromCon 2016](/2016-berlin/) was the first conference around the
 [Prometheus](https://prometheus.io/) monitoring system. Many more are to
