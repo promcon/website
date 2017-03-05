@@ -1,6 +1,5 @@
 ---
 title: Tobias Schmidt
-kind: speaker
 ---
 
 ## Tobias Schmidt

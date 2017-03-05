@@ -1,6 +1,5 @@
 ---
 title: Richard Kiene
-kind: speaker
 ---
 
 ## Richard Kiene

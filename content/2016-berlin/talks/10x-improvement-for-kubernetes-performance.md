@@ -1,6 +1,5 @@
 ---
 title: 10x Improvement for Kubernetes Performance
-kind: talk
 ---
 
 ## 10x Improvement for Kubernetes Performance

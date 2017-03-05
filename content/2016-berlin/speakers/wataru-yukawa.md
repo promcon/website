@@ -1,6 +1,5 @@
 ---
 title: Wataru Yukawa
-kind: speaker
 ---
 
 ## Wataru Yukawa

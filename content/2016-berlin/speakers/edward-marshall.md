@@ -1,6 +1,5 @@
 ---
 title: Edward Marshall
-kind: speaker
 ---
 
 ## Edward Marshall

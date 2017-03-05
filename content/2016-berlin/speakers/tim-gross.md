@@ -1,6 +1,5 @@
 ---
 title: Tim Gross
-kind: speaker
 ---
 
 ## Tim Gross

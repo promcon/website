@@ -1,6 +1,5 @@
 ---
 title: Ignacio P. Carretero
-kind: speaker
 ---
 
 ## Ignacio P. Carretero

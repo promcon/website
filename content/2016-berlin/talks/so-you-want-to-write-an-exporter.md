@@ -1,6 +1,5 @@
 ---
 title: So You Want to Write an Exporter
-kind: talk
 ---
 
 ## So You Want to Write an Exporter

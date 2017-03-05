@@ -1,6 +1,5 @@
 ---
 title: Dynamic Monitoring with Prometheus and Rancher
-kind: talk
 ---
 
 ## Dynamic Monitoring with Prometheus and Rancher

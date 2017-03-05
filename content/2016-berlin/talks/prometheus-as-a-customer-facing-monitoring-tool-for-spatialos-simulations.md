@@ -1,6 +1,5 @@
 ---
 title: Prometheus as a Customer-Facing Monitoring Tool for SpatialOS Simulations
-kind: talk
 ---
 
 ## Prometheus as a Customer-Facing Monitoring Tool for SpatialOS Simulations

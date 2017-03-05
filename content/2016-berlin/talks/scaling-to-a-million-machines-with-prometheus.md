@@ -1,6 +1,5 @@
 ---
 title: Scaling to a Million Machines with Prometheus
-kind: talk
 ---
 
 ## Scaling to a Million Machines with Prometheus

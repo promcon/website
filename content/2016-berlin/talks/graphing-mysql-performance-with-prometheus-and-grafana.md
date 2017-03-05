@@ -1,6 +1,5 @@
 ---
 title: Graphing MySQL Performance with Prometheus and Grafana
-kind: talk
 ---
 
 ## Graphing MySQL Performance with Prometheus and Grafana

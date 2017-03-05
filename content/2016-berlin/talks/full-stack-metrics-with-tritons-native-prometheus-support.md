@@ -1,6 +1,5 @@
 ---
 title: Full Stack Metrics with Triton's Native Prometheus Support
-kind: talk
 ---
 
 ## Full Stack Metrics with Triton's Native Prometheus Support

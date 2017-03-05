@@ -1,6 +1,5 @@
 ---
 title: Dmytro Kislov
-kind: speaker
 ---
 
 ## Dmytro Kislov

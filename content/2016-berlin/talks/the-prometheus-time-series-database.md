@@ -1,6 +1,5 @@
 ---
 title: The Prometheus Time Series Database
-kind: talk
 ---
 
 ## The Prometheus Time Series Database

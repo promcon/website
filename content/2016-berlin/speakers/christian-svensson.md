@@ -1,6 +1,5 @@
 ---
 title: Christian Svensson
-kind: speaker
 ---
 
 ## Christian Svensson

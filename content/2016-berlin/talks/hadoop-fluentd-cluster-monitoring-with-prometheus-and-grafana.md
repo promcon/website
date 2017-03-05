@@ -1,6 +1,5 @@
 ---
 title: Hadoop, Fluentd Cluster Monitoring with Prometheus and Grafana
-kind: talk
 ---
 
 ## Hadoop, Fluentd Cluster Monitoring with Prometheus and Grafana

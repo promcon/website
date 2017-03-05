@@ -1,6 +1,5 @@
 ---
 title: Jonathan Boulle
-kind: speaker
 ---
 
 ## Jonathan Boulle

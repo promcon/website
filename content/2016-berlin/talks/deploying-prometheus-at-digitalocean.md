@@ -1,6 +1,5 @@
 ---
 title: Deploying Prometheus at DigitalOcean
-kind: talk
 ---
 
 ## Deploying Prometheus at DigitalOcean

@@ -1,6 +1,5 @@
 ---
 title: Prometheus Is Good for Your Small Startup
-kind: talk
 ---
 
 ## Prometheus Is Good for Your Small Startup

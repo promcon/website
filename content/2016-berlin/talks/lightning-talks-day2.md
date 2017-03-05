@@ -1,6 +1,5 @@
 ---
 title: Lightning Talks Day Two
-kind: talk
 ---
 
 ## Lightning Talks Day Two

@@ -1,6 +1,5 @@
 ---
 title: Grafana Master Class
-kind: talk
 ---
 
 ## Grafana Master Class

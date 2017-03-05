@@ -1,6 +1,5 @@
 ---
 title: Carlos Amedee
-kind: speaker
 ---
 
 ## Carlos Amedee

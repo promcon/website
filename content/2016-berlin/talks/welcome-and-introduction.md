@@ -1,6 +1,5 @@
 ---
 title: Welcome and Introduction
-kind: talk
 ---
 
 ## Welcome and Introduction

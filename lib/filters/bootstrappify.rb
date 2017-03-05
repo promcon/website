@@ -3,13 +3,10 @@
 require 'nokogiri'
 
 class Boostrappify < ::Nanoc::Filter
-
   identifier :bootstrappify
 
   def run(content, params={})
-    # `#dup` is necessary because `.fragment` modifies the incoming string. Ew!
-    # See https://github.com/sparklemotion/nokogiri/issues/1077
-    doc = Nokogiri::HTML::DocumentFragment.parse(content.dup)
+    doc = Nokogiri::HTML::DocumentFragment.parse(content)
     doc.css('h1').each do |h1|
       h1['class'] = 'page-header'
     end
@@ -19,5 +16,4 @@ class Boostrappify < ::Nanoc::Filter
     end
     doc.to_s
   end
-
 end

@@ -1,6 +1,5 @@
 ---
 title: Matthew Campbell
-kind: speaker
 ---
 
 ## Matthew Campbell

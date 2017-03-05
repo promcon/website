@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <div class="content">
+        <%= yield %>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p class="pull-left">
+          &copy; Prometheus Authors 2016
+        </p>
+        <p class="pull-right">
+          <% if @copyright %>Header photo: &copy; <a href="<%= @copyright[:source] %>"<%= @copyright[:name] %></a><% end %>
+        </p>
+      </footer>
+    </div>
+    <div class="col-md-2"></div>
+  </div>
+</div>

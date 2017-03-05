@@ -1,6 +1,5 @@
 ---
 title: "Alerting in the Prometheus Uniserve"
-kind: talk
 ---
 
 ## Alerting in the Prometheus universe

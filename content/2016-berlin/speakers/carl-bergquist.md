@@ -1,6 +1,5 @@
 ---
 title: Carl Bergquist
-kind: speaker
 ---
 
 ## Carl Bergquist

@@ -1,6 +1,5 @@
 ---
 title: Monitoring DreamHack - The World's Largest Digital Festival
-kind: talk
 ---
 
 ## Monitoring DreamHack - The World's Largest Digital Festival

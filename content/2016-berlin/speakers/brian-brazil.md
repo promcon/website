@@ -1,6 +1,5 @@
 ---
 title: Brian Brazil
-kind: speaker
 ---
 
 ## Brian Brazil

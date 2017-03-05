@@ -1,6 +1,5 @@
 ---
 title: Multitenant, Scale-Out Prometheus
-kind: talk
 ---
 
 ## Multitenant, Scale-Out Prometheus

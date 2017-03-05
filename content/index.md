@@ -10,7 +10,7 @@ in order to exchange knowledge, best practices, and experience gained around
 using Prometheus. We also want to collaborate to build a community and grow
 professional connections around systems and service monitoring.
 
-[PromCon 2016](/2016-berlin) was the first conference around the
+[PromCon 2016](/2016-berlin/) was the first conference around the
 [Prometheus](https://prometheus.io/) monitoring system. Many more are to
 follow and we are looking forward to seeing you at the next PromCon!
 

@@ -1,6 +1,5 @@
 ---
 title: Closing
-kind: talk
 ---
 
 ## Closing

@@ -1,6 +1,5 @@
 ---
 title: Prometheus Design and Philosophy
-kind: talk
 ---
 
 ## Prometheus Design and Philosophy

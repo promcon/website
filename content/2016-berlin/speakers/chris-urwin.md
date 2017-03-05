@@ -1,6 +1,5 @@
 ---
 title: Chris Urwin
-kind: speaker
 ---
 
 ## Chris Urwin

@@ -1,6 +1,5 @@
 ---
 title: The History of Prometheus at SoundCloud
-kind: talk
 ---
 
 ## The History of Prometheus at SoundCloud

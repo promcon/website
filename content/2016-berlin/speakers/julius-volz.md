@@ -1,6 +1,5 @@
 ---
 title: Julius Volz
-kind: speaker
 ---
 
 ## Julius Volz

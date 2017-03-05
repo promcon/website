@@ -1,6 +1,5 @@
 ---
 title: Roman Vynar
-kind: speaker
 ---
 
 ## Roman Vynar

@@ -1,6 +1,5 @@
 ---
 title: Björn Rabenstein
-kind: speaker
 ---
 
 ## Björn Rabenstein

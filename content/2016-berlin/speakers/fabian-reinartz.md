@@ -1,6 +1,5 @@
 ---
 title: Fabian Reinartz
-kind: speaker
 ---
 
 ## Fabian Reinartz

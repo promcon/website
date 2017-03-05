@@ -5,7 +5,6 @@ body {
 .header-banner {
   background-color: #222;
   font-family: 'Lato', sans-serif;
-  background-image: url("/assets/jumbotron-background.jpg");
   text-align: center;
   padding: 190px 0 60px 0;
   text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px;
@@ -16,7 +15,11 @@ body {
   background-position-y: -36px;
 }
 
-.overview-banner {
+.berlin-banner {
+  background-image: url("/assets/berlin-banner.jpg");
+}
+
+.fadein-banner {
   -webkit-animation: fadein 5s; /* Safari, Chrome and Opera > 12.1 */
   -moz-animation: fadein 5s; /* Firefox < 16 */
   -ms-animation: fadein 5s; /* Internet Explorer */

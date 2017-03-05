@@ -1,6 +1,5 @@
 ---
 title: Life of a Label
-kind: talk
 ---
 
 ## Life of a Label
