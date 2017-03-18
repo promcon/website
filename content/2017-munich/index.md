@@ -14,6 +14,13 @@ order to exchange knowledge, best practices, and experience gained around using
 Prometheus. We also want to collaborate to build a community and grow
 professional connections around systems and service monitoring.
 
+Get an impression of the previous PromCon in 2016:
+
+<%= youtube_player("Mbr61yGWQak") %>
+
+You can learn more about the last PromCon in our
+[2016 recap blog post](https://prometheus.io/blog/2016/09/04/promcon-2016-its-a-wrap/).
+
 We are looking forward to seeing you at PromCon 2017!
 
 ## Contact
