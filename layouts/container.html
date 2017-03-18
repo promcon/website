@@ -1,7 +1,7 @@
-<div class="header-banner <%= conference_banner_classes(item) %>">
+<div class="header-banner <%= conference.banner_class %> <%= 'fadein-banner' if item.identifier =~ '/**/index.md' %>">
     <div class="container">
-    <h1><img src="/assets/prometheus_logo.svg" alt="Prometheus logo"> <%= item[:conference].title %></h1>
-    <p class="subtitle"><%= item[:conference].subtitle %></p>
+    <h1><img src="/assets/prometheus_logo.svg" alt="Prometheus logo"> <%= conference.title %></h1>
+    <p class="subtitle"><%= conference.subtitle %></p>
     </div>
 </div>
 
@@ -19,13 +19,13 @@
 
       <footer>
         <p class="pull-left">
-          <% conferences.each do |path, conference| %>
-          <a href="<%= path %>"><%= conference.title %></a> |
+          <% conferences.each do |conference| %>
+          <a href="<%= conference.path %>"><%= conference.title %></a> |
           <% end %>
           &copy; Prometheus Authors 2017
         </p>
         <p class="pull-right">
-          <%= conference_banner_copyright(item) %>
+          <%= conference.banner_copyright %>
         </p>
       </footer>
     </div>

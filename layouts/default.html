@@ -7,7 +7,7 @@
     <meta name="description" content="PromCon, the conference about the Prometheus monitoring system and time series database">
     <meta name="keywords" content="promcon, conference, prometheus, monitoring, monitoring system, time series, time series database, alerting, metrics, telemetry">
     <meta name="author" content="Prometheus">
-    <% if @item[:redirect] %><meta http-equiv="refresh" content="0;URL='<%= @item[:redirect] %>'" /><% end %>
+    <% if item[:redirect] %><meta http-equiv="refresh" content="0;URL='<%= item[:redirect] %>'" /><% end %>
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-TileImage" content="/assets/favicons/mstile-144x144.png">
     <meta name="theme-color" content="#ffffff">
@@ -38,8 +38,8 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <% if @item[:title] %>
-    <title><%= @item[:title] %> | <%= @item[:conference].title %></title>
+    <% if item[:title] %>
+    <title><%= item[:title] %> | <%= conference.title %></title>
     <% else %>
     <title>PromCon</title>
     <% end %>

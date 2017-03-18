@@ -6,12 +6,6 @@ passthrough '/assets/bootstrap-3.3.1/**/*'
 passthrough '/assets/favicons/**/*'
 passthrough '/assets/font-awesome-4.6.1/**/*'
 
-preprocess do
-  @items.each do |item|
-    item[:conference] = conference_for_item(item)
-  end
-end
-
 compile '/assets/*' do
   unless item.binary?
     filter :cache_buster, directory: '/assets/'

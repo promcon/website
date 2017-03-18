@@ -14,7 +14,7 @@ order to exchange knowledge, best practices, and experience gained around using
 Prometheus. We also want to collaborate to build a community and grow
 professional connections around systems and service monitoring.
 
-Get an impression of the previous PromCon in 2016:
+Get an impression of the previous [PromCon in 2016](/2016-berlin/):
 
 <%= youtube_player("Mbr61yGWQak") %>
 
