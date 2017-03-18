@@ -1,7 +1,17 @@
 #!/usr/bin/env ruby
 
 passthrough '/README.md'
-passthrough '/assets/**/*'
+
+passthrough '/assets/bootstrap-3.3.1/**/*'
+passthrough '/assets/favicons/**/*'
+passthrough '/assets/font-awesome-4.6.1/**/*'
+
+compile '/assets/*' do
+  unless item.binary?
+    filter :cache_buster, directory: '/assets/'
+  end
+  write CacheBuster.path(item)
+end
 
 compile '/**/*.md' do
   filter :erb
@@ -22,6 +32,8 @@ compile '/**/*.md' do
     layout '/2017-munich.html'
   end
   layout '/default.html'
+
+  filter :cache_buster, directory: '/assets/'
 end
 
 route '/**/*.md' do
