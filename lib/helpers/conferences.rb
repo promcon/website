@@ -12,6 +12,7 @@ def conferences
     '/2017-munich/' => Conference.new(
       'PromCon 2017',
       'The Prometheus conference — August 17 - 18 in Munich',
+      Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
     ),
   }
 end
