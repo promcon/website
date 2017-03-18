@@ -9,14 +9,20 @@ body {
   text-align: center;
   padding: 190px 0 60px 0;
   text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px;
-}
 
-.berlin-banner {
-  background-image: url("/assets/berlin-banner.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto;
   background-position-y: -36px;
+}
+
+.berlin-banner {
+  background-image: url("/assets/berlin-banner.jpg");
+}
+
+.munich-banner {
+  background-image: url("/assets/munich-banner.jpg");
+  background-size: cover;
 }
 
 .fadein-banner {
