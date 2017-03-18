@@ -1,7 +1,7 @@
-<div class="header-banner">
+<div class="header-banner <%= conference_banner_classes(item) %>">
     <div class="container">
-    <h1><img src="/assets/prometheus_logo.svg" alt="Prometheus logo"> PromCon 2017</h1>
-    <p class="subtitle">The Prometheus conference — August 17 - 18 in Munich</p>
+    <h1><img src="/assets/prometheus_logo.svg" alt="Prometheus logo"> <%= item[:conference].title %></h1>
+    <p class="subtitle"><%= item[:conference].subtitle %></p>
     </div>
 </div>
 
@@ -19,11 +19,13 @@
 
       <footer>
         <p class="pull-left">
-          <a href="/2016-berlin/">PromCon 2016</a> |
-          <a href="/2017-munich/">PromCon 2017</a> |
+          <% conferences.each do |path, conference| %>
+          <a href="<%= path %>"><%= conference.title %></a> |
+          <% end %>
           &copy; Prometheus Authors 2017
         </p>
         <p class="pull-right">
+          <%= conference_banner_copyright(item) %>
         </p>
       </footer>
     </div>

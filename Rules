@@ -6,6 +6,12 @@ passthrough '/assets/bootstrap-3.3.1/**/*'
 passthrough '/assets/favicons/**/*'
 passthrough '/assets/font-awesome-4.6.1/**/*'
 
+preprocess do
+  @items.each do |item|
+    item[:conference] = conference_for_item(item)
+  end
+end
+
 compile '/assets/*' do
   unless item.binary?
     filter :cache_buster, directory: '/assets/'
@@ -25,12 +31,7 @@ compile '/**/*.md' do
     layout '/kind/talk.html'
   end
 
-  case
-  when item.identifier =~ '/2016-berlin/**/*'
-    layout '/2016-berlin.html'
-  else
-    layout '/2017-munich.html'
-  end
+  layout '/container.html'
   layout '/default.html'
 
   filter :cache_buster, directory: '/assets/'

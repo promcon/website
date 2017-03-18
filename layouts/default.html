@@ -39,7 +39,7 @@
     <![endif]-->
 
     <% if @item[:title] %>
-    <title><%= @item[:title] %> | PromCon</title>
+    <title><%= @item[:title] %> | <%= @item[:conference].title %></title>
     <% else %>
     <title>PromCon</title>
     <% end %>
