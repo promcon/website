@@ -3,21 +3,19 @@ body {
 }
 
 .header-banner {
-  background-color: #e6522c;
-  background-image: url("/assets/jumbotron-background.png");
+  background-color: #222;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position-y: -36px;
   font-family: 'Lato', sans-serif;
   text-align: center;
   padding: 190px 0 60px 0;
   text-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px;
-
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: auto;
-  background-position-y: -36px;
 }
 
 .berlin-banner {
   background-image: url("/assets/berlin-banner.jpg");
+  background-size: auto;
 }
 
 .munich-banner {
