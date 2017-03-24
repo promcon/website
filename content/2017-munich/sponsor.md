@@ -205,16 +205,7 @@ We also have some **special sponsorship levels** to support specific causes:
       <td class="benefit platinum">✔</td>
       <td class="benefit gold"></td>
       <td class="benefit gold"></td>
-      <td class="benefit gold"></td>
-    </tr>
-    <tr>
-      <td>
-        Free attendee tickets
-      </td>
-      <td class="benefit platinum">4</td>
-      <td class="benefit gold">2</td>
-      <td class="benefit gold">2</td>
-      <td class="benefit gold">2</td>
+      <td class="benefit gold">✔</td>
     </tr>
   </tbody>
 </table>
