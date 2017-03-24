@@ -297,7 +297,7 @@ Thanks for your interest in sponsoring PromCon!
   loss to sponsors' properties by fire, theft, accident or any other cause
   whether the result of negligence or otherwise or case of force majeure.
 * Refund Policy - Please contact
-  [Julius Volz](mailto:julius.volz@gmail.com) regarding
+  [cncf-promcon-disbursements@lists.cncf.io](mailto:cncf-promcon-disbursements@lists.cncf.io) regarding
   refunds. The following is our refund policy:
   * Full Refund up to 90 days before the conference.
   * 50% Refund within 60 days before the conference.
