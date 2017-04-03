@@ -69,15 +69,6 @@ prices and benefits:
     </tr>
     <tr>
       <td>
-        Logo on onsite signage (off-stage)
-      </td>
-      <td class="benefit diamond">✔</td>
-      <td class="benefit platinum">✔</td>
-      <td class="benefit gold">✔</td>
-      <td class="benefit silver">✔</td>
-    </tr>
-    <tr>
-      <td>
         Logo on stage signage
       </td>
       <td class="benefit diamond">✔</td>
@@ -183,15 +174,6 @@ We also have some **special sponsorship levels** to support specific causes:
     <tr>
       <td>
         Option to distribute swag at the conference
-      </td>
-      <td class="benefit platinum">✔</td>
-      <td class="benefit gold">✔</td>
-      <td class="benefit gold">✔</td>
-      <td class="benefit gold">✔</td>
-    </tr>
-    <tr>
-      <td>
-        Logo on onsite signage (off-stage)
       </td>
       <td class="benefit platinum">✔</td>
       <td class="benefit gold">✔</td>
