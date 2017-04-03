@@ -29,7 +29,7 @@ prices and benefits:
       <th class="diamond">
         Diamond<br>
         €10,000<br><br>
-        Limit: 3
+        Limit: 5
       </th>
       <th class="platinum">
         Platinum<br>
@@ -69,16 +69,25 @@ prices and benefits:
     </tr>
     <tr>
       <td>
-        Logo on all videos after the event
+        Logo on onsite signage (off-stage)
       </td>
       <td class="benefit diamond">✔</td>
       <td class="benefit platinum">✔</td>
       <td class="benefit gold">✔</td>
-      <td class="benefit silver"></td>
+      <td class="benefit silver">✔</td>
     </tr>
     <tr>
       <td>
         Logo on stage signage
+      </td>
+      <td class="benefit diamond">✔</td>
+      <td class="benefit platinum">✔</td>
+      <td class="benefit gold"></td>
+      <td class="benefit silver"></td>
+    </tr>
+    <tr>
+      <td>
+        Mentioned in all marketing mail sent to PromCon attendees
       </td>
       <td class="benefit diamond">✔</td>
       <td class="benefit platinum">✔</td>
@@ -96,7 +105,7 @@ prices and benefits:
     </tr>
     <tr>
       <td>
-        Option for booth space (details to be determined)
+        Logo on all session recordings after the event
       </td>
       <td class="benefit diamond">✔</td>
       <td class="benefit platinum"></td>
@@ -105,7 +114,7 @@ prices and benefits:
     </tr>
     <tr>
       <td>
-        Mentioned in all marketing mail sent to PromCon attendees
+        Option for booth space (table-top display)
       </td>
       <td class="benefit diamond">✔</td>
       <td class="benefit platinum"></td>
@@ -182,11 +191,20 @@ We also have some **special sponsorship levels** to support specific causes:
     </tr>
     <tr>
       <td>
-        Logo on all videos after the event
+        Logo on onsite signage (off-stage)
       </td>
       <td class="benefit platinum">✔</td>
       <td class="benefit gold">✔</td>
       <td class="benefit gold">✔</td>
+      <td class="benefit gold">✔</td>
+    </tr>
+    <tr>
+      <td>
+        Logo in post-event blog post, with a link to your company website
+      </td>
+      <td class="benefit platinum">✔</td>
+      <td class="benefit gold"></td>
+      <td class="benefit gold"></td>
       <td class="benefit gold">✔</td>
     </tr>
     <tr>
@@ -200,12 +218,12 @@ We also have some **special sponsorship levels** to support specific causes:
     </tr>
     <tr>
       <td>
-        Logo in post-event blog post, with a link to your company website
+        Mentioned in all marketing mail sent to PromCon attendees
       </td>
       <td class="benefit platinum">✔</td>
       <td class="benefit gold"></td>
       <td class="benefit gold"></td>
-      <td class="benefit gold">✔</td>
+      <td class="benefit gold"></td>
     </tr>
   </tbody>
 </table>
