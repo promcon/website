@@ -11,7 +11,7 @@ Do you want to help make this happen and **get your company featured in videos,
 banners, and printed materials?** Please let us know via the form below and we
 will be in touch with you about details:
 
-<a class="btn btn-default btn-lg" href="TODO" target="_blank" role="button">
+<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSdAn-dOMoyf380vn4AitALnW_HuGWQyMfnwGyplHQcxM5lpfw/viewform?usp=sf_link" target="_blank" role="button">
   <i class="fa fa-rocket"></i>&nbsp;&nbsp;Become a Sponsor
 </a>
 
@@ -283,7 +283,7 @@ leftover funds will be used to make the conference better for everyone.
 Great! Please let us know via the form below and we will be in touch with you
 about details:
 
-<a class="btn btn-default btn-lg" href="TODO" target="_blank" role="button">
+<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSdAn-dOMoyf380vn4AitALnW_HuGWQyMfnwGyplHQcxM5lpfw/viewform?usp=sf_link" target="_blank" role="button">
   <i class="fa fa-rocket"></i>&nbsp;&nbsp;Become a Sponsor
 </a>
 
