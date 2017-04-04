@@ -288,14 +288,15 @@ Thanks for your interest in sponsoring PromCon!
   details required within three weeks of receipt of the acceptance, and in any
   case one week before the start of the Conference.
 * Sponsorship pledges cannot be processed without payment. All pledges must be
-  made in Euros by electronic transfer, and made payable to: Robust Perception.
-  Bank details for electronic transfer will be sent on request.
+  made in Euros by electronic transfer. Bank details for electronic transfer will
+  be sent on request.
 * Sponsors may not sublet, assign or apportion any part of the item(s)
   sponsored nor represent advertise or distribute literature or materials for
   the products or services of any other firm or organisation.
-* Robust Perception or the PromCon organizers will not be liable for damage or
-  loss to sponsors' properties by fire, theft, accident or any other cause
-  whether the result of negligence or otherwise or case of force majeure.
+* The Cloud Native Computing Foundation or the PromCon organizers will not be
+  liable for damage or loss to sponsors' properties by fire, theft, accident or
+  any other cause whether the result of negligence or otherwise or case of
+  force majeure.
 * Refund Policy - Please contact
   [cncf-promcon-disbursements@lists.cncf.io](mailto:cncf-promcon-disbursements@lists.cncf.io) regarding
   refunds. The following is our refund policy:
