@@ -210,7 +210,7 @@ We also have some **special sponsorship levels** to support specific causes:
   </tbody>
 </table>
 
-If you wish to take advantage of swag distribution, the speaking slot, or free
+If you wish to take advantage of swag distribution, booth space, or free
 attendee tickets, please let us know in advance.
 
 ## Why sponsor PromCon?
