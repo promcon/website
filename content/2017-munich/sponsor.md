@@ -280,26 +280,20 @@ Thanks for your interest in sponsoring PromCon!
 * The organisation of PromCon 2017 is being carried out by the Prometheus
   development community (primary contact: [Julius Volz](mailto:julius.volz@gmail.com)).
   All financial matters are handled on behalf of the PromCon team by the
-  [Cloud Native Computing Foundation](https://cncf.io/).
+  [Linux Foundation](https://www.linuxfoundation.org/).
 * The PromCon 2017 organizers retain the right to reject any sponsor that they
   deem to be inappropriate.
 * After written acceptance by the PromCon 2017 organizers, the sponsor should
   provide the sponsorship funds, logo image in an appropriate format, and other
-  details required within three weeks of receipt of the acceptance, and in any
+  details required within 30 days of receipt of the acceptance, and in any
   case one week before the start of the Conference.
-* Sponsorship pledges cannot be processed without payment. All pledges must be
-  made in Euros by electronic transfer. Bank details for electronic transfer will
-  be sent on request.
+* Sponsorship pledges cannot be processed without payment.
 * Sponsors may not sublet, assign or apportion any part of the item(s)
-  sponsored nor represent advertise or distribute literature or materials for
+  sponsored nor represent, advertise, or distribute literature or materials for
   the products or services of any other firm or organisation.
-* The Cloud Native Computing Foundation or the PromCon organizers will not be
+* The Linux Foundation or the independent PromCon organizers will not be
   liable for damage or loss to sponsors' properties by fire, theft, accident or
   any other cause whether the result of negligence or otherwise or case of
   force majeure.
-* Refund Policy - Please contact
-  [cncf-promcon-disbursements@lists.cncf.io](mailto:cncf-promcon-disbursements@lists.cncf.io) regarding
-  refunds. The following is our refund policy:
-  * Full Refund up to 90 days before the conference.
-  * 50% Refund within 60 days before the conference.
-  * No Refunds within 30 days before the conference.
+* The exact terms of the sponsorship will be laid out in a sponsorship agreement
+  between the Linux Foundation and the sponsor.
