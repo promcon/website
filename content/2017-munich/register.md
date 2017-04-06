@@ -11,5 +11,5 @@ notified when the registration opens:
   <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Register
 </a>
 
-Admission will likely cost around 100€, but we will provide exceptions for
+Admission will likely cost around $100, but we will provide exceptions for
 attendants who are not able to afford the entrance fee.
