@@ -4,7 +4,7 @@ title: Submit Talk
 
 ## Submit a talk
 
-The PromCon Call for Papers (CFP) is open for talk submissions until May 30,
+The PromCon Call for Papers (CfP) is open for talk submissions until May 30,
 2017, and we encourage you to submit a talk!
 
 <a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSeaCvOQ7yUatgnhY_cZo2UR9rZywml4Gt0xQDlv1srJ8k4fxw/viewform" target="_blank" role="button">
