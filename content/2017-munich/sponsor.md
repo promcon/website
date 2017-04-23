@@ -28,22 +28,22 @@ prices and benefits:
       <th></th>
       <th class="diamond">
         Diamond<br>
-        €10,000<br><br>
+        $10,000<br><br>
         Limit: 5
       </th>
       <th class="platinum">
         Platinum<br>
-        €6,000<br><br>
+        $6,000<br><br>
         Limit: 5
       </th>
       <th class="gold">
         Gold<br>
-        €3,000<br><br>
+        $3,000<br><br>
         Unlimited
       </th>
       <th class="silver">
         Silver<br>
-        €1,000<br><br>
+        $1,000<br><br>
         Unlimited
       </th>
     </tr>
@@ -141,22 +141,22 @@ We also have some **special sponsorship levels** to support specific causes:
       <th></th>
       <th class="platinum">
         Social (evening event)<br>
-        €5,000<br><br>
+        $5,000<br><br>
         Limit: 1
       </th>
       <th class="gold">
         Venue food, day 1<br>
-        €3,000<br><br>
+        $3,000<br><br>
         Limit: 1
       </th>
       <th class="gold">
         Venue food, day 2<br>
-        €3,000<br><br>
+        $3,000<br><br>
         Limit: 1
       </th>
       <th class="gold">
         Diversity<br>
-        €3,000<br><br>
+        $3,000<br><br>
         Limit: 3
       </th>
     </tr>
