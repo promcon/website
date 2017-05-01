@@ -27,8 +27,9 @@ prices and benefits:
     <tr>
       <th></th>
       <th class="diamond">
-        Diamond<br>
-        €10,000<br><br>
+        <strike>Diamond</strike><br>
+        €10,000<br>
+        SOLD&nbsp;OUT<br>
         Limit: 5
       </th>
       <th class="platinum">
