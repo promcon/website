@@ -38,6 +38,7 @@ def conferences
        '/2017-munich/' => 'Overview',
        '/2017-munich/register/' => 'Register',
        '/2017-munich/submit/' => 'Call for Papers',
+       '/2017-munich/diversity/' => 'Diversity',
        '/2017-munich/sponsor/' => 'Sponsor',
        '/coc/' => 'Code of Conduct',
       },
