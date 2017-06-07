@@ -23,6 +23,24 @@ You can learn more about the last PromCon in our
 
 We are looking forward to seeing you at PromCon 2017!
 
+## Our sponsors
+
+A big thank you to all of our sponsors who are helping make PromCon 2017 happen!
+
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="http://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
+  <a href="https://www.weave.works/"><img src="/assets/weave_logo.png" class="logo"/></a>
+  <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
+</div>
+
+<hr>
+
+<h3>Venue</h3>
+<div class="sponsor-logos">
+  <a href="https://google.com/"><img src="/assets/google_cloud_platform_logo.png" class="logo"/></a>
+</div>
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer
