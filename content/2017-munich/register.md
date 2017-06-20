@@ -4,12 +4,11 @@ title: Register
 
 ## Register to attend
 
-Attendee registration will open soon — fill out the form linked below to get
-notified when the registration opens:
+Attendee registration is now open. We will offer tickets in batches; the first batch consisting of 100 tickets.
 
-<a class="btn btn-lg btn-default" href="https://docs.google.com/forms/d/e/1FAIpQLSdHgHLCFGLZFsaDk90w5_IrBtMsJ1oNfnQ8zDz_sSWZzq6DIw/viewform" target="_blank" role="button">
-  <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Register
+<a class="btn btn-lg btn-default" href="
+ https://www.regonline.com/PromCon2017" target="_blank" role="button">
+  <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Buy ticket
 </a>
 
-Admission will likely cost around 100€, but we will provide exceptions for
-attendants who are not able to afford the entrance fee.
+Admission is 80€; if you need help covering attendance, travel, or accomodation costs, look [here](https://promcon.io/2017-munich/diversity/).
