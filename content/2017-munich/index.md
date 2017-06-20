@@ -32,6 +32,8 @@ A big thank you to all of our sponsors who are helping make PromCon 2017 happen!
   <a href="http://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
   <a href="https://www.weave.works/"><img src="/assets/weave_logo.png" class="logo"/></a>
   <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
+  <a href="https://www.influxdata.com/"><img src="/assets/influxdata_logo.svg" class="logo"/></a>
+  <a href="https://gitlab.com/"><img src="/assets/gitlab_logo.svg" class="logo narrow"/></a>
 </div>
 
 <hr>
@@ -39,6 +41,17 @@ A big thank you to all of our sponsors who are helping make PromCon 2017 happen!
 <h3>Venue</h3>
 <div class="sponsor-logos">
   <a href="https://google.com/"><img src="/assets/google_cloud_platform_logo.png" class="logo"/></a>
+</div>
+
+<h3>Gold</h3>
+<div class="sponsor-logos">
+  <a href="https://soundcloud.com/"><img src="/assets/soundcloud_logo.png" class="logo narrow"/></a>
+</div>
+
+<h3>Silver</h3>
+<div class="sponsor-logos">
+  <a href="https://www.justwatch.com/"><img src="/assets/justwatch_logo.png" class="logo"/></a>
+  <a href="https://www.percona.com/"><img src="/assets/percona_logo.png" class="logo"/></a>
 </div>
 
 ## Contact
