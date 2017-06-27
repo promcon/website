@@ -46,6 +46,7 @@ A big thank you to all of our sponsors who are helping make PromCon 2017 happen!
 <h3>Gold</h3>
 <div class="sponsor-logos">
   <a href="https://soundcloud.com/"><img src="/assets/soundcloud_logo.png" class="logo narrow"/></a>
+  <a href="https://www.consol.de/"><img src="/assets/consol_logo.jpg" class="logo"/></a>
 </div>
 
 <h3>Silver</h3>
