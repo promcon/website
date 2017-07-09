@@ -17,4 +17,4 @@ This talk will cover:
 - Triaging alerts into a ticket system
 - Analysing past alert data for continuous improvement
 - The pain points we endured
-- How to effect change across all engineering teams
+- Effecting change across engineering teams

@@ -293,8 +293,6 @@ title: Schedule
     </td>
     <td>
       <a href="/2017-munich/speakers/laurie-clark-michalek">Laurie Clark-Michalek</a>
-      <br>
-      <b>Qubit</b>
     </td>
   </tr>
   <tr class="break">
