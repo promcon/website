@@ -38,7 +38,6 @@ def conferences
        '/2017-munich/' => 'Overview',
        '/2017-munich/register/' => 'Register',
        '/2017-munich/schedule/' => 'Schedule',
-       '/2017-munich/sponsor/' => 'Sponsor',
        '/coc/' => 'Code of Conduct',
       },
       Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
