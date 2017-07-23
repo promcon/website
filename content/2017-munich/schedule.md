@@ -316,14 +316,14 @@ title: Schedule
   <tr class="talk">
     <td>14:30</td>
     <td>
-      <a href="/2017-munich/talks/outgrowing-prometheus-1-x">
-        Outgrowing Prometheus 1.x
+      <a href="/2017-munich/talks/improving-user-and-developer-experience-of-alertmanager-ui">
+        Improving User and Developer Experience of Alertmanager UI
       </a>
     </td>
     <td>
-      <a href="/2017-munich/speakers/michal-witkowski">Michal Witkowski</a>
+      <a href="/2017-munich/speakers/max-inden">Max Inden</a>
       <br>
-      <b>Improbable</b>
+      <b>CoreOS</b>
     </td>
   </tr>
   <tr class="break">
