@@ -316,8 +316,8 @@ title: Schedule
   <tr class="talk">
     <td>14:30</td>
     <td>
-      <a href="/2017-munich/talks/improving-user-and-developer-experience-of-alertmanager-ui">
-        Improving User and Developer Experience of Alertmanager UI
+      <a href="/2017-munich/talks/improving-user-and-developer-experience-of-the-alertmanager-ui">
+        Improving User and Developer Experience of the Alertmanager UI
       </a>
     </td>
     <td>
