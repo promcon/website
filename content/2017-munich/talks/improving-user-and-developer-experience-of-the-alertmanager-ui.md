@@ -2,7 +2,7 @@
 title: Improving User and Developer Experience of Alertmanager UI
 ---
 
-## Improving User and Developer Experience of Alertmanager UI
+## Improving User and Developer Experience of the Alertmanager UI
 
 Speaker: [Max Inden](/2017-munich/speakers/max-inden/)
 
