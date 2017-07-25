@@ -33,7 +33,7 @@ A big thank you to all of our sponsors who are helping make PromCon 2017 happen!
   <a href="https://www.weave.works/"><img src="/assets/weave_logo.png" class="logo"/></a>
   <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
   <a href="https://www.influxdata.com/"><img src="/assets/influxdata_logo.svg" class="logo"/></a>
-  <a href="https://gitlab.com/"><img src="/assets/gitlab_logo.svg" class="logo narrow"/></a>
+  <a href="https://about.gitlab.com/"><img src="/assets/gitlab_logo.svg" class="logo narrow"/></a>
 </div>
 
 <hr>
