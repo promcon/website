@@ -9,12 +9,12 @@ title: Schedule
     <th colspan="3">Day 1 - Thursday, August 17</th>
   </tr>
   <tr class="break">
-    <td>8:30</td>
+    <td>8:15</td>
     <td>Breakfast and Registration</td>
     <td></td>
   </tr>
   <tr class="talk">
-    <td>9:30</td>
+    <td>9:15</td>
     <td>
       <a href="/2017-munich/talks/welcome-and-introduction">
         Welcome and Introduction
@@ -27,7 +27,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>9:45</td>
+    <td>9:30</td>
     <td>
       <a href="/2017-munich/talks/monitoring-cloudflares-planet-scale-edge-network-with-prometheus">
         Monitoring Cloudflare's Planet-Scale Edge Network with Prometheus
@@ -40,7 +40,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>10:15</td>
+    <td>10:00</td>
     <td>
       <a href="/2017-munich/talks/start-your-engines-white-box-monitoring-for-load-tests">
         Start Your Engines: White Box Monitoring for Your Load Tests
@@ -52,13 +52,8 @@ title: Schedule
       <b>msg systems ag</b>
     </td>
   </tr>
-  <tr class="break">
-    <td>10:45</td>
-    <td>Break</td>
-    <td></td>
-  </tr>
   <tr class="talk">
-    <td>11:00</td>
+    <td>10:30</td>
     <td>
       <a href="/2017-munich/talks/best-practices-and-beastly-pitfalls">
         Best Practices and Beastly Pitfalls
@@ -70,8 +65,13 @@ title: Schedule
       <b>Prometheus</b>
     </td>
   </tr>
+  <tr class="break">
+    <td>11:00</td>
+    <td>Break</td>
+    <td></td>
+  </tr>
   <tr class="talk">
-    <td>11:30</td>
+    <td>11:15</td>
     <td>
       <a href="/2017-munich/talks/prometheus-as-a-internal-service">
         Prometheus as a (Internal) Service
@@ -84,25 +84,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>12:00</td>
-    <td>
-      <a href="/2017-munich/talks/alertmanager-and-high-availability">
-        Alertmanager and High Availability
-      </a>
-    </td>
-    <td>
-      <a href="/2017-munich/speakers/frederic-branczyk">Frederic Branczyk</a>
-      <br>
-      <b>CoreOS</b>
-    </td>
-  </tr>
-  <tr class="break">
-    <td>12:30</td>
-    <td>Lunch</td>
-    <td></td>
-  </tr>
-  <tr class="talk">
-    <td>13:30</td>
+    <td>11:45</td>
     <td>
       <a href="/2017-munich/talks/grafana-and-prometheus">
         Grafana and Prometheus
@@ -114,21 +96,13 @@ title: Schedule
       <b>GrafanaLabs</b>
     </td>
   </tr>
-  <tr class="talk">
-    <td>14:00</td>
-    <td>
-      <a href="/2017-munich/talks/analyze-prometheus-metrics-like-a-data-scientist">
-        Analyze Prometheus Metrics like a Data Scientist
-      </a>
-    </td>
-    <td>
-      <a href="/2017-munich/speakers/georg-oettl">Georg Öttl</a>
-      <br>
-      <b></b>
-    </td>
+  <tr class="break">
+    <td>12:15</td>
+    <td>Break</td>
+    <td></td>
   </tr>
   <tr class="talk">
-    <td>14:30</td>
+    <td>12:30</td>
     <td>
       <a href="/2017-munich/talks/why-we-love-prometheus-even-though-i-hate-it">
         Why We Love Prometheus Even Though I Hate It
@@ -140,13 +114,39 @@ title: Schedule
       <b>AnchorFree</b>
     </td>
   </tr>
+  <tr class="talk">
+    <td>13:00</td>
+    <td>
+      <a href="/2017-munich/talks/analyze-prometheus-metrics-like-a-data-scientist">
+        Analyze Prometheus Metrics like a Data Scientist
+      </a>
+    </td>
+    <td>
+      <a href="/2017-munich/speakers/georg-oettl">Georg Öttl</a>
+      <br>
+      <b></b>
+    </td>
+  </tr>
   <tr class="break">
-    <td>15:00</td>
-    <td>Break</td>
+    <td>13:30</td>
+    <td>Lunch</td>
     <td></td>
   </tr>
   <tr class="talk">
-    <td>15:15</td>
+    <td>14:30</td>
+    <td>
+      <a href="/2017-munich/talks/alertmanager-and-high-availability">
+        Alertmanager and High Availability
+      </a>
+    </td>
+    <td>
+      <a href="/2017-munich/speakers/frederic-branczyk">Frederic Branczyk</a>
+      <br>
+      <b>CoreOS</b>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td>15:00</td>
     <td>
       <a href="/2017-munich/talks/play-with-prometheus">
         Play with Prometheus - Journey to Make “testing in Production” More Reliable
@@ -157,6 +157,11 @@ title: Schedule
       <br>
       <b>HBC Digital (Gilt.com banner)</b>
     </td>
+  </tr>
+  <tr class="break">
+    <td>15:30</td>
+    <td>Break</td>
+    <td></td>
   </tr>
   <tr class="talk">
     <td>15:45</td>
@@ -223,12 +228,12 @@ title: Schedule
     <th colspan="3">Day 2 - Friday, August 18</th>
   </tr>
   <tr class="break">
-    <td>8:45</td>
+    <td>8:30</td>
     <td>Breakfast</td>
     <td></td>
   </tr>
   <tr class="talk">
-    <td>9:45</td>
+    <td>9:30</td>
     <td>
       <a href="/2017-munich/talks/prometheus-everything-observing-kubernetes-in-the-cloud">
         Prometheus Everything, Observing Kubernetes in the Cloud
@@ -241,7 +246,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>10:15</td>
+    <td>10:00</td>
     <td>
       <a href="/2017-munich/talks/cortex-prometheus-as-a-service-one-year-on">
         Cortex: Prometheus as a Service, One Year On
@@ -253,13 +258,8 @@ title: Schedule
       <b></b>
     </td>
   </tr>
-  <tr class="break">
-    <td>10:45</td>
-    <td>Break</td>
-    <td></td>
-  </tr>
   <tr class="talk">
-    <td>11:00</td>
+    <td>10:30</td>
     <td>
       <a href="/2017-munich/talks/alert-on-all-the-things-integrating-quicksilver-with-prometheus">
         Alert on All the Things: Integrating Quicksilver with Prometheus
@@ -271,8 +271,13 @@ title: Schedule
       <b>Cloudflare</b>
     </td>
   </tr>
+  <tr class="break">
+    <td>11:00</td>
+    <td>Break</td>
+    <td></td>
+  </tr>
   <tr class="talk">
-    <td>11:30</td>
+    <td>11:15</td>
     <td>
       <a href="/2017-munich/talks/integrating-prometheus-and-influxdb">
         Integrating Prometheus and InfluxDB
@@ -285,7 +290,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>12:00</td>
+    <td>11:45</td>
     <td>
       <a href="/2017-munich/talks/a-worked-example-of-monitoring-a-queue-based-application">
         A Worked Example of Monitoring a Queue Based Application
@@ -296,12 +301,12 @@ title: Schedule
     </td>
   </tr>
   <tr class="break">
-    <td>12:30</td>
-    <td>Lunch</td>
+    <td>12:15</td>
+    <td>Break</td>
     <td></td>
   </tr>
   <tr class="talk">
-    <td>13:30</td>
+    <td>12:30</td>
     <td>
       <a href="/2017-munich/talks/storing-16-bytes-at-scale">
         Storing 16 Bytes at Scale
@@ -312,6 +317,11 @@ title: Schedule
       <br>
       <b>CoreOS</b>
     </td>
+  </tr>
+  <tr class="break">
+    <td>13:30</td>
+    <td>Lunch</td>
+    <td></td>
   </tr>
   <tr class="talk">
     <td>14:30</td>
@@ -326,13 +336,8 @@ title: Schedule
       <b>CoreOS</b>
     </td>
   </tr>
-  <tr class="break">
-    <td>15:00</td>
-    <td>Break</td>
-    <td><td>
-  </tr>
   <tr class="talk">
-    <td>15:15</td>
+    <td>15:00</td>
     <td>
       <a href="/2017-munich/talks/using-tsdb-as-a-library">
         Using TSDB as a library
@@ -343,6 +348,11 @@ title: Schedule
       <br>
       <b>CoreOS</b>
     </td>
+  </tr>
+  <tr class="break">
+    <td>15:30</td>
+    <td>Break</td>
+    <td><td>
   </tr>
   <tr class="talk">
     <td>15:45</td>
