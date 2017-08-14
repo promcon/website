@@ -352,7 +352,7 @@ title: Schedule
   <tr class="break">
     <td>15:30</td>
     <td>Break</td>
-    <td><td>
+    <td></td>
   </tr>
   <tr class="talk">
     <td>15:45</td>
