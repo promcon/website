@@ -213,7 +213,7 @@ title: Schedule
   <tr class="break">
     <td>18:30</td>
     <td>
-      Happy Hour (details to be announced)
+      Happy Hour at <a href="http://www.braeustuben.de/">Augustiner Bräustuben</a> (<a href="https://www.google.de/maps/place/Augustiner+Br%C3%A4ustuben/@48.1391151,11.5456626,15z/data=!4m5!3m4!1s0x0:0x1a2efa2cb8130a2a!8m2!3d48.1391151!4d11.5456626?sa=X&ved=0ahUKEwjkiKqalM3VAhWKmbQKHTYXBiAQ_BIIlgEwDg">map link</a>)
       <br>
       Until Late
     </td>
