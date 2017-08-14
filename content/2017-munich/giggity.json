@@ -1,0 +1,34 @@
+{
+    "version": 2017081200,
+    "url": "https://promcon.io/2017-munich/schedule.xml",
+    "title": "PromCon 2017",
+        "start": "2017-08-17",
+        "end": "2017-08-18",
+        "metadata": {
+            "icon": "https://prometheus.io/assets/prometheus_logo_grey.svg",
+            "links": [
+                {
+                    "url": "https://promcon.io/",
+                    "title": "Website"
+                },
+                {
+                    "url": "https://promcon.io/2017-munich/venue/",
+                    "title": "Venue info"
+                },
+                {
+                    "url": "http://confcodeofconduct.com/",
+                    "title": "Code of Conduct"
+                }
+            ],
+            "rooms": [
+                {
+                    "name": "Elsewhere",
+                    "latlon": [48.1429665, 11.5403331]
+                },
+                {
+                    "name": "Main Room",
+                    "latlon": [48.1429665, 11.5403331]
+                }
+            ]
+        }
+}
