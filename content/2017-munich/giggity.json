@@ -26,8 +26,12 @@
                     "latlon": [48.1429665, 11.5403331]
                 },
                 {
-                    "name": "Main Room",
+                    "name": "Main room",
                     "latlon": [48.1429665, 11.5403331]
+                },
+                {
+                    "name": "Augustiner Bräustuben",
+                    "latlon": [48.1391151, 11.5456626]
                 }
             ]
         }
