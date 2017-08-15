@@ -31,6 +31,14 @@ compile '/**/*.md' do
   filter :cache_buster, directory: '/assets/'
 end
 
+compile '/**/*.json' do
+  write item.identifier
+end
+
+compile '/**/*.xml' do
+  write item.identifier
+end
+
 route '/**/*.md' do
   if item.identifier =~ '/**/index.*'
     item.identifier.without_ext + '.html'

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <conference>
+    <title>PromCon 2017</title>
+    <start>2017-08-17</start>
+    <end>2017-08-18</end>
+    <days>2</days>
+    <day_change>00:00</day_change>
+    <timeslot_duration>00:15</timeslot_duration>
+  </conference>
+  <day date="2017-08-17" index="1">
+    <room name="Main room">
+      <event id="2">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>9:15</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Welcome and Introduction</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1001">Julius Volz</person>
+        </persons>
+        <description>
+          Julius opens the conference and gives an overview of the state of Prometheus.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/welcome-and-introduction</full_conf_url>
+        <conf_url>/2017-munich/talks/welcome-and-introduction</conf_url>
+      </event>
+      <event id="3">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>9:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Monitoring Cloudflare's Planet-Scale Edge Network with Prometheus</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1002">Matt Bostock</person>
+        </persons>
+        <description>
+          Cloudflare operates a global anycast edge network serving content for 6 million web sites. This talk explains how we monitor our network, how we migrated from Nagios to Prometheus and the architecture we chose to provide maximum reliability for monitoring. We'll also discuss the impact of alert fatigue and how we reduced alert noise by analysing data, making alerts more actionable and alerting on symptoms rather than causes.
+
+This talk will cover:
+
+- The challenges of monitoring a high volume, anycast, edge network across 100+ locations
+- The architecture we chose to maximise the reliability of our monitoring
+- Why Prometheus excels as the new industry standard for modern monitoring
+- Approaches for reducing alert noise and alert fatigue
+- Triaging alerts into a ticket system
+- Analysing past alert data for continuous improvement
+- The pain points we endured
+- Effecting change across engineering teams
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/monitoring-cloudflares-planet-scale-edge-network-with-prometheus</full_conf_url>
+        <conf_url>/2017-munich/talks/monitoring-cloudflares-planet-scale-edge-network-with-prometheus</conf_url>
+      </event>
+      <event id="4">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Start Your Engines: White Box Monitoring for Your Load Tests</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1003">Alexander Schwartz</person>
+        </persons>
+        <description>
+          You think monitoring is only for production? Wrong: Add a metrics endpoint to your application to get insights during your load tests - and use them for free to monitor production!
+
+This talk shows how to setup up the load testing tools JMeter and Gatling to push their metrics to Prometheus. It also makes the case to expose metrics as part of core application development instead of treating them as a small add-on before go-live.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/start-your-engines-white-box-monitoring-for-load-tests</full_conf_url>
+        <conf_url>/2017-munich/talks/start-your-engines-white-box-monitoring-for-load-tests</conf_url>
+      </event>
+      <event id="5">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Best Practices and Beastly Pitfalls</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1001">Julius Volz</person>
+        </persons>
+        <description>
+          Julius gives an overview over the most important best practices and most treacherous pitfalls when starting to use Prometheus.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/best-practices-and-beastly-pitfalls</full_conf_url>
+        <conf_url>/2017-munich/talks/best-practices-and-beastly-pitfalls</conf_url>
+      </event>
+      <event id="7">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>11:15</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Prometheus as a (Internal) Service</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1004">Paul Traylor</person>
+        </persons>
+        <description>
+          LINE is a large company with many different development teams. Momentum can be a powerful force within a company so it can take some time, training (including unlearning the old) and evangelizing to get a new system adopted. This talk will give a brief summary of our development team’s monitoring environment (Prometheus, Grafana, Promgen) before going into educating developers on Prometheus adoption and some of the struggles and lessons learned from providing Prometheus as an internal service.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/prometheus-as-a-internal-service</full_conf_url>
+        <conf_url>/2017-munich/talks/prometheus-as-a-internal-service</conf_url>
+      </event>
+      <event id="8">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>11:45</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Grafana and Prometheus</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1005">Carl Bergquist</person>
+        </persons>
+        <description>
+          Being the default dashboard for Prometheus I guess most of you already tried Grafana and created some graphs. But have you tried the table and heat map panels? Did you know that Grafana also offers multiple plugins to visualize and show your Prometheus data? What other tricks and optimizations are there?
+
+We will also look at the major changes in Grafana since last PromCon and what we currently work on.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/grafana-and-prometheus</full_conf_url>
+        <conf_url>/2017-munich/talks/grafana-and-prometheus</conf_url>
+      </event>
+      <event id="10">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Why We Love Prometheus Even Though I Hate It</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1006">Yaroslav Molochko</person>
+        </persons>
+        <description>
+          At Anchorfree we had about 10 monitoring systems of different types. It was difficult to manage, we had 0 observability, as it was impossible to see whole picture. We decided to go with Prometheus full speed, migrated all the major and minor systems to it. This was not easy move, as we faced with a bunch of problems, fundamental misunderstandings, and resistance.
+
+In this talk I would like to highlight the problems we faced, how we solved it. Answer why we still hate Prometheus and why we love it with all our hearts at the same time.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/why-we-love-prometheus-even-though-i-hate-it</full_conf_url>
+        <conf_url>/2017-munich/talks/why-we-love-prometheus-even-though-i-hate-it</conf_url>
+      </event>
+      <event id="11">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Analyze Prometheus Metrics like a Data Scientist</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1007">Georg Öttl</person>
+        </persons>
+        <description>
+          Gathering software metrics with Prometheus is great and easy. However, at some point there are too many timeseries to craft handwritten rule based alert systems. In this talk I will show how to export data from the Prometheus HTTP API, show how and what to analyze with open-source tools like R, Python SciPi and describe why DevOps and Whitebox Monitoring fits so great here. As an outlook I will show how to integrate/export timeseries to machine learning services.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/analyze-prometheus-metrics-like-a-data-scientist</full_conf_url>
+        <conf_url>/2017-munich/talks/analyze-prometheus-metrics-like-a-data-scientist</conf_url>
+      </event>
+      <event id="13">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Alertmanager and High Availability</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1008">Frederic Branczyk</person>
+        </persons>
+        <description>
+          The Alertmanager is a highly critical component in the monitoring pipeline.  Operators must trust it to be a reliable component. Thus in the 0.5 release of the Alertmanager a high availability mode has been implemented. This talk will go over some implementation details of the high availability mode as well as highlight what this means for operators using and running the Alertmanager.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/alertmanager-and-high-availability</full_conf_url>
+        <conf_url>/2017-munich/talks/alertmanager-and-high-availability</conf_url>
+      </event>
+      <event id="14">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Play with Prometheus - Journey to Make “testing in Production” More Reliable</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1009">Giovanni Gargiulo</person>
+        </persons>
+        <description>
+          Gilt is a high end fashion e-commerce that in the recent years has moved from a monolithic architecture to 150+ distributed microservices running on AWS.
+
+In Gilt we have to make sure our website runs smoothly and our customers are getting the best experience we can deliver. For this reason we have to keep an eye on our microservices and make sure they behave as expected.
+
+We’ve been looking for a long time to way to keep long lasting time series, we could aggregate, query, visualize and use for alerting. After a lot of trial and error, we ended up finding the right pieces of the puzzle: Prometheus, Alertmanager, Push Gateway, and Grafana.
+
+Our success story went viral in Gilt, and very recently Prometheus and Grafana have been added to the Gilt (and HBC!) techradar. A few teams have already lined up to adopt our Prometheus Stack in production and eventually we will implement a hierarchical Prometheus federation alongside meta-monitoring.
+
+I would like to share with you our journey, what worked well, the problems we faced, and how we fixed them.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/play-with-prometheus</full_conf_url>
+        <conf_url>/2017-munich/talks/play-with-prometheus</conf_url>
+      </event>
+      <event id="16">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>15:45</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>The Uninstrumentable; Getting Apache Spark and Prometheus to Play Nicely</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1010">Dan Rathbone</person>
+          <person id="1011">Joe Stringer</person>
+        </persons>
+        <description>
+          Instrumenting your code with Prometheus is simple and easy. Or so we thought until we tried to instrument our Python application running under Apache Spark… The distributed nature of Spark presents some interesting challenges when it comes to instrumenting your code effectively, for example a lack of global state, transient processes and no control over the execution profile.
+
+We’ll talk about our myriad failed attempts at instrumenting under Spark and our journey to finally getting something working effectively, without DOSing Prometheus with millions of time series! :)
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/the-uninstrumentable-getting-apache-spark-and-prometheus-to-play-nicely</full_conf_url>
+        <conf_url>/2017-munich/talks/the-uninstrumentable-getting-apache-spark-and-prometheus-to-play-nicely</conf_url>
+      </event>
+      <event id="17">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>16:15</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Social Aspects of Change (or How We Stopped Worrying and Learned to Love Prometheus)</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1012">Richard Hartmann</person>
+        </persons>
+        <description>
+          Companies are (still) run by people they need to accept the technology driving the company's business. Introducing the best of technologies will lead to nowhere unless this change is accepted at all levels of the organization. This talk will cover lessons learned when introducing Prometheus into a long-established company with many organically-grown and thus highly-fragmented systems.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/social-aspects-of-change</full_conf_url>
+        <conf_url>/2017-munich/talks/social-aspects-of-change</conf_url>
+      </event>
+      <event id="19">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Lightning Talks</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description>
+          Lightning talks are 5 minutes each.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/lightning-talks-day1</full_conf_url>
+        <conf_url>/2017-munich/talks/lightning-talks-day1</conf_url>
+      </event>
+    </room>
+    <room name="Elsewhere">
+      <event id="1">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>8:15</start>
+        <duration>01:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Breakfast and Registration</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="6">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>11:00</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="9">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>12:15</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="12">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Lunch</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="15">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>15:30</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="18">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>16:45</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="20">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>18:00</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="21">
+        <date>2017-08-17:00:00+00:00</date>
+        <start>18:30</start>
+        <duration>04:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Happy Hour at Augustiner Bräustuben</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description>
+            Happy Hour at &lt;a
+            href=&quot;http://www.braeustuben.de/&quot;&gt;Augustiner
+            Bräustuben&lt;/a&gt; (&lt;a
+            href=&quot;https://www.google.de/maps/place/Augustiner+Br%C3%A4ustuben/@48.1391151,11.5456626,15z/data=!4m5!3m4!1s0x0:0x1a2efa2cb8130a2a!8m2!3d48.1391151!4d11.5456626?sa=X&amp;ved=0ahUKEwjkiKqalM3VAhWKmbQKHTYXBiAQ_BIIlgEwDg&quot;
+            &gt;map link&lt;/a&gt;)
+        </description>
+      </event>
+    </room>
+  </day>
+  <day date="2017-08-18" index="2">
+    <room name="Main room">
+      <event id="23">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>9:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Prometheus Everything, Observing Kubernetes in the Cloud</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1013">Sneha Inguva</person>
+        </persons>
+        <description>
+          As the industry moves towards a microservices architecture, many companies are embracing container orchestration solutions. DigitalOcean is no different. Over the course of the last year, DigitalOcean’s move towards a container orchestration solution based on Kubernetes has empowered service owners to quickly and efficiently deploy and update their applications. A vital component of this, however, is a white box monitoring and alerting solution based upon Prometheus and Alertmanager.
+
+In this talk, you will hear of DigitalOcean’s in-cluster setup of Prometheus and Alertmanager that allows service owners to instrument their their own metrics and alerts. Listeners will hear about the architecture from both the service owner’s point of view as well as the internals that allow for the dynamic addition of alerts. I will highlight the successes of this approach - ease of use and avoiding alerting fatigue - as well as potential pitfalls and gotchas. And lastly, I will end with a discussion of future modifications.
+
+Individuals looking to similarly leverage Prometheus and Alertmanager to monitor their own container orchestration platforms will be able to learn from our experiences at DigitalOcean and subsequently apply key lessons learned to their own alerting use cases.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/prometheus-everything-observing-kubernetes-in-the-cloud</full_conf_url>
+        <conf_url>/2017-munich/talks/prometheus-everything-observing-kubernetes-in-the-cloud</conf_url>
+      </event>
+      <event id="24">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Cortex: Prometheus as a Service, One Year On</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1014">Tom Wilkie</person>
+        </persons>
+        <description>
+          At PromCon 2016, I presented &quot;Project Frankenstein: A multitenant, horizontally scalable Prometheus as a service&quot;. It's now one year later, and lots has changed - not least the name!  This talk will discuss what we've learnt running a Prometheus service for the past year, the architectural changes we made from the original design, and the improvements we've made to the Cortex user experience.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/cortex-prometheus-as-a-service-one-year-on</full_conf_url>
+        <conf_url>/2017-munich/talks/cortex-prometheus-as-a-service-one-year-on</conf_url>
+      </event>
+      <event id="25">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Alert on All the Things: Integrating Quicksilver with Prometheus</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1015">Lorenz Bauer</person>
+        </persons>
+        <description>
+          Cloudflare provides its services from 115 data centres in 57 countries. One of the most critical systems is a key-value store that replicates configuration data to every single machine, which we recently rewrote from scratch. As developers we were early adopters of Prometheus at Cloudflare, and this talk will explain how we set up Grafana dashboards for monitoring and Alertmanager for alerting, giving us unprecedented insight. It’ll also cover the gotchas we encountered. Like that one time when we triggered 7000 alerts at once.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/alert-on-all-the-things-integrating-quicksilver-with-prometheus</full_conf_url>
+        <conf_url>/2017-munich/talks/alert-on-all-the-things-integrating-quicksilver-with-prometheus</conf_url>
+      </event>
+      <event id="27">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>11:15</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Integrating Prometheus and InfluxDB</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1016">Paul Dix</person>
+        </persons>
+        <description>
+          This talk will look at the different integrations between InfluxDB and Prometheus. We'll dive into using InfluxDB for remote long term storage. Other examples will show how to use Kapacitor to scrape Prometheus metrics targets to pull data into InfluxDB and transform it on the fly to different schemas. Finally, we'll take a look at the upcoming enhancements to the Influx Query Language and possible implementation of PromQL within Influx itself for better long term integration of the two projects.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/integrating-prometheus-and-influxdb</full_conf_url>
+        <conf_url>/2017-munich/talks/integrating-prometheus-and-influxdb</conf_url>
+      </event>
+      <event id="28">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>11:45</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>A Worked Example of Monitoring a Queue Based Application</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1017">Laurie Clark-Michalek</person>
+        </persons>
+        <description>
+          There has been a lot of work around educating people about how to instrument their applications, and how to set up your Prometheus installation to do tons of interesting things. This talk aims to address questions around which metrics provide the most value, and why. We will go through an example of instrumenting a service in production at Qubit, and explain the rationale behind the metrics we use for alerting and dashboarding. The aim is to give viewers a concrete example of how to monitor something, and highlight the logic behind the decisions made, be they specific to this service, or generalisable to almost anything.
+
+Viewers should come away with the ability to implement meaningful instrumentation on their services, and a basic understanding around the answer to the questions ‘what makes a good metric’, ‘what makes a good dashboard’ and ‘what makes a good alert’. My aim is that the services that viewers write will wake people up needlessly less often, and when they wake people up, the service’s dashboards will be a boon to the responder, and not a false friend.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/a-worked-example-of-monitoring-a-queue-based-application</full_conf_url>
+        <conf_url>/2017-munich/talks/a-worked-example-of-monitoring-a-queue-based-application</conf_url>
+      </event>
+      <event id="30">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>12:30</start>
+        <duration>01:00</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Storing 16 Bytes at Scale</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1018">Fabian Reinartz</person>
+        </persons>
+        <description>
+          From the beginning, Prometheus was built as a monitoring system with Cloud Native environments in mind. Orchestration systems such as Kubernetes are rapidly gaining traction and unlock features of highly dynamic environments, such as frequent rolling updates and auto-scaling, for everyone. This inevitably puts new strains on Prometheus as well.
+
+In this talk we explore what these challenges are and how we are addressing them by building a new storage layer from the ground up. The new design provides efficient indexing techniques that gracefully handle high turnover rates of monitoring targets and provide consistent query performance. At the same time, it significantly reduces resource requirements and paves the way for advanced features like hot backups and dynamic retention policies.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/storing-16-bytes-at-scale</full_conf_url>
+        <conf_url>/2017-munich/talks/storing-16-bytes-at-scale</conf_url>
+      </event>
+      <event id="32">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Improving User and Developer Experience of the Alertmanager UI</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1019">Max Inden</person>
+        </persons>
+        <description>
+          Alertmanager deduplicates, groups, and routes alerts from Prometheus to all
+kinds of paging services. With it comes a dated UI which does not live up to
+the expectations of the users, nor does it attract new contributors.
+ 
+From this talk, you will learn how we addressed these issues when building the
+new UI from scratch. We made it friendlier to users by removing unnecessary
+domain language noise. In addition we added new power features such as
+filtering and grouping. As a result, it is now much easier to navigate through
+thousands of alerts.
+ 
+We chose to build the new UI with Elm — a functional programming language for
+web interfaces. Elm enabled us to develop fast and with confidence by keeping a
+promise of zero runtime errors. It lowered the entry barrier for non-frontend
+developers and made the project appealing to newcomers.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/improving-user-and-developer-experience-of-the-alertmanager-ui</full_conf_url>
+        <conf_url>/2017-munich/talks/improving-user-and-developer-experience-of-the-alertmanager-ui</conf_url>
+      </event>
+      <event id="33">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Using TSDB as a library</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1020">Goutham Veeramachaneni</person>
+        </persons>
+        <description>
+          This talk will be an introductory talk about using the new datastore as a library. It will be based on this blog: https://geekon.tech/content/post/tsdb-embeddable-timeseries-database/ with clearer and more verbose examples and a simple REST based timeseries demo at the end.
+
+After this there will be a short demo of how Prometheus uses tsdb internally. (The layer is minimal, but it won't hurt to explicitly mention it for new contributors)
+
+People will leave with:
+
+* A clear understanding of how to use tsdb.
+* The fundamentals that are needed to start contributing to the tsdb &lt;--&gt; Prometheus layer.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/using-tsdb-as-a-library</full_conf_url>
+        <conf_url>/2017-munich/talks/using-tsdb-as-a-library</conf_url>
+      </event>
+      <event id="35">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>15:45</start>
+        <duration>01:00</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Staleness in Prometheus 2.0</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1021">Brian Brazil</person>
+        </persons>
+        <description>
+          The biggest semantic change in Prometheus 2.0 is the new staleness handling. This long awaited feature means there's no longer a fixed 5 minute staleness. Now time series go stale when they're no longer exposed, and targets that no longer exist don't hang around for a full 5 minutes. Learn about how it works and how to take advantage of it.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/staleness-in-prometheus-2-0</full_conf_url>
+        <conf_url>/2017-munich/talks/staleness-in-prometheus-2-0</conf_url>
+      </event>
+      <event id="37">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Lightning Talks</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description>
+          Lightning talks are 5 minutes each.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/lightning-talks-day2</full_conf_url>
+        <conf_url>/2017-munich/talks/lightning-talks-day2</conf_url>
+      </event>
+      <event id="38">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>18:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Closing</title>
+        <type>talk</type>
+        <abstract/>
+        <released>True</released>
+        <persons>
+          <person id="1001">Julius Volz</person>
+        </persons>
+        <description>
+          Julius will close the conference with a few parting words.
+        </description>
+        <full_conf_url>https://promcon.io/2017-munich/2017-munich/talks/closing</full_conf_url>
+        <conf_url>/2017-munich/talks/closing</conf_url>
+      </event>
+    </room>
+    <room name="Elsewhere">
+      <event id="22">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>8:30</start>
+        <duration>01:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Breakfast</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="26">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>11:00</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="29">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>12:15</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="31">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Lunch</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="34">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>15:30</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+      <event id="36">
+        <date>2017-08-18:00:00+00:00</date>
+        <start>16:45</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>break</type>
+        <abstract/>
+        <released>True</released>
+        <persons/>
+        <description/>
+      </event>
+    </room>
+  </day>
+</schedule>
