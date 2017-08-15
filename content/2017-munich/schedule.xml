@@ -376,11 +376,13 @@ We’ll talk about our myriad failed attempts at instrumenting under Spark and o
         <persons/>
         <description/>
       </event>
+    </room>
+    <room name="Augustiner Bräustuben">
       <event id="21">
         <date>2017-08-17:00:00+00:00</date>
         <start>18:30</start>
         <duration>04:00</duration>
-        <room>Elsewhere</room>
+        <room>Augustiner Bräustuben</room>
         <abstract/>
         <title>Happy Hour at Augustiner Bräustuben</title>
         <type>break</type>
