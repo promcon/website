@@ -238,19 +238,6 @@ You can also access this schedule via the Giggity Android app. Click
   <tr class="talk">
     <td>9:30</td>
     <td>
-      <a href="/2017-munich/talks/prometheus-everything-observing-kubernetes-in-the-cloud">
-        Prometheus Everything, Observing Kubernetes in the Cloud
-      </a>
-    </td>
-    <td>
-      <a href="/2017-munich/speakers/sneha-inguva">Sneha Inguva</a>
-      <br>
-      <b>DigitalOcean</b>
-    </td>
-  </tr>
-  <tr class="talk">
-    <td>10:00</td>
-    <td>
       <a href="/2017-munich/talks/cortex-prometheus-as-a-service-one-year-on">
         Cortex: Prometheus as a Service, One Year On
       </a>
@@ -259,6 +246,19 @@ You can also access this schedule via the Giggity Android app. Click
       <a href="/2017-munich/speakers/tom-wilkie">Tom Wilkie</a>
       <br>
       <b></b>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td>10:00</td>
+    <td>
+      <a href="/2017-munich/talks/prometheus-everything-observing-kubernetes-in-the-cloud">
+        Prometheus Everything, Observing Kubernetes in the Cloud
+      </a>
+    </td>
+    <td>
+      <a href="/2017-munich/speakers/sneha-inguva">Sneha Inguva</a>
+      <br>
+      <b>DigitalOcean</b>
     </td>
   </tr>
   <tr class="talk">
