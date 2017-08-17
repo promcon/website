@@ -403,7 +403,7 @@ We’ll talk about our myriad failed attempts at instrumenting under Spark and o
     <room name="Main room">
       <event id="23">
         <date>2017-08-18:00:00+00:00</date>
-        <start>9:30</start>
+        <start>10:00</start>
         <duration>00:30</duration>
         <room>Main room</room>
         <abstract/>
@@ -426,7 +426,7 @@ Individuals looking to similarly leverage Prometheus and Alertmanager to monitor
       </event>
       <event id="24">
         <date>2017-08-18:00:00+00:00</date>
-        <start>10:00</start>
+        <start>9:30</start>
         <duration>00:30</duration>
         <room>Main room</room>
         <abstract/>
