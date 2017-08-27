@@ -18,3 +18,5 @@ This talk will cover:
 - Analysing past alert data for continuous improvement
 - The pain points we endured
 - Effecting change across engineering teams
+
+[Slides](https://drive.google.com/file/d/0BzRE_fwreoDQcTF2WUtHRXp0ZzA/view)
