@@ -11,3 +11,5 @@ As the industry moves towards a microservices architecture, many companies are e
 In this talk, you will hear of DigitalOcean’s in-cluster setup of Prometheus and Alertmanager that allows service owners to instrument their their own metrics and alerts. Listeners will hear about the architecture from both the service owner’s point of view as well as the internals that allow for the dynamic addition of alerts. I will highlight the successes of this approach - ease of use and avoiding alerting fatigue - as well as potential pitfalls and gotchas. And lastly, I will end with a discussion of future modifications.
 
 Individuals looking to similarly leverage Prometheus and Alertmanager to monitor their own container orchestration platforms will be able to learn from our experiences at DigitalOcean and subsequently apply key lessons learned to their own alerting use cases.
+
+[Slides](https://www.slideshare.net/SnehaInguva/prometheus-everything-observing-kubernetes-in-the-cloud)
