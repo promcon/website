@@ -10,4 +10,4 @@ You think monitoring is only for production? Wrong: Add a metrics endpoint to yo
 
 This talk shows how to setup up the load testing tools JMeter and Gatling to push their metrics to Prometheus. It also makes the case to expose metrics as part of core application development instead of treating them as a small add-on before go-live.
 
-[Slides](https://speakerdeck.com/ahus1/start-your-engines-white-box-monitoring-for-your-load-tests)
+[Slides](/2017-munich/slides/start-your-engines-white-box-monitoring-for-load-tests.pdf)

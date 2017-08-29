@@ -5,6 +5,7 @@ passthrough '/README.md'
 passthrough '/assets/bootstrap-3.3.1/**/*'
 passthrough '/assets/favicons/**/*'
 passthrough '/assets/font-awesome-4.6.1/**/*'
+passthrough '/**/slides/*'
 
 compile '/assets/*' do
   unless item.binary?

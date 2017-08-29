@@ -12,4 +12,4 @@ Instrumenting your code with Prometheus is simple and easy. Or so we thought unt
 
 We’ll talk about our myriad failed attempts at instrumenting under Spark and our journey to finally getting something working effectively, without DOSing Prometheus with millions of time series! :)
 
-[Slides](https://docs.google.com/presentation/d/14sGORKHqYuTPhnJfW-Ofm3cRiEOGaz81uCqVkf8OEC4/edit)
+[Slides](/2017-munich/slides/the-uninstrumentable-getting-apache-spark-and-prometheus-to-play-nicely.pdf)

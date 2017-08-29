@@ -13,4 +13,4 @@ People will leave with:
 * A clear understanding of how to use tsdb.
 * The fundamentals that are needed to start contributing to the tsdb <--> Prometheus layer.
 
-[Slides](https://docs.google.com/presentation/d/1S0v5urzHGZYjIOqJ2mJcRZwLFtK_90b5JddYEXzKS4g/edit?usp=sharing)
+[Slides](/2017-munich/slides/using-tsdb-as-a-library.pdf)
