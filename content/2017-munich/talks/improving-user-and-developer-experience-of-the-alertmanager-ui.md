@@ -20,3 +20,5 @@ We chose to build the new UI with Elm — a functional programming language for
 web interfaces. Elm enabled us to develop fast and with confidence by keeping a
 promise of zero runtime errors. It lowered the entry barrier for non-frontend
 developers and made the project appealing to newcomers.
+
+[Slides](/2017-munich/slides/improving-user-and-developer-experience-of-the-alertmanager-ui.pdf)
