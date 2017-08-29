@@ -85,3 +85,5 @@ Speaker: [Goutham Veeramachaneni](/2017-munich/speakers/goutham-veeramachaneni/)
 ### #12 - Prometheus@Home
 
 Speaker: [Richard Hartmann](/2017-munich/speakers/richard-hartmann/)
+
+[Slides](/2017-munich/slides/lightning-talks-day2-12.pdf)
