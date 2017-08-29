@@ -10,4 +10,5 @@ There has been a lot of work around educating people about how to instrument the
 
 Viewers should come away with the ability to implement meaningful instrumentation on their services, and a basic understanding around the answer to the questions ‘what makes a good metric’, ‘what makes a good dashboard’ and ‘what makes a good alert’. My aim is that the services that viewers write will wake people up needlessly less often, and when they wake people up, the service’s dashboards will be a boon to the responder, and not a false friend.
 
-[Slides](https://talks.generictestdomain.net/2017-08-18/talk.slide)
+[Slides](https://talks.generictestdomain.net/2017-08-18/talk.slide) (external
+link)

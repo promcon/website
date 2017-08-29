@@ -16,4 +16,4 @@ Our success story went viral in Gilt, and very recently Prometheus and Grafana h
 
 I would like to share with you our journey, what worked well, the problems we faced, and how we fixed them.
 
-[Slides](https://docs.google.com/presentation/d/1Jw5RAnkE1vvg20wEc1Zb4cgp94poUm0Lt2LXS6D8kMM/edit#slide=id.p)
+[Slides](/2017-munich/slides/play-with-prometheus.pdf)

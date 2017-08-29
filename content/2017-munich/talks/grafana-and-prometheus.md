@@ -10,4 +10,4 @@ Being the default dashboard for Prometheus I guess most of you already tried Gra
 
 We will also look at the major changes in Grafana since last PromCon and what we currently work on.
 
-[Slides](https://docs.google.com/presentation/d/1NTYA6J7qZNhJlFEzaBOB-jVzVAGS8C5etJflAjXvVec/edit#slide=id.p)
+[Slides](/2017-munich/slides/grafana-and-prometheus.pdf)

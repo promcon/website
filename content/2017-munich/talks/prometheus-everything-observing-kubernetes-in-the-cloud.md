@@ -12,4 +12,4 @@ In this talk, you will hear of DigitalOcean’s in-cluster setup of Prometheus a
 
 Individuals looking to similarly leverage Prometheus and Alertmanager to monitor their own container orchestration platforms will be able to learn from our experiences at DigitalOcean and subsequently apply key lessons learned to their own alerting use cases.
 
-[Slides](https://www.slideshare.net/SnehaInguva/prometheus-everything-observing-kubernetes-in-the-cloud)
+[Slides](/2017-munich/slides/prometheus-everything-observing-kubernetes-in-the-cloud.pdf)
