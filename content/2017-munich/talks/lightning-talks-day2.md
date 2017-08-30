@@ -72,6 +72,8 @@ What's Missing in Kubernetes Monitoring with Prometheus
 
 Speaker: [Frederic Branczyk](/2017-munich/speakers/frederic-branczyk/)
 
+[Slides](/2017-munich/slides/lightning-talks-day2-10.pdf)
+
 ---
 
 ### #11 - Backing up Prometheus
