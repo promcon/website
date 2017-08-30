@@ -28,6 +28,8 @@ Speaker: Conor Broderick
 
 Speaker: Harm Weites
 
+[Slides](/2017-munich/slides/lightning-talks-day1-03.pdf)
+
 ---
 
 ### #4 - Experiences Monitoring Measurement Lab
