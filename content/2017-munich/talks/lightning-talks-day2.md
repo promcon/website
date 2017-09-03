@@ -13,6 +13,8 @@ Removing the Blindfold with Prometheus
 
 Speaker: Stephan Erb
 
+[Slides](/2017-munich/slides/lightning-talks-day2-01.pdf)
+
 ---
 
 ### #2 - Instrumenting Java Web Applications without Modifying their Source Code
