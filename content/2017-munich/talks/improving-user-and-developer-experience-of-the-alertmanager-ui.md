@@ -21,4 +21,7 @@ web interfaces. Elm enabled us to develop fast and with confidence by keeping a
 promise of zero runtime errors. It lowered the entry barrier for non-frontend
 developers and made the project appealing to newcomers.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TpifnbUGXD8" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/TpifnbUGXD8) -
 [Slides](/2017-munich/slides/improving-user-and-developer-experience-of-the-alertmanager-ui.pdf)

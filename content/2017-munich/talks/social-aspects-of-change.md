@@ -8,4 +8,7 @@ Speaker: [Richard Hartmann](/2017-munich/speakers/richard-hartmann/)
 
 Companies are (still) run by people they need to accept the technology driving the company's business. Introducing the best of technologies will lead to nowhere unless this change is accepted at all levels of the organization. This talk will cover lessons learned when introducing Prometheus into a long-established company with many organically-grown and thus highly-fragmented systems.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NDbLJkqsUWI" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/NDbLJkqsUWI) -
 [Slides](/2017-munich/slides/social-aspects-of-change.pdf)
