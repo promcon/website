@@ -4,28 +4,29 @@ title: Overview
 
 ## Overview
 
-PromCon 2017 will be the second conference around the Prometheus monitoring
-system. It will take place from August 17 - 18 at Google Munich and will be a
-single-track event with space for 200 attendants. All talks will be recorded and
-published after the event to create maximum exposure.
+PromCon 2017 was the second conference dedicated to the
+[Prometheus monitoring system](https://prometheus.io/). It took place from August
+17 - 18 at Google Munich as a single-track event with space for 220 attendants.
 
 PromCon aims to connect Prometheus users and developers from around the world in
 order to exchange knowledge, best practices, and experience gained around using
 Prometheus. We also want to collaborate to build a community and grow
 professional connections around systems and service monitoring.
 
-Get an impression of the previous [PromCon in 2016](/2016-berlin/):
+Get an impression of PromCon 2017:
 
-<%= youtube_player("Mbr61yGWQak") %>
+<%= youtube_player("4Pr-z8-r1eo") %>
 
-You can learn more about the last PromCon in our
-[2016 recap blog post](https://prometheus.io/blog/2016/09/04/promcon-2016-its-a-wrap/).
+You can learn more about the last PromCon event in our
+[2017 recap blog post](https://prometheus.io/blog/2017/09/04/promcon-2017-recap/).
 
-We are looking forward to seeing you at PromCon 2017!
+You can also find all talk recordings and slides linked from the talk descriptions in the [schedule](/2017-munich/schedule).
+
+We are looking forward to seeing you at PromCon 2018!
 
 ## Our sponsors
 
-A big thank you to all of our sponsors who are helping make PromCon 2017 happen!
+A big thank you to all of our sponsors who helped make PromCon 2017 happen!
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
@@ -60,4 +61,4 @@ A big thank you to all of our sponsors who are helping make PromCon 2017 happen!
 
 PromCon is organized by the [Prometheus developer
 community](https://prometheus.io/community/). For PromCon-related inquiries,
-please contact [Julius Volz](mailto:julius.volz@gmail.com).
+please contact the [PromCon team](mailto:promcon-organizers@googlegroups.com).
