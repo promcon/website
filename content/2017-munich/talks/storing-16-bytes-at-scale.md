@@ -12,4 +12,5 @@ In this talk we explore what these challenges are and how we are addressing them
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b_pEevMAC3I" frameborder="0" allowfullscreen></iframe>
 
-[Video link](https://youtu.be/b_pEevMAC3I)
+[Video link](https://youtu.be/b_pEevMAC3I) -
+[Slides](/2017-munich/slides/storing-16-bytes-at-scale.pdf)
