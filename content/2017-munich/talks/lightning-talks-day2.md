@@ -13,11 +13,20 @@ Removing the Blindfold with Prometheus
 
 Speaker: Stephan Erb
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-53todbei6c" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/-53todbei6c) -
+[Slides](/2017-munich/slides/lightning-talks-day2-01.pdf)
+
 ---
 
 ### #2 - Instrumenting Java Web Applications without Modifying their Source Code
 
 Speaker: Fabian Stäber
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ImxglcUIHZU" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/ImxglcUIHZU)
 
 ---
 
@@ -25,11 +34,19 @@ Speaker: Fabian Stäber
 
 Speaker: Darragh Grealish
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/apra-hGVO1E" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/apra-hGVO1E)
+
 ---
 
 ### #4 - Monitoring MySQL Replication Delay with mysqld\_exporter & pt-heartbeat
 
 Speaker: Julien Pivotto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zsdLycH6c2o" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/zsdLycH6c2o)
 
 ---
 
@@ -37,6 +54,9 @@ Speaker: Julien Pivotto
 
 Speaker: Martín Ferrari
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tMcN5nANZ4A" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/tMcN5nANZ4A) -
 [Slides](/2017-munich/slides/lightning-talks-day2-05.pdf)
 
 ---
@@ -45,12 +65,19 @@ Speaker: Martín Ferrari
 
 Speaker: Gaurav Kumar
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EpEbNTAYcX8" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/EpEbNTAYcX8)
+
 ---
 
 ### #7 - mouldy: Thermo-, Baro-, and Hygrometer with Prometheus
 
 Speaker: Nicolai von Neudeck
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mk9xWqML5mA" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/Mk9xWqML5mA) -
 [Slides](/2017-munich/slides/lightning-talks-day2-07.pdf)
 
 ---
@@ -59,11 +86,19 @@ Speaker: Nicolai von Neudeck
 
 Speaker: Chris Niemira
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YmcTPDAsX6w" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/YmcTPDAsX6w)
+
 ---
 
 ### #9 - Distributed Blackbox Monitoring
 
 Speaker: Johannes Ziemke
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EhBORyHQ98g" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/EhBORyHQ98g)
 
 ---
 
@@ -72,6 +107,9 @@ What's Missing in Kubernetes Monitoring with Prometheus
 
 Speaker: [Frederic Branczyk](/2017-munich/speakers/frederic-branczyk/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nUkHeY48mIQ" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/nUkHeY48mIQ) -
 [Slides](/2017-munich/slides/lightning-talks-day2-10.pdf)
 
 ---
@@ -80,6 +118,9 @@ Speaker: [Frederic Branczyk](/2017-munich/speakers/frederic-branczyk/)
 
 Speaker: [Goutham Veeramachaneni](/2017-munich/speakers/goutham-veeramachaneni/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15uc8oTMgPY" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/15uc8oTMgPY) -
 [Slides](/2017-munich/slides/lightning-talks-day2-11.pdf)
 
 ---
@@ -88,4 +129,7 @@ Speaker: [Goutham Veeramachaneni](/2017-munich/speakers/goutham-veeramachaneni/)
 
 Speaker: [Richard Hartmann](/2017-munich/speakers/richard-hartmann/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lRhovhWmnPk" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/lRhovhWmnPk) -
 [Slides](/2017-munich/slides/lightning-talks-day2-12.pdf)

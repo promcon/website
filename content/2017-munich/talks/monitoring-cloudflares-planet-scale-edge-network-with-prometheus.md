@@ -19,4 +19,7 @@ This talk will cover:
 - The pain points we endured
 - Effecting change across engineering teams
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ypWwvz5t_LE" frameborder="0" allowfullscreen></iframe>
+
+[Video link](https://youtu.be/ypWwvz5t_LE) -
 [Slides](/2017-munich/slides/monitoring-cloudflares-planet-scale-edge-network-with-prometheus.pdf)
