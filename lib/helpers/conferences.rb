@@ -36,7 +36,6 @@ def conferences
       '/2017-munich/',
       {
        '/2017-munich/' => 'Overview',
-       '/2017-munich/venue/' => 'Venue',
        '/2017-munich/schedule/' => 'Schedule',
        '/coc/' => 'Code of Conduct',
       },
