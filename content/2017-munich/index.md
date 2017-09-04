@@ -20,6 +20,8 @@ Get an impression of PromCon 2017:
 You can learn more about the last PromCon event in our
 [2017 recap blog post](https://prometheus.io/blog/2017/09/04/promcon-2017-recap/).
 
+You can also find all talk recordings and slides linked from the talk descriptions in the [schedule](/2017-munich/schedule).
+
 We are looking forward to seeing you at PromCon 2018!
 
 ## Our sponsors
