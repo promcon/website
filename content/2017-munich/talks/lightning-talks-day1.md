@@ -76,7 +76,7 @@ More info: [webpage](https://matthiasloibl.com/posts/prometheus-styx/)
 
 ---
 
-### #7 - Prometheus and OpenShift: Goes Together Like Peanut Butter and Jelly
+### #7 - Using Prometheus For Container Resource Consumption Estimates
 
 Speaker: Michael Hausenblas
 
