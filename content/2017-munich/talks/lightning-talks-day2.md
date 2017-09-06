@@ -13,7 +13,7 @@ Removing the Blindfold with Prometheus
 
 Speaker: Stephan Erb
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-53todbei6c" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("-53todbei6c") %>
 
 [Video link](https://youtu.be/-53todbei6c) -
 [Slides](/2017-munich/slides/lightning-talks-day2-01.pdf)
@@ -24,7 +24,7 @@ Speaker: Stephan Erb
 
 Speaker: Fabian Stäber
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ImxglcUIHZU" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("ImxglcUIHZU") %>
 
 [Video link](https://youtu.be/ImxglcUIHZU)
 
@@ -34,7 +34,7 @@ Speaker: Fabian Stäber
 
 Speaker: Darragh Grealish
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/apra-hGVO1E" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("apra-hGVO1E") %>
 
 [Video link](https://youtu.be/apra-hGVO1E)
 
@@ -44,7 +44,7 @@ Speaker: Darragh Grealish
 
 Speaker: Julien Pivotto
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zsdLycH6c2o" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("zsdLycH6c2o") %>
 
 [Video link](https://youtu.be/zsdLycH6c2o)
 
@@ -54,7 +54,7 @@ Speaker: Julien Pivotto
 
 Speaker: Martín Ferrari
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tMcN5nANZ4A" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("tMcN5nANZ4A") %>
 
 [Video link](https://youtu.be/tMcN5nANZ4A) -
 [Slides](/2017-munich/slides/lightning-talks-day2-05.pdf)
@@ -65,7 +65,7 @@ Speaker: Martín Ferrari
 
 Speaker: Gaurav Kumar
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EpEbNTAYcX8" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("EpEbNTAYcX8") %>
 
 [Video link](https://youtu.be/EpEbNTAYcX8)
 
@@ -75,7 +75,7 @@ Speaker: Gaurav Kumar
 
 Speaker: Nicolai von Neudeck
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mk9xWqML5mA" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("Mk9xWqML5mA") %>
 
 [Video link](https://youtu.be/Mk9xWqML5mA) -
 [Slides](/2017-munich/slides/lightning-talks-day2-07.pdf)
@@ -86,7 +86,7 @@ Speaker: Nicolai von Neudeck
 
 Speaker: Chris Niemira
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YmcTPDAsX6w" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("YmcTPDAsX6w") %>
 
 [Video link](https://youtu.be/YmcTPDAsX6w)
 
@@ -96,7 +96,7 @@ Speaker: Chris Niemira
 
 Speaker: Johannes Ziemke
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EhBORyHQ98g" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("EhBORyHQ98g") %>
 
 [Video link](https://youtu.be/EhBORyHQ98g)
 
@@ -107,7 +107,7 @@ What's Missing in Kubernetes Monitoring with Prometheus
 
 Speaker: [Frederic Branczyk](/2017-munich/speakers/frederic-branczyk/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nUkHeY48mIQ" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("nUkHeY48mIQ") %>
 
 [Video link](https://youtu.be/nUkHeY48mIQ) -
 [Slides](/2017-munich/slides/lightning-talks-day2-10.pdf)
@@ -118,7 +118,7 @@ Speaker: [Frederic Branczyk](/2017-munich/speakers/frederic-branczyk/)
 
 Speaker: [Goutham Veeramachaneni](/2017-munich/speakers/goutham-veeramachaneni/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15uc8oTMgPY" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("15uc8oTMgPY") %>
 
 [Video link](https://youtu.be/15uc8oTMgPY) -
 [Slides](/2017-munich/slides/lightning-talks-day2-11.pdf)
@@ -129,7 +129,7 @@ Speaker: [Goutham Veeramachaneni](/2017-munich/speakers/goutham-veeramachaneni/)
 
 Speaker: [Richard Hartmann](/2017-munich/speakers/richard-hartmann/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lRhovhWmnPk" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("lRhovhWmnPk") %>
 
 [Video link](https://youtu.be/lRhovhWmnPk) -
 [Slides](/2017-munich/slides/lightning-talks-day2-12.pdf)

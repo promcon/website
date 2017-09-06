@@ -12,7 +12,7 @@ Lightning talks are 5 minutes each.
 
 Speaker: [Tom Wilkie](/2017-munich/speakers/tom-wilkie/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4_wIpa5Mgn8" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("4_wIpa5Mgn8") %>
 
 [Video link](https://youtu.be/4_wIpa5Mgn8) -
 [Slides](/2017-munich/slides/lightning-talks-day1-01.pdf)
@@ -23,7 +23,7 @@ Speaker: [Tom Wilkie](/2017-munich/speakers/tom-wilkie/)
 
 Speaker: Conor Broderick
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FvowgJ4s09c" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("FvowgJ4s09c") %>
 
 [Video link](https://youtu.be/FvowgJ4s09c) -
 [Slides](/2017-munich/slides/lightning-talks-day1-02.pdf)
@@ -34,7 +34,7 @@ Speaker: Conor Broderick
 
 Speaker: Harm Weites
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eslqaf-tDzM" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("Eslqaf-tDzM") %>
 
 [Video link](https://youtu.be/Eslqaf-tDzM) -
 [Slides](/2017-munich/slides/lightning-talks-day1-03.pdf)
@@ -45,7 +45,7 @@ Speaker: Harm Weites
 
 Speaker: Stephen Soltesz
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJCrn5FV-TA" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("ZJCrn5FV-TA") %>
 
 [Video link](https://youtu.be/ZJCrn5FV-TA) -
 [Slides](https://goo.gl/UY7uXT) (external link)
@@ -56,7 +56,7 @@ Speaker: Stephen Soltesz
 
 Speaker: Roma Novikov, Alexey Palazhchenko
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TZu7M901eLE" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("TZu7M901eLE") %>
 
 [Video link](https://youtu.be/TZu7M901eLE)
 
@@ -67,7 +67,7 @@ Exporting Data from Prometheus, for Science!
 
 Speaker: Matthias Loibl
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ovJDD9UOxLc" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("ovJDD9UOxLc") %>
 
 [Video link](https://youtu.be/ovJDD9UOxLc) -
 [Slides](/2017-munich/slides/lightning-talks-day1-06.pdf)
@@ -80,7 +80,7 @@ More info: [webpage](https://matthiasloibl.com/posts/prometheus-styx/)
 
 Speaker: Michael Hausenblas
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RL7XLk-2-Zg" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("RL7XLk-2-Zg") %>
 
 [Video link](https://youtu.be/RL7XLk-2-Zg) -
 [Slides](/2017-munich/slides/lightning-talks-day1-07.pdf)
@@ -91,7 +91,7 @@ Speaker: Michael Hausenblas
 
 Speaker: Jonas Große Sundrup
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AWUytyzwPyE" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("AWUytyzwPyE") %>
 
 [Video link](https://youtu.be/AWUytyzwPyE) -
 [Slides](/2017-munich/slides/lightning-talks-day1-08.pdf)
@@ -102,7 +102,7 @@ Speaker: Jonas Große Sundrup
 
 Speaker: Deepak Kakadia
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/03x4Rc4hkXI" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("03x4Rc4hkXI") %>
 
 [Video link](https://youtu.be/03x4Rc4hkXI)
 
@@ -112,7 +112,7 @@ Speaker: Deepak Kakadia
 
 Speaker: [Brian Brazil](/2017-munich/speakers/brian-brazil/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dyDmNd3qg_Q" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("dyDmNd3qg_Q") %>
 
 [Video link](https://youtu.be/dyDmNd3qg_Q) -
 [Slides](/2017-munich/slides/lightning-talks-day1-10.pdf)

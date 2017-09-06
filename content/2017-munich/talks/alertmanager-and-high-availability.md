@@ -8,7 +8,7 @@ Speaker: [Frederic Branczyk](/2017-munich/speakers/frederic-branczyk/)
 
 The Alertmanager is a highly critical component in the monitoring pipeline.  Operators must trust it to be a reliable component. Thus in the 0.5 release of the Alertmanager a high availability mode has been implemented. This talk will go over some implementation details of the high availability mode as well as highlight what this means for operators using and running the Alertmanager.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i6Hmc0bKHAY" frameborder="0" allowfullscreen></iframe>
+<%= youtube_player("i6Hmc0bKHAY") %>
 
 [Video link](https://youtu.be/i6Hmc0bKHAY) -
 [Slides](/2017-munich/slides/alertmanager-and-high-availability.pdf)
