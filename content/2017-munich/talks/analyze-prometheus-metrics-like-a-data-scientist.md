@@ -10,4 +10,5 @@ Gathering software metrics with Prometheus is great and easy. However, at some p
 
 <%= youtube_player("aUOgPdaXOwQ") %>
 
-[Video link](https://youtu.be/aUOgPdaXOwQ)
+[Video link](https://youtu.be/aUOgPdaXOwQ) -
+[Slides](/2017-munich/slides/analyze-prometheus-metrics-like-a-data-scientist.pdf)
