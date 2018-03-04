@@ -41,6 +41,17 @@ def conferences
       },
       Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
     ),
+    Conference.new(
+      'PromCon 2018',
+      'The Prometheus conference — August 09 - 10 in Munich',
+      '/2018-munich/',
+      {
+       '/2018-munich/' => 'Overview',
+#       '/2018-munich/schedule/' => 'Schedule',
+       '/coc/' => 'Code of Conduct',
+      },
+      Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
+    ),
   ]
 end
 
