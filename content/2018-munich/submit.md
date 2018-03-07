@@ -27,4 +27,4 @@ company, please submit a proposal anyway and let us know in the "Additional note
 to the selection committee" field. We will then let you know what we can offer.
 
 **Diversity:** For diversity speakers, we will try extra hard to find a way to
-help with travel and/or accomdation. No promises made, though.
+help with travel and/or accommodation. No promises made, though.
