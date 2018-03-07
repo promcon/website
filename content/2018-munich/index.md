@@ -7,7 +7,7 @@ title: Overview
 PromCon 2018 is the third conference dedicated to the
 [Prometheus monitoring system](https://prometheus.io/). It will take place
 August 9 & 10 (Thu & Fri)
-at Google Munich as a single-track event with space for 220 attendants.
+at Google Munich as a single-track event with space for 220 attendees.
 
 PromCon aims to connect Prometheus users and developers from around the world in
 order to exchange knowledge, best practices, and experience gained around using
