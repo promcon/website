@@ -219,18 +219,16 @@ present you with potential hiring opportunities!** And of course, if your
 organisation is using Prometheus already, you will benefit directly from helping
 its community to grow and thrive.
 
-To give you an idea of the overall buzz in the Prometheus ecosystem, in March
-2017, we counted:
+To give you an idea of the overall buzz in the Prometheus ecosystem, in April
+2018, we counted:
 
 * 23,700+ total GitHub stars across our repositories
-* 550+ contributors
-* 3900+ pull requests (120+ open)
-* 2500+ issues (600+ open)
-* 400+ people in our IRC channel (#prometheus on FreeNode)
-* 700+ people on the mailing list who have created 1200+ threads
-* 150+ Prometheus-related talks and workshops
-* 300+ articles and blog posts
-* 100+ 3rd party integrations
+* 900+ contributors
+* 6100+ pull requests (180+ open)
+* 4000+ issues (750+ open)
+* 600+ people in our IRC channel (#prometheus on FreeNode)
+* 1500+ people on the mailing lists who have created 3400+ threads
+* 150+ 3rd party integrations
 
 There are several Fortune 500 companies using Prometheus, as well as some of the
 tech world’s most influential movers and shakers.
