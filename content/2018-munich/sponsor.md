@@ -118,8 +118,8 @@ prices and benefits:
       <td>
         Free attendee tickets
       </td>
-      <td class="benefit diamond">6</td>
-      <td class="benefit platinum">4</td>
+      <td class="benefit diamond">4</td>
+      <td class="benefit platinum">3</td>
       <td class="benefit gold">2</td>
       <td class="benefit silver">1</td>
     </tr>
