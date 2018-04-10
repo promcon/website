@@ -49,6 +49,7 @@ def conferences
        '/2018-munich/' => 'Overview',
        '/2018-munich/submit/' => 'Call for Papers',
 #       '/2018-munich/schedule/' => 'Schedule',
+       '/2018-munich/sponsor/' => 'Sponsor',
        '/coc/' => 'Code of Conduct',
       },
       Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
