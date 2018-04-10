@@ -226,7 +226,7 @@ To give you an idea of the overall buzz in the Prometheus ecosystem, in April
 * 900+ contributors
 * 6100+ pull requests (180+ open)
 * 4000+ issues (750+ open)
-* 600+ people in our IRC channel (#prometheus on FreeNode)
+* 600+ people in our IRC channel (#prometheus on freenode)
 * 1500+ people on the mailing lists who have created 3400+ threads
 * 150+ 3rd party integrations
 
