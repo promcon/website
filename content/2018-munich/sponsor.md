@@ -97,7 +97,8 @@ prices and benefits:
     </tr>
     <tr>
       <td>
-        Option for booth space (table-top display)
+        Option for booth space (table-top display).<br>
+        Limited space available, first come, first serve!
       </td>
       <td class="benefit diamond">✔</td>
       <td class="benefit platinum"></td>
