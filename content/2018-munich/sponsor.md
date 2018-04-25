@@ -206,6 +206,8 @@ We also have some **special sponsorship levels** to support specific causes:
 If you wish to take advantage of swag distribution, booth space, or free
 attendee tickets, please let us know in advance.
 
+You can also find this information in our [prospectus](/assets/PromCon_2018_Sponsorship_Prospectus.pdf).
+
 ## Why sponsor PromCon?
 
 Prometheus is a leading open-source monitoring system and time series database
