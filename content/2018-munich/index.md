@@ -18,10 +18,13 @@ Get an impression of last year's PromCon 2017:
 
 <%= youtube_player("4Pr-z8-r1eo") %>
 
+## Registration
+
+Registration is open.
+
 ## Sponsorship
 
-Sponsorship will open soon. Potential sponsors who pre-registered their interest
-will be contacted directly.
+Sponsorship is open.
 
 ## Contact
 
