@@ -10,4 +10,4 @@ Attendee registration is now open. We will offer tickets in batches; the first b
   <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Buy ticket
 </a>
 
-<!-- Admission is 80€; if you need help covering attendance, travel, or accomodation costs, look [here](https://promcon.io/2018-munich/diversity/). -->
+Admission is 80€; if you need help covering attendance, travel, or accomodation costs, please [let us know](mailto:promcon-organizers@googlegroups.com).
