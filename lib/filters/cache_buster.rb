@@ -29,7 +29,8 @@ module CacheBuster
 
     def regex(dir)
       dir += File::Separator unless dir.end_with?(File::Separator)
-      parts = [dir, "([a-z0-9\\-_.]+#{File::Separator})*", '[a-z0-9\-_.]+']
+      parts = [dir, "([^\"'#{File::Separator}]+#{File::Separator})*", "[^\"'#{File::Separator}]+"]
+      puts parts.join('')
       /#{parts.join('')}/
     end
 
