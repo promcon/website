@@ -10,4 +10,8 @@ Attendee registration is now open. We will offer tickets in batches; the first b
   <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Buy ticket
 </a>
 
-Admission is 80€; if you need help covering attendance, travel, or accomodation costs, please [let us know](mailto:promcon-organizers@googlegroups.com).
+Admission is 80€. We're able to help covering attendance, travel, or
+accomodation costs as part of our diversity program. Please [sign up here] if
+you need assistance.
+
+[sign up here]: https://docs.google.com/forms/d/e/1FAIpQLSeSZ_jhKo4ArVfjEeqCAmH2KK4TIiWxDyXAKfpO5HN2MzUALw/viewform
