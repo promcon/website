@@ -48,7 +48,6 @@ def conferences
       {
        '/2018-munich/' => 'Overview',
        '/2018-munich/register/' => 'Register',
-       '/2018-munich/submit/' => 'Call for Papers',
        '/2018-munich/diversity/' => 'Diversity',
 #       '/2018-munich/schedule/' => 'Schedule',
        '/2018-munich/sponsor/' => 'Sponsor',
