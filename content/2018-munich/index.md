@@ -18,13 +18,29 @@ Get an impression of last year's PromCon 2017:
 
 <%= youtube_player("4Pr-z8-r1eo") %>
 
-## Registration
+## Our sponsors
 
-Registration is open.
+A big thank you to all of our sponsors who helped make PromCon 2018 happen!
 
-## Sponsorship
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
+  <a href="https://www.influxdata.com/"><img src="/assets/influxdata_logo.svg" class="logo"/></a>
+  <a href="https://freshtracks.io/"><img src="/assets/freshtracks_logo.svg" class="logo narrow"/></a>
+  <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
+</div>
 
-Sponsorship is open.
+<hr>
+
+<h3>Venue</h3>
+<div class="sponsor-logos">
+  <a href="https://google.com/"><img src="/assets/google_cloud_platform_logo.png" class="logo"/></a>
+</div>
+
+<h3>Silver</h3>
+<div class="sponsor-logos">
+  <a href="https://origoss.com/"><img src="/assets/origoss_solutions_logo.svg" class="logo"/></a>
+</div>
 
 ## Contact
 
