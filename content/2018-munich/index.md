@@ -20,14 +20,14 @@ Get an impression of last year's PromCon 2017:
 
 ## Our sponsors
 
-A big thank you to all of our sponsors who helped make PromCon 2017 happen!
+A big thank you to all of our sponsors who helped make PromCon 2018 happen!
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
   <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
-  <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
   <a href="https://www.influxdata.com/"><img src="/assets/influxdata_logo.svg" class="logo"/></a>
   <a href="https://freshtracks.io/"><img src="/assets/freshtracks_logo.svg" class="logo narrow"/></a>
+  <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
 </div>
 
 <hr>
