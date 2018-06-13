@@ -34,7 +34,7 @@ A big thank you to all of our sponsors who helped make PromCon 2018 happen!
 
 <h3>Venue</h3>
 <div class="sponsor-logos">
-  <a href="https://google.com/"><img src="/assets/google_cloud_platform_logo.png" class="logo"/></a>
+  <a href="https://google.com/"><img src="/assets/google-cloud_logo.png" class="logo"/></a>
 </div>
 
 <hr>
