@@ -133,23 +133,23 @@ We also have some **special sponsorship levels** to support specific causes:
     <tr>
       <th></th>
       <th class="platinum">
-        Social (evening event)<br>
+        <del>Social (evening event)<br>
         $5,500<br><br>
-        Limit: 1
+        Limit: 1</del>
       </th>
       <th class="gold">
-        Venue food, day 1<br>
+        <del>Venue food, day 1<br>
         $3,000<br><br>
-        Limit: 1
+        Limit: 1</del>
       </th>
       <th class="gold">
-        Venue food, day 2<br>
+        <del>Venue food, day 2<br>
         $3,000<br><br>
-        Limit: 1
+        Limit: 1</del>
       </th>
       <th class="gold">
         Diversity<br>
-        $2,000<br><br>
+        $3,250<br><br>
         Unlimited
       </th>
     </tr>
