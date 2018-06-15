@@ -42,7 +42,7 @@ A big thank you to all of our sponsors who helped make PromCon 2018 happen!
 <h3>Social Event</h3>
 <div class="sponsor-logos">
   <a href="https://about.gitlab.com/?utm_medium=display&utm_source=event&utm_campaign=promcon"><img src="/assets/gitlab_stacked_logo.svg" class="logo narrower"/></a>
-  <a href="https://grafana.com/"><img src="/assets/grafana-logo.png" class="logo narrower"/></a>
+  <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
 </div>
 
 <hr>
