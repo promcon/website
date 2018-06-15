@@ -39,9 +39,10 @@ A big thank you to all of our sponsors who helped make PromCon 2018 happen!
 
 <hr>
 
-<h3>Social Event</h3>
+<h3>Venue Food & Social</h3>
 <div class="sponsor-logos">
   <a href="https://about.gitlab.com/?utm_medium=display&utm_source=event&utm_campaign=promcon"><img src="/assets/gitlab_stacked_logo.svg" class="logo narrower"/></a>
+  <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
 </div>
 
 <hr>
@@ -50,6 +51,14 @@ A big thank you to all of our sponsors who helped make PromCon 2018 happen!
 <div class="sponsor-logos">
   <a href="https://origoss.com/"><img src="/assets/origoss_solutions_logo.svg" class="logo"/></a>
 </div>
+
+<hr>
+
+<h3>Diversity</h3>
+<div class="sponsor-logos">
+  <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
+</div>
+
 
 ## Contact
 

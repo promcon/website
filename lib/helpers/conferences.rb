@@ -1,3 +1,6 @@
+#!/usr/bin/env ruby
+# encoding: utf-8
+
 Banner = Struct.new(:class, :author, :url)
 
 class Conference < Struct.new(:title, :subtitle, :path, :navigation, :banner)
