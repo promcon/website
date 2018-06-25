@@ -24,10 +24,11 @@ A big thank you to all of our sponsors who helped make PromCon 2018 happen!
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
-  <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
-  <a href="https://www.influxdata.com/"><img src="/assets/influxdata_logo.svg" class="logo"/></a>
-  <a href="https://freshtracks.io/"><img src="/assets/freshtracks_logo.svg" class="logo narrow"/></a>
   <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
+  <a href="https://freshtracks.io/"><img src="/assets/freshtracks_logo.svg" class="logo narrow"/></a>
+  <a href="https://www.influxdata.com/"><img src="/assets/influxdata_logo.svg" class="logo"/></a>
+  <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
+  <a href="https://sysdig.com/"><img src="/assets/sysdig_logo.png" class="logo narrower"/></a>
 </div>
 
 <hr>
