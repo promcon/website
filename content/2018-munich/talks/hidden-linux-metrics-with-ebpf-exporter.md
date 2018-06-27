@@ -1,8 +1,8 @@
 ---
-title: Hidden Linux Metrics with ebpf_exporter
+title: Hidden Linux Metrics with ebpf\_exporter
 ---
 
-## Hidden Linux Metrics with ebpf_exporter
+## Hidden Linux Metrics with ebpf\_exporter
 
 Speaker: [Ivan Babrou](/2018-munich/speakers/ivan-babrou/)
 
@@ -18,8 +18,8 @@ While there are plenty of readily available metrics for monitoring Linux kernel,
 
 Practically any event from “perf list“ output and any kernel function can be traced, analyzed and turned into a metric with almost arbitrary labels attached to it.
 
-If you are already familiar with BCC tools, you may think if ebpf_exporter as bcc tools turned into prometheus metrics.
+If you are already familiar with BCC tools, you may think if ebpf\_exporter as bcc tools turned into prometheus metrics.
 
 In this talk we’ll go over eBPF basics, how to write programs and get insights into a running system.
 
-https://github.com/cloudflare/ebpf_exporter
+https://github.com/cloudflare/ebpf\_exporter
