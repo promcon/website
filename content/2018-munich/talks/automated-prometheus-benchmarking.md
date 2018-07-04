@@ -4,8 +4,14 @@ title: Automated Prometheus Benchmarking - Pushing It to Its Limits until It Bre
 
 ## Automated Prometheus Benchmarking - Pushing It to Its Limits until It Breaks!
 
-Speaker: [Krasi Georgiev](/2018-munich/speakers/krasi-georgiev/)
+Speakers:
 
-I want to present the new automated benchmarking and scalability tests that we should have by the time of PromCon.
+* [Krasi Georgiev](/2018-munich/speakers/krasi-georgiev/)
+* [Harsh Agarwal](/2018-munich/speakers/harsh-agarwal/)
 
-I will document why we need them and the most interesting milestones of building the CI. Will briefly mention the decisions and directions that lead us to the final result.
+We will show you how we are trying to make Prometheus more stable by running automated benchmarking for risky PRs and before every release. 
+In other words, let's try to break it in our tests so it doesn't break in your production.
+
+We will cover why we decided to use [Prow](https://github.com/kubernetes/test-infra/tree/master/prow) and how it is integrated with GitHub.
+
+We will also cover the current progress, the project roadmap and of course do a short demo.
