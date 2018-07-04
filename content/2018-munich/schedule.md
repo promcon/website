@@ -354,6 +354,7 @@ title: Schedule
       <br>
       <a href="/2018-munich/speakers/harsh-agarwal/">Harsh Agarwal</a>
       <br>
+      <b>IIT Hyderabad</b>
     </td>
   </tr>
   <tr class="talk">
