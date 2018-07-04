@@ -351,6 +351,9 @@ title: Schedule
       <a href="/2018-munich/speakers/krasi-georgiev">Krasi Georgiev</a>
       <br>
       <b>Red Hat</b>
+      <br>
+      <a href="/2018-munich/speakers/harsh-agarwal/">Harsh Agarwal</a>
+      <br>
     </td>
   </tr>
   <tr class="talk">
