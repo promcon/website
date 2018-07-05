@@ -184,6 +184,10 @@ title: Schedule
       <br>
       <b>Google</b>
       <br>
+      <a href="/2018-munich/speakers/nikunj-aggarwal">Nikunj Aggarwal</a>
+      <br>
+      <b>InfluxData</b>
+      <br>
       <a href="/2018-munich/speakers/paul-dix">Paul Dix</a>
       <br>
       <b>InfluxData</b>
