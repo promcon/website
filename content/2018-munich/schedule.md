@@ -186,7 +186,7 @@ title: Schedule
       <br>
       <a href="/2018-munich/speakers/nikunj-aggarwal">Nikunj Aggarwal</a>
       <br>
-      <b>InfluxData</b>
+      <b>Uber</b>
       <br>
       <a href="/2018-munich/speakers/paul-dix">Paul Dix</a>
       <br>
