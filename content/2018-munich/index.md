@@ -29,6 +29,7 @@ A big thank you to all of our sponsors who helped make PromCon 2018 happen!
   <a href="https://www.influxdata.com/"><img src="/assets/influxdata_logo.svg" class="logo"/></a>
   <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
   <a href="https://sysdig.com/"><img src="/assets/sysdig_logo.png" class="logo narrower"/></a>
+  <a href="https://www.wavefront.com/"><img src="/assets/wavefront_logo.svg" class="logo"/></a>
 </div>
 
 <hr>
