@@ -136,15 +136,19 @@ body {
 img.logo {
   width: 250px;
   display: inline-block !important;
-  margin: 15px 55px 15px 55px;
+  margin: 25px 55px 25px 55px;
 }
 
 img.logo.narrow {
   width: 200px;
+  margin-left: 80px;
+  margin-right: 80px;
 }
 
 img.logo.narrower {
   width: 150px;
+  margin-left: 105px;
+  margin-right: 105px;
 }
 
 footer {
