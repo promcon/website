@@ -219,7 +219,7 @@ title: Schedule
   <tr class="break">
     <td>18:30</td>
     <td>
-      Happy Hour (location to be determined)
+      Social event @ Augustiner Bräustuben, Landsberger Straße 19
       <br>
       Until Late
     </td>
