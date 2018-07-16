@@ -67,3 +67,4 @@ A big thank you to all of our sponsors who helped make PromCon 2018 happen!
 PromCon is organized by the [Prometheus developer
 community](https://prometheus.io/community/). For PromCon-related inquiries,
 please contact the [PromCon team](mailto:promcon-organizers@googlegroups.com).
+This year's edition is lead by [Richard "RichiH" Hartmann](speakers/richard-hartmann/).
