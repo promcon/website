@@ -27,6 +27,7 @@ A big thank you to all of our sponsors who helped make PromCon 2018 happen!
   <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
   <a href="https://freshtracks.io/"><img src="/assets/freshtracks_logo.svg" class="logo narrow"/></a>
   <a href="https://www.influxdata.com/"><img src="/assets/influxdata_logo.svg" class="logo"/></a>
+  <a href="https://peak.games/"><img src="/assets/peakgames_logo.svg" class="logo narrower"/></a>
   <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
   <a href="https://sysdig.com/"><img src="/assets/sysdig_logo.png" class="logo narrower"/></a>
   <a href="https://www.wavefront.com/"><img src="/assets/wavefront_logo.svg" class="logo"/></a>
@@ -36,28 +37,39 @@ A big thank you to all of our sponsors who helped make PromCon 2018 happen!
 
 <h3>Venue</h3>
 <div class="sponsor-logos">
-  <a href="https://google.com/"><img src="/assets/google-cloud_logo.png" class="logo"/></a>
+  <a href="https://google.com/"><img src="/assets/google-cloud_logo.png" class="logo narrow"/></a>
 </div>
 
 <hr>
 
 <h3>Venue Food & Social</h3>
 <div class="sponsor-logos">
-  <a href="https://about.gitlab.com/?utm_medium=display&utm_source=event&utm_campaign=promcon"><img src="/assets/gitlab_stacked_logo.svg" class="logo narrower"/></a>
+  <a href="https://about.gitlab.com/?utm_medium=display&utm_source=event&utm_campaign=promcon"><img src="/assets/gitlab_logo.svg" class="logo narrow"/></a>
   <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
+</div>
+
+<hr>
+
+<h3>Gold</h3>
+<div class="sponsor-logos">
+  <a href="https://redhat.com/"><img src="/assets/redhat_logo.svg" class="logo narrow"/></a>
+  <a href="https://soundcloud.com/"><img src="/assets/soundcloud_logo.png" class="logo narrower"/></a>
 </div>
 
 <hr>
 
 <h3>Silver</h3>
 <div class="sponsor-logos">
-  <a href="https://origoss.com/"><img src="/assets/origoss_solutions_logo.svg" class="logo"/></a>
+  <a href="https://www.fastly.com/"><img src="/assets/fastly_logo.svg" class="logo narrower"/></a>
+  <a href="https://www.liveperson.com/"><img src="/assets/liveperson_logo.svg" class="logo"/></a>
+  <a href="https://origoss.com/"><img src="/assets/origoss_solutions_logo.svg" class="logo narrow"/></a>
 </div>
 
 <hr>
 
 <h3>Diversity</h3>
 <div class="sponsor-logos">
+  <a href="https://www.fastly.com/"><img src="/assets/fastly_logo.svg" class="logo narrower"/></a>
   <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
 </div>
 
