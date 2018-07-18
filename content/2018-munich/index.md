@@ -18,6 +18,10 @@ Get an impression of last year's PromCon 2017:
 
 <%= youtube_player("4Pr-z8-r1eo") %>
 
+## Registration
+
+Registration for PromCon 2018 is closed.
+
 ## Our sponsors
 
 A big thank you to all of our sponsors who helped make PromCon 2018 happen!
