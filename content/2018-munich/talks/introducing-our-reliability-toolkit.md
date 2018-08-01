@@ -7,7 +7,6 @@ title: "Improving Reliability Through Engineering an Easy-to-use Prometheus-Base
 Speakers:
 
 * [Robin van Zijll](/2018-munich/speakers/robin-van-zijll/)
-* [Janna Brummel](/2018-munich/speakers/janna-brummel/)
 
 By definition, SREs are responsible for the reliability of sites, but what if they don't own any sites themselves? Within ING, the largest bank of the Netherlands, BizDevOps teams are autonomous and responsible for building and running their services. In theory, that could make the existence of SRE obsolete, right? How can you improve availability for end customers in an environment of engineers with full service ownership? How to convince without the power of intervention? How to improve without being blameful?
 
