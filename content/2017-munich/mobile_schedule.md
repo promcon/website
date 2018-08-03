@@ -21,4 +21,4 @@ either add the XML feed manually or scan the QR code.
 Feed address: https://promcon.io/2017-munich/schedule.xml
 
 QR code:
-![Schedule QR code](/assets/giggity_qr.png)
+![Schedule QR code](/assets/giggity_qr_2017.png)
