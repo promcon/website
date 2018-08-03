@@ -4,6 +4,9 @@ title: Schedule
 
 ## PromCon 2018 Schedule
 
+You can also access this schedule via the Giggity Android app. Click
+[here](/2018-munich/mobile_schedule) for more info.
+
 <table class="table schedule-table">
   <tr class="day">
     <th colspan="3">Day 1 - Thursday, August 9</th>
