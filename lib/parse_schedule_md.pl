@@ -40,7 +40,7 @@ sub process {
                 <b>(.*?)</b>\s*
             )?
             (?:<br>\s*)?
-            ##sgx
+            ##sx
         ) {
             push @speakers, [$2, $1, $3];
         }
@@ -66,7 +66,6 @@ sub process {
 sub process_talk {
     my $slug = shift;
     my $fname = "content/$slug.md";
-    return unless -f $fname;
     local $/;
     open(my $fh, '<', $fname) or die $!;
     my $talk = <$fh>;
@@ -74,11 +73,11 @@ sub process_talk {
 
     $talk =~ s/.*^## [^\n]*\s*//ms;
     $talk =~ s/^Speaker: .*\n+//m;
-    $talk =~ s/^Speakers:\s*\n(\s*\*\s+.*?\n)+\n+//sg;
+    $talk =~ s/^Speakers:\s*(^\s*\*\s.*\n)+\n*//mg;
     $talk =~ s/\n*$//;
     $talk =~ s#\n+#<br/>\n#g;
     my @links;
-    while ($talk =~ s/\[(.*?)\]\s*\((.*?)\)\s*//sg) {
+    while ($talk =~ s/\[(.*?)\]\s*\((.*?)\)/$1/s) {
         push @links, [$2, $1];
     }
     return $talk, \@links;
@@ -102,7 +101,8 @@ sub set_durations {
                 my $duration = ($endH * 60 + $endM) - ($startH * 60 + $startM);
                 my $durationM = $duration % 60;
                 my $durationH = ($duration - $durationM) / 60;
-                $dayevents->[$idx]{duration} = "$durationH:$durationM";
+                $dayevents->[$idx]{duration} = sprintf("%02d:%02d", $durationH,
+                    $durationM);
             }
         }
     }
