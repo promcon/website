@@ -195,7 +195,7 @@ You can also access this schedule via the Giggity Android app. Click
       <br>
       <b>InfluxData</b>
       <br>
-      <a href="/2018-munich/speakers/fabian-reinartz">Tom Wilkie</a>
+      <a href="/2018-munich/speakers/tom-wilkie">Tom Wilkie</a>
       <br>
       <b>Grafana Labs</b>
     </td>
