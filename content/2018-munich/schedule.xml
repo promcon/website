@@ -487,8 +487,7 @@ we will have a write-in poster for people interested in giving a LT.
         <type>talk</type>
         <released>True</released>
         <persons>
-          <person>Robin van Zijll</person>
-          <person>Janna Brummel (ING N.V.)</person>
+          <person>Robin van Zijll (ING N.V.)</person>
         </persons>
         <description>By definition, SREs are responsible for the reliability of sites, but what if they don't own any sites themselves? Within ING, the largest bank of the Netherlands, BizDevOps teams are autonomous and responsible for building and running their services. In theory, that could make the existence of SRE obsolete, right? How can you improve availability for end customers in an environment of engineers with full service ownership? How to convince without the power of intervention? How to improve without being blameful?<br/>
 We'll explain how we, a team of 8 SREs among 1700 DevOps engineers, try to improve stability by focussing on software engineering. We created the Reliability Toolkit to help BizDevOps teams with their reliability challenges in the fields of white box monitoring and alerting while minimizing toil.<br/>
@@ -504,8 +503,7 @@ During this talk we will demo:<br/>
         </description>
         <links>
           <link href="https://promcon.io/2018-munich/talks/introducing-our-reliability-toolkit">Talk information, slides, and video.</link>
-          <link href="https://promcon.io/2018-munich/speakers/robin-van-zijll">Robin van Zijll</link>
-          <link href="https://promcon.io/2018-munich/speakers/janna-brummel">Janna Brummel (ING N.V.)</link>
+          <link href="https://promcon.io/2018-munich/speakers/robin-van-zijll">Robin van Zijll (ING N.V.)</link>
         </links>
       </event>
       <event id="23">

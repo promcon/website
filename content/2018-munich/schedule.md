@@ -251,8 +251,6 @@ You can also access this schedule via the Giggity Android app. Click
     <td>
       <a href="/2018-munich/speakers/robin-van-zijll">Robin van Zijll</a>
       <br>
-      <a href="/2018-munich/speakers/janna-brummel">Janna Brummel</a>
-      <br>
       <b>ING N.V.</b>
     </td>
   </tr>
