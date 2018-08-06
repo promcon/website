@@ -4,6 +4,9 @@ title: Schedule
 
 ## PromCon 2018 Schedule
 
+You can also access this schedule via the Giggity Android app. Click
+[here](/2018-munich/mobile_schedule) for more info.
+
 <table class="table schedule-table">
   <tr class="day">
     <th colspan="3">Day 1 - Thursday, August 9</th>
@@ -192,7 +195,7 @@ title: Schedule
       <br>
       <b>InfluxData</b>
       <br>
-      <a href="/2018-munich/speakers/fabian-reinartz">Tom Wilkie</a>
+      <a href="/2018-munich/speakers/tom-wilkie">Tom Wilkie</a>
       <br>
       <b>Grafana Labs</b>
     </td>
@@ -247,8 +250,6 @@ title: Schedule
     </td>
     <td>
       <a href="/2018-munich/speakers/robin-van-zijll">Robin van Zijll</a>
-      <br>
-      <a href="/2018-munich/speakers/janna-brummel">Janna Brummel</a>
       <br>
       <b>ING N.V.</b>
     </td>

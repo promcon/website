@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <conference>
+    <title>PromCon 2018</title>
+    <start>2018-08-09</start>
+    <end>2018-08-10</end>
+    <days>2</days>
+    <day_change>00:00</day_change>
+    <timeslot_duration>00:15</timeslot_duration>
+  </conference>
+  <day date="2018-08-09" index="1">
+    <room name="Elsewhere">
+      <event id="1">
+        <start>8:15</start>
+        <duration>01:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Breakfast and Registration</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="6">
+        <start>11:00</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="9">
+        <start>12:15</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="12">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Lunch</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="15">
+        <start>15:30</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="17">
+        <start>16:45</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="19">
+        <start>18:00</start>
+        <duration>00:30</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="20">
+        <start>18:30</start>
+        <duration>2:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Social event @ Augustiner Bräustuben, Landsberger Straße 19
+      
+      Until Late</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="Main room">
+      <event id="2">
+        <start>9:15</start>
+        <duration>00:15</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Welcome and Introduction</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Richard Hartmann (SpaceNet)</person>
+        </persons>
+        <description>Richard opens the conference and gives an overview of the state of Prometheus.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/welcome-and-introduction">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/richard-hartmann">Richard Hartmann (SpaceNet)</link>
+        </links>
+      </event>
+      <event id="3">
+        <start>9:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Observability and Product Release: Leveraging Prometheus for Building and Testing New Products at Digital Ocean</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Sneha Inguva (DigitalOcean)</person>
+        </persons>
+        <description>The pillars of observability have long been accepted as key components of any microservice-in-production. But what about those new products - those new features - that have yet to be released? Properly instrumenting and leveraging metrics at this stage is perhaps even more crucial; when a product is yet to be released, identifying and addressing early bugs is critical.<br/>
+Within this talk, I will discuss how we have leveraged Prometheus to properly instrument and test features within the software-defined networking pillar at Digital Ocean. I will highlight instrumentation, key visualizations, as well as takeaways from our experience. Perhaps even more importantly, I will touch upon areas that we can certainly improve upon. Listeners - especially those on product teams - will be able to utilize these learnings and hopefully apply them before their releases as well.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/observability-and-product-release">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/sneha-inguva">Sneha Inguva (DigitalOcean)</link>
+        </links>
+      </event>
+      <event id="4">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Life of an Alert</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Stuart Nelson (SoundCloud)</person>
+        </persons>
+        <description>Alerting is a key concept to remediating issues that arise in the systems we monitor. In order to alert effectively, it's helpful to understand the concepts available in Alertmanager and how they are actually executed within the code. In this talk, I'll give a brief, high-level description of the wondrous journey an alert takes, from its triggering in Prometheus to the email in your mailbox. Then, I'll break down in-depth how alerts are ingested, grouped, and processed, including high availability mode. At the end of this exciting trip you'll understand how your configuration affects Alertmanager, what an alerting pipeline is, and why you sometimes get two emails for the same alert.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/life-of-an-alert">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/stuart-nelson">Stuart Nelson (SoundCloud)</link>
+        </links>
+      </event>
+      <event id="5">
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Hidden Linux Metrics with ebpf_exporter</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Ivan Babrou (Cloudflare)</person>
+        </persons>
+        <description>While there are plenty of readily available metrics for monitoring the Linux kernel, many gems remain hidden. With the help of recent developments in eBPF, it is now possible to run safe programs in the kernel to collect arbitrary information with little to no overhead. A few examples include:<br/>
+* Disk latency and IO size histograms<br/>
+* Run queue (scheduler) latency<br/>
+* Page cache efficiency<br/>
+* Directory cache efficiency<br/>
+* LLC (aka L3 cache) efficiency<br/>
+* Kernel timer counters<br/>
+* System-wide TCP retransmits<br/>
+Practically any event from "perf list" output and any kernel function can be traced, analyzed, and turned into a metric with almost arbitrary labels attached to it.<br/>
+If you are already familiar with BCC tools, you may think of ebpf\_exporter as BCC tools turned into Prometheus metrics.<br/>
+In this talk we'll go over eBPF basics, how to write programs and get insights into a running system.<br/>
+https://github.com/cloudflare/ebpf\_exporter
+        </description>
+        <links>
+          <link href="https://github.com/cloudflare/ebpf\_exporter">https://github.com/cloudflare/ebpf\_exporter</link>
+          <link href="https://promcon.io/2018-munich/talks/hidden-linux-metrics-with-ebpf-exporter">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/ivan-babrou">Ivan Babrou (Cloudflare)</link>
+        </links>
+      </event>
+      <event id="7">
+        <start>11:15</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Alerts, and Exporters</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Tom Wilkie (Grafana Labs)</person>
+        </persons>
+        <description>Prometheus offers powerful open source monitoring and alerting - but that comes with higher degrees of freedom, making pre-configured monitoring "packages" hard to build. Simultaneously, it's becoming accepted wisdom that the developers of a given software package are best placed to operate said software, or at least construct the basic monitoring configuration.<br/>
+In this talk we present a technique for using Jsonnet (a configuration language from Google) for packaging and deploying "Monitoring Mixins" - extensible and customisable combinations of dashboards, alert definitions and exporters. This technique allows developers of open source projects to publish best-practice monitoring configurations alongside their code, and for users to consume it, customise it and stay up to date. We will present example Mixins for Kubernetes and other services such as Consul, Vault, and Cassandra.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/prometheus-monitoring-mixins">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/tom-wilkie">Tom Wilkie (Grafana Labs)</link>
+        </links>
+      </event>
+      <event id="8">
+        <start>11:45</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Autoscaling All Things Kubernetes with Prometheus</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Michael Hausenblas</person>
+          <person>Frederic Branczyk (Red Hat)</person>
+        </persons>
+        <description>Autoscaling in Kubernetes used to be an inconsistent concept, however using the new metrics APIs defined by Kubernetes SIG Instrumentation the monitoring system of choice can be used. As it turns out, Prometheus is a popular system being used alongside Kubernetes, and the community has already developed a custom-metrics-api adapter to be used for Prometheus. This means, we can now perform autoscaling on the cluster and application level with metrics collected by Prometheus.<br/>
+While for some use cases single values are enough, for others more sophisticated historic metrics are necessary. In the context of the SIG Autoscaling, we're working on a Vertical Pod Autoscaler (VPA), allowing for vertical autoscaling of pods (that is, adapting resource limits and requests) based on metrics from Prometheus (see https://github.com/kubernetes/community/blob/master/contributors/design-proposals/autoscaling/vertical-pod-autoscaler.md).<br/>
+Frederic and Michael will review the history of metrics in Kubernetes, discuss the current state of metrics and autoscaling on Kubernetes using Prometheus with a focus on VPAs as well as show it in action.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/autoscaling-all-things-kubernetes-with-prometheus">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/michael-hausenblas">Michael Hausenblas</link>
+          <link href="https://promcon.io/2018-munich/speakers/frederic-branczyk">Frederic Branczyk (Red Hat)</link>
+        </links>
+      </event>
+      <event id="10">
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Taking Advantage of Relabeling</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Julien Pivotto (Inuits)</person>
+        </persons>
+        <description>Relabeling is a powerful feature of Prometheus but it is also quite specific to the project. This talk will explain and demonstrate relabeling, with some real use cases. After the presentation, you will understand relabeling and stop to copy/paste relabeling rules you don't understand.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/taking-advantage-of-relabeling">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/julien-pivotto">Julien Pivotto (Inuits)</link>
+        </links>
+      </event>
+      <event id="11">
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Bomb Squad: Containing the Cardinality Explosion</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Cody Boggs (FreshTracks.io)</person>
+        </persons>
+        <description>Series cardinality can be a large foot-gun that can take out a Prometheus instance quickly. It can have similar impacts to downstream systems when using remote write. Finding the offending series and recovering from such an event can cause a large downtime for your Prometheus installation. In this talk I will show an implementation of a sidecar to Prometheus that automatically detects and squelches series whose cardinality is growing quickly. Using a combination of recording rules, dynamic metric relabel configs, and alerting, we can detect, throttle, and alert on any explosion in progress.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/bomb-squad-containing-the-cardinality-explosion">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/cody-boggs">Cody Boggs (FreshTracks.io)</link>
+        </links>
+      </event>
+      <event id="13">
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Thanos - Prometheus at Scale</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Bartłomiej Płotka (Improbable)</person>
+          <person>Fabian Reinartz (Google)</person>
+        </persons>
+        <description>The Prometheus Monitoring system has been thriving for several years. Along with its powerful data model, operational simplicity and reliability have been a key factor in its success. However, some questions were still largely unaddressed to this day. How can we store historical data at the order of petabytes in a reliable and cost-efficient way? Can we do so without sacrificing responsive query times? And what about a global view of all our metrics and transparent handling of HA setups?<br/>
+Thanos takes Prometheus' strong foundations and extends it into a clustered, yet coordination free, globally scalable metric system. It retains Prometheus's simple operational model and even simplifies deployments further. Under the hood, Thanos uses highly cost-efficient object storage that's available in virtually all environments today. By building directly on top of the storage format introduced with Prometheus 2.0, Thanos achieves near real-time responsiveness even for cold queries against historical data. All while having virtually no cost overhead beyond that of the underlying object storage.<br/>
+We will show the theoretical concepts behind Thanos and demonstrate how it seamlessly integrates into existing Prometheus setups.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/thanos-prometheus-at-scale">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/bartek-plotka">Bartłomiej Płotka (Improbable)</link>
+          <link href="https://promcon.io/2018-munich/speakers/fabian-reinartz">Fabian Reinartz (Google)</link>
+        </links>
+      </event>
+      <event id="14">
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Using the Flux Query Engine to Query Multiple Prometheus Servers</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Paul Dix (InfluxData)</person>
+        </persons>
+        <description>The new open source Flux query engine for InfluxDB is designed to be decoupled from storage. This makes it possible to query many different data sources, including Prometheus, with the new engine. The engine also decouples the representation of the query language from the execution representation. This makes it possible to add support for additional languages, like PromQL.<br/>
+This talk will show how we've added support to the Flux engine to query multiple Prometheus servers at the same time, combining their results. This makes it trivial to query across a federated setup for scaling out the query. We'll also show how to query across two Prometheus servers configured for high availability, while guaranteeing a consistent query result.<br/>
+We'll close out the talk by looking at how PromQL support is being added to the new engine. This will enable PromQL queries across a distributed system where the individual Prometheus and storage servers maintain their shared-nothing non-clustered failure modes.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/using-the-flux-query-engine-to-query-multiple-prometheus-servers">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/paul-dix">Paul Dix (InfluxData)</link>
+        </links>
+      </event>
+      <event id="16">
+        <start>15:45</start>
+        <duration>01:00</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Panel Discussion: Prometheus Long-Term Storage Approaches</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Julius Volz (Prometheus)</person>
+          <person>Fabian Reinartz (Google)</person>
+          <person>Nikunj Aggarwal (Uber)</person>
+          <person>Paul Dix (InfluxData)</person>
+          <person>Tom Wilkie (Grafana Labs)</person>
+        </persons>
+        <description>In this panel, we will explore some of the emerging and competing approaches to Prometheus scalable long-term storage.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/panel-discussion-prometheus-long-term-storage-approaches">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/julius-volz">Julius Volz (Prometheus)</link>
+          <link href="https://promcon.io/2018-munich/speakers/fabian-reinartz">Fabian Reinartz (Google)</link>
+          <link href="https://promcon.io/2018-munich/speakers/nikunj-aggarwal">Nikunj Aggarwal (Uber)</link>
+          <link href="https://promcon.io/2018-munich/speakers/paul-dix">Paul Dix (InfluxData)</link>
+          <link href="https://promcon.io/2018-munich/speakers/tom-wilkie">Tom Wilkie (Grafana Labs)</link>
+        </links>
+      </event>
+      <event id="18">
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Lightning Talks</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>Lightning talks are 5 minutes each.<br/>
+All LTs submitted via the CfP are scheduled here. For the remaining time,<br/>
+we will have a write-in poster for people interested in giving a LT.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/lightning-talks-day1">Talk information, slides, and video.</link>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date="2018-08-10" index="2">
+    <room name="Elsewhere">
+      <event id="21">
+        <start>8:30</start>
+        <duration>01:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Breakfast</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="25">
+        <start>11:00</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="28">
+        <start>12:15</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="31">
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Lunch</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="34">
+        <start>15:30</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+      <event id="36">
+        <start>16:45</start>
+        <duration>00:15</duration>
+        <room>Elsewhere</room>
+        <abstract/>
+        <title>Break</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>
+        </description>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="Main room">
+      <event id="22">
+        <start>9:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Improving Reliability Through Engineering an Easy-to-use Prometheus-Based Monitoring and Alerting Stack: Introducing Our Reliability Toolkit</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Robin van Zijll (ING N.V.)</person>
+        </persons>
+        <description>By definition, SREs are responsible for the reliability of sites, but what if they don't own any sites themselves? Within ING, the largest bank of the Netherlands, BizDevOps teams are autonomous and responsible for building and running their services. In theory, that could make the existence of SRE obsolete, right? How can you improve availability for end customers in an environment of engineers with full service ownership? How to convince without the power of intervention? How to improve without being blameful?<br/>
+We'll explain how we, a team of 8 SREs among 1700 DevOps engineers, try to improve stability by focussing on software engineering. We created the Reliability Toolkit to help BizDevOps teams with their reliability challenges in the fields of white box monitoring and alerting while minimizing toil.<br/>
+This talk will explain:<br/>
+- Our SRE team purpose and why we think our approach with heavy focus on software engineering works for our organization<br/>
+- The concept of the Reliability Toolkit and introduction of its components and their setup (Prometheus, Alertmanager, Grafana, NGINX Log Aggregator, SMS and ChatOps functionalities)<br/>
+- How we provision Reliability Toolkit<br/>
+- How we convince, onboard and educate BizDevOps teams to use the Reliability Toolkit<br/>
+During this talk we will demo:<br/>
+- A Kafka to Prometheus consumer (and why this is not what we want)<br/>
+- Prometheus Model Builder, generate expectation models out of any Prometheus metric<br/>
+- A collection of templated Grafana dashboards to give every team a kickstart
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/introducing-our-reliability-toolkit">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/robin-van-zijll">Robin van Zijll (ING N.V.)</link>
+        </links>
+      </event>
+      <event id="23">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Explore Your Prometheus Data in Grafana</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>David Kaltschmidt (Grafana Labs)</person>
+        </persons>
+        <description>Grafana is the de-facto dashboarding solution for Prometheus. Now imagine you received a page. Grafana is often the starting point for your incident response. You look at a time series panel, form a hypothesis, and would like to dive deeper. We've built a whole new section that allows you to do just that by iterating quickly through Prometheus queries while leaving your dashboards intact. I'll show-case our new Explore UI and how it can fit into your workflows for both troubleshooting and data exploration.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/explore-your-prometheus-data-in-grafana">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/david-kaltschmidt">David Kaltschmidt (Grafana Labs)</link>
+        </links>
+      </event>
+      <event id="24">
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Detecting Abnormalities in WiFi Networks with Prometheus</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Darragh Grealish (56k.Cloud GmbH)</person>
+        </persons>
+        <description>We show how PromQL and Alertmanager can be used to detect abnormalities in LAN and WiFi networks, using various Prometheus exporters to take data from  WLAN controllers and SNMP. We use Unifi, Grafana and of course Prometheus + Alertmanager, along with a few exporters.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/detecting-abnormalities-in-wifi-networks-with-prometheus">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/darragh-grealish">Darragh Grealish (56k.Cloud GmbH)</link>
+        </links>
+      </event>
+      <event id="26">
+        <start>11:15</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>OpenMetrics - Transforming the Prometheus Exposition Format into a Global Standard</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Richard Hartmann (SpaceNet)</person>
+        </persons>
+        <description>Prometheus has established a de-facto standard for cloud-native metric exposition. OpenMetrics aims to achieve true interoperability, and to bridge the gap towards other types of monitoring.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/openmetrics-transforming-the-prometheus-exposition-format-into-a-global-standard">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/richard-hartmann">Richard Hartmann (SpaceNet)</link>
+        </links>
+      </event>
+      <event id="27">
+        <start>11:45</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>What Prometheus Means for Monitoring Vendors</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Jorge Salamero Sanz (Sysdig)</person>
+        </persons>
+        <description>Users have been looking for a better understanding of how Prometheus monitoring and other commercial monitoring tools compare and contrast when it comes to Docker and Kubernetes monitoring. Are they enemies? Lovers? Twins separated at birth? Let's go there. This talk will discuss the Prometheus ecosystem from a vendor perspective.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/what-prometheus-means-for-monitoring-vendors">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/jorge-salamero-sanz">Jorge Salamero Sanz (Sysdig)</link>
+        </links>
+      </event>
+      <event id="29">
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Implementing a Cooperative Multi-Tenant Capable Prometheus</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Jonas Große Sundrup</person>
+        </persons>
+        <description>Prometheus is capable of and used for monitoring large infrastructures, from corporate networks to world-spanning CDNs. But while performing excellent on setups of large scales, it is also extremely well suited for small setups due to its simplicity and modularity both in operation as well in usage.<br/>
+To further simplify leveraging the power of Prometheus for monitoning, we developed a cooperative, centrally managed multi-tenant-capable Prometheus system that minimizes the entry barrier for participants, introducing Prometheus to small-scale monitoring including out-of-the-box capabilities for blackbox montioring.<br/>
+The multi-tenancy layer in this case serves two distinct purposes: First, it ensures that every user can only access their own metrics when querying. Second, it ensures that every user can only create alerts or alert silences for their own set of metrics.<br/>
+In the process of doing so, we will investigate how the Prometheus frontend handles queries and how alerts and silences are submitted and modified accordingly, to implement multi-tenancy in Prometheus.<br/>
+The entire setup is usable with out-of-the-box standard Prometheus components, no patches necessary.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/implementing-a-cooperative-multi-tenant-capable-prometheus">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/jonas-grosse-sundrup">Jonas Große Sundrup</link>
+        </links>
+      </event>
+      <event id="30">
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Monitoring at Scale: Migrating to Prometheus at Fastly</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Marcus Barczak (Fastly)</person>
+        </persons>
+        <description>Over the past 6 months at Fastly we've migrated away from our legacy monitoring systems and have deployed Prometheus as our primary system for infrastructure and application monitoring.<br/>
+The Prometheus approach posed some unique challenges over traditional monitoring systems, whilst at the same time enabling us to easily scale our monitoring infrastructure alongside our global network growth.<br/>
+It hasn't been completely smooth sailing and deploying Prometheus across a globe spanning network serving over 10% of the world's internet traffic has raised its fair share of challenges both technical and cultural.<br/>
+In this presentation you will learn how we addressed these issues in ways that deviate slightly from conventional wisdom, the mistakes we made along the way, and how the new system has been received by our teams. We hope that our experiences can help you succeed in deploying Prometheus within your organization.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/monitoring-at-scale-migrating-to-prometheus-at-fastly">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/marcus-barczak">Marcus Barczak (Fastly)</link>
+        </links>
+      </event>
+      <event id="32">
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Automated Prometheus Benchmarking - Pushing It to Its Limits until It Breaks!</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Krasi Georgiev (Red Hat)</person>
+          <person>Harsh Agarwal (IIT Hyderabad)</person>
+        </persons>
+        <description>We will show you how we are trying to make Prometheus more stable by running automated benchmarking for risky PRs and before every release. <br/>
+In other words, let's try to break it in our tests so it doesn't break in your production.<br/>
+We will cover why we decided to use Prow and how it is integrated with GitHub.<br/>
+We will also cover the current progress, the project roadmap and of course do a short demo.
+        </description>
+        <links>
+          <link href="https://github.com/kubernetes/test-infra/tree/master/prow">Prow</link>
+          <link href="https://promcon.io/2018-munich/talks/automated-prometheus-benchmarking">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/krasi-georgiev">Krasi Georgiev (Red Hat)</link>
+          <link href="https://promcon.io/2018-munich/speakers/harsh-agarwal/">Harsh Agarwal (IIT Hyderabad)</link>
+        </links>
+      </event>
+      <event id="33">
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Anatomy of a Prometheus Client Library</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Brian Brazil (Robust Perception)</person>
+        </persons>
+        <description>Prometheus client libraries are notably different from most other options in the space. In order to get the best insights into your applications it helps to know how they are designed, and why they are designed that way. This talk will look at how client libraries are structured, how that makes them easy to use, some tips for instrumentation, and why you should use them even if you aren't using Prometheus.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/anatomy-of-a-prometheus-client-library">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/brian-brazil">Brian Brazil (Robust Perception)</link>
+        </links>
+      </event>
+      <event id="35">
+        <start>15:45</start>
+        <duration>01:00</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Panel Discussion: Talk to Prometheus Developers</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>The Prometheus maintainers</person>
+        </persons>
+        <description>A panel of Prometheus maintainers will answer questions about Prometheus, alternating between audience questions and presubmitted ones. Submit your questions in advance here!.
+        </description>
+        <links>
+          <link href="https://docs.google.com/forms/d/1hQ3ZCSu9her8DlO-DSsLPcpKFzo65VKoYL0EoHpCylY/viewform?edit_requested=true">Submit your questions in advance here!</link>
+          <link href="https://promcon.io/2018-munich/talks/panel-discussion-talk-to-prometheus-devs">Talk information, slides, and video.</link>
+        </links>
+      </event>
+      <event id="37">
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Lightning Talks</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+        </persons>
+        <description>Lightning talks are 5 minutes each.<br/>
+We will have a write-in poster for people interested in giving a LT.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/lightning-talks-day2">Talk information, slides, and video.</link>
+        </links>
+      </event>
+      <event id="38">
+        <start>18:00</start>
+        <duration>0:15</duration>
+        <room>Main room</room>
+        <abstract/>
+        <title>Closing</title>
+        <type>talk</type>
+        <released>True</released>
+        <persons>
+          <person>Richard Hartmann (SpaceNet)</person>
+        </persons>
+        <description>Richard will close the conference with a few parting words.
+        </description>
+        <links>
+          <link href="https://promcon.io/2018-munich/talks/closing">Talk information, slides, and video.</link>
+          <link href="https://promcon.io/2018-munich/speakers/richard-hartmann">Richard Hartmann (SpaceNet)</link>
+        </links>
+      </event>
+    </room>
+  </day>
+</schedule>

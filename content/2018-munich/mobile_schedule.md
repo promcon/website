@@ -2,7 +2,7 @@
 title: Mobile Schedule
 ---
 
-## PromCon 2017 Mobile-friendly Schedule
+## PromCon 2018 Mobile-friendly Schedule
 
 The conference schedule is also available through an XML feed. You can use
 Giggity on Android to access it, set reminders, etc.
@@ -15,10 +15,12 @@ Giggity on Android to access it, set reminders, etc.
 
 ### Add the PromCon Schedule
 
-From the application, if PromCon 2017 does not show in the main menu, you can
+From the application, if PromCon 2018 does not show in the main menu, you can
 either add the XML feed manually or scan the QR code.
 
-Feed address: https://promcon.io/2017-munich/schedule.xml
+Feed address: https://promcon.io/2018-munich/schedule.xml
 
 QR code:
-![Schedule QR code](/assets/giggity_qr_2017.png)
+
+<img src="/assets/giggity_qr_2018.svg" alt="Schedule QR code"
+ style="width: 400px"/>
