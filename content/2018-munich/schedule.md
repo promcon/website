@@ -4,7 +4,7 @@ title: Schedule
 
 ## PromCon 2018 Schedule
 
-You can also access this schedule via the Giggity Android app. Click
+**Mobile schedule**: You can also access this schedule from your mobile device. Click
 [here](/2018-munich/mobile_schedule) for more info.
 
 <table class="table schedule-table">
