@@ -5,6 +5,7 @@ title: Autoscaling All Things Kubernetes with Prometheus
 ## Autoscaling All Things Kubernetes with Prometheus
 
 Speakers:
+
 * [Michael Hausenblas](/2018-munich/speakers/michael-hausenblas/)
 * [Frederic Branczyk](/2018-munich/speakers/frederic-branczyk/)
 
