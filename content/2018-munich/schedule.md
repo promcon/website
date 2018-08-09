@@ -270,7 +270,7 @@ title: Schedule
   <tr class="talk">
     <td>10:30</td>
     <td>
-      <a href="/2018-munich/talks/detecting-abnormalities-in-wifi-networks-with-prometheus">
+      <a href="/2018-munich/talks/rpc_metrics_at_google.md">
         RPC metrics at Google
       </a>
     </td>
