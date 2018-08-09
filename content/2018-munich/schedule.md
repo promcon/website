@@ -271,11 +271,11 @@ title: Schedule
     <td>10:30</td>
     <td>
       <a href="/2018-munich/talks/detecting-abnormalities-in-wifi-networks-with-prometheus">
-        Detecting Abnormalities in WiFi Networks with Prometheus
+        RPC metrics at Google
       </a>
     </td>
     <td>
-      <a href="/2018-munich/speakers/darragh-grealish">Darragh Grealish</a>
+      <a href="/2018-munich/speakers/jaana-b-dogan">Jaana B Dogan</a>
       <br>
       <b>56k.Cloud GmbH</b>
     </td>
