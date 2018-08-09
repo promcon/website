@@ -271,13 +271,13 @@ title: Schedule
     <td>10:30</td>
     <td>
       <a href="/2018-munich/talks/rpc_metrics_at_google">
-        RPC metrics at Google
+        RPC Metrics at Google
       </a>
     </td>
     <td>
       <a href="/2018-munich/speakers/jaana-b-dogan">Jaana B Dogan</a>
       <br>
-      <b>56k.Cloud GmbH</b>
+      <b>Google</b>
     </td>
   </tr>
   <tr class="break">
