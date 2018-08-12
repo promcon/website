@@ -15,3 +15,5 @@ In other words, let's try to break it in our tests so it doesn't break in your p
 We will cover why we decided to use [Prow](https://github.com/kubernetes/test-infra/tree/master/prow) and how it is integrated with GitHub.
 
 We will also cover the current progress, the project roadmap and of course do a short demo.
+
+[Slides](/2018-munich/slides/automated-prometheus-benchmarking.pdf)
