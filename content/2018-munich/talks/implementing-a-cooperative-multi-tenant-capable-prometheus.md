@@ -15,3 +15,5 @@ The multi-tenancy layer in this case serves two distinct purposes: First, it ens
 In the process of doing so, we will investigate how the Prometheus frontend handles queries and how alerts and silences are submitted and modified accordingly, to implement multi-tenancy in Prometheus.
 
 The entire setup is usable with out-of-the-box standard Prometheus components, no patches necessary.
+
+[Slides](/2018-munich/slides/implementing-a-cooperative-multi-tenant-capable-prometheus.pdf)
