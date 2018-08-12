@@ -22,7 +22,7 @@ Speaker: [Max Inden](/2017-munich/speakers/max-inden/)
 
 ### #3 - Monitoring Atlassian Applications
 
-Speaker: Andrey
+Speaker: Andrey Markelov
 
 ---
 
@@ -70,5 +70,5 @@ Speaker: [Michael Hausenblas](/2018-munich/speakers/michael-hausenblas/)
 
 ### #10 - Canary Deployment with Prometheus
 
-Speaker: Andreg
+Speaker: Andrey Markelov
 
