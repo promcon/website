@@ -23,3 +23,5 @@ If you are already familiar with BCC tools, you may think of ebpf\_exporter as B
 In this talk we'll go over eBPF basics, how to write programs and get insights into a running system.
 
 [https://github.com/cloudflare/ebpf\_exporter](https://github.com/cloudflare/ebpf\_exporter)
+
+[Slides](/2018-munich/slides/hidden-linux-metrics-with-ebpf-exporter.pdf)

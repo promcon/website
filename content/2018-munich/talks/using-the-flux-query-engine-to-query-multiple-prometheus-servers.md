@@ -11,3 +11,5 @@ The new open source Flux query engine for InfluxDB is designed to be decoupled f
 This talk will show how we've added support to the Flux engine to query multiple Prometheus servers at the same time, combining their results. This makes it trivial to query across a federated setup for scaling out the query. We'll also show how to query across two Prometheus servers configured for high availability, while guaranteeing a consistent query result.
 
 We'll close out the talk by looking at how PromQL support is being added to the new engine. This will enable PromQL queries across a distributed system where the individual Prometheus and storage servers maintain their shared-nothing non-clustered failure modes.
+
+[Slides](/2018-munich/slides/using-the-flux-query-engine-to-query-multiple-prometheus-servers.pdf)

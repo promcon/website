@@ -6,5 +6,69 @@ title: Lightning Talks Day One
 
 Lightning talks are 5 minutes each.
 
-All LTs submitted via the CfP are scheduled here. For the remaining time,
-we will have a write-in poster for people interested in giving a LT.
+---
+
+### #1 - Integrate Alertmanager with OpsGenie for Advanced Alerting
+
+Speaker: Mustafa Akin
+
+---
+
+### #2 - Property and Model Based Testing of Alertmanager
+
+Speaker: [Max Inden](/2017-munich/speakers/max-inden/)
+
+---
+
+### #3 - Monitoring Atlassian Applications
+
+Speaker: Andrey Markelov
+
+---
+
+### #4 - Chronomancer: Using Cortex to Control Time between Series
+
+Speaker: Bob Cotton
+
+---
+
+### #5 - BMC and Prometheus
+
+Speaker: [Christian Svensson](/2016-berlin/speakers/christian-svensson/)
+
+[Slides](/2018-munich/slides/lightning-talks-day1-05_BMC-and-Prometheus.pdf)
+
+---
+
+### #6 - End User Dashboards with Prometheus
+
+Speaker: [Julien Pivotto](/2018-munich/speakers/julien-pivotto/)
+
+[Slides](/2018-munich/slides/lightning-talks-day1-06_End-User-Dashboards-with-Prometheus.pdf)
+
+---
+
+### #7 - M3 with Prometheus
+
+Speaker: [Nikunj Aggarwal](/2018-munich/speakers/nikunj-aggarwal/)
+
+---
+
+### #8 - Prometheus in Debian
+
+Speaker: Martín Ferrari
+
+[Slides](/2018-munich/slides/lightning-talks-day1-08_Prometheus-in-Debian.pdf)
+
+---
+
+### #9 - Growing Up is Hard
+
+Speaker: [Michael Hausenblas](/2018-munich/speakers/michael-hausenblas/)
+
+---
+
+### #10 - Canary Deployment with Prometheus
+
+Speaker: Andrey Markelov
+
