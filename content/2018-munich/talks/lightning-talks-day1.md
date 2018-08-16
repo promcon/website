@@ -24,6 +24,8 @@ Speaker: [Max Inden](/2017-munich/speakers/max-inden/)
 
 Speaker: Andrey Markelov
 
+[Slides](/2018-munich/slides/lightning-talks-day1-03-monitoring-atlassian-applications.pdf)
+
 ---
 
 ### #4 - Chronomancer: Using Cortex to Control Time between Series
