@@ -45,7 +45,7 @@ Speaker: [Tom Wilkie](/2018-munich/speakers/tom-wilkie/)
 
 Speaker: Simon Pasquier
 
-[Slides](/2018-munich/slides/lightning-talks-day2-06_Roll-your-own-Service-Discovery.pdf)
+[Slides](/2018-munich/slides/lightning-talks-day2-06_roll-your-own-service-discovery.pdf)
 
 ---
 
@@ -59,7 +59,7 @@ Speaker: Ganesh Vernekar
 
 Speaker: [Brian Brazil](/2018-munich/speakers/brian-brazil/)
 
-[Slides](/2018-munich/slides/lightning-talks-day2-08_Evaluating-prometheus-knowledge.pdf)
+[Slides](/2018-munich/slides/lightning-talks-day2-08_evaluating-prometheus-knowledge.pdf)
 
 ---
 
@@ -79,5 +79,5 @@ Speaker: [Julien Pivotto](/2018-munich/speakers/julien-pivotto/)
 
 Speaker: Martín Ferrari
 
-[Slides](/2018-munich/slides/lightning-talks-day2-11_Hacking-capitalism-for-fun-and-profit.txt)
+[Slides](/2018-munich/slides/lightning-talks-day2-11_hacking-capitalism-for-fun-and-profit.txt)
 

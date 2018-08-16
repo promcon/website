@@ -13,3 +13,5 @@ The Prometheus approach posed some unique challenges over traditional monitoring
 It hasn't been completely smooth sailing and deploying Prometheus across a globe spanning network serving over 10% of the world's internet traffic has raised its fair share of challenges both technical and cultural.
 
 In this presentation you will learn how we addressed these issues in ways that deviate slightly from conventional wisdom, the mistakes we made along the way, and how the new system has been received by our teams. We hope that our experiences can help you succeed in deploying Prometheus within your organization.
+
+[Slides](/2018-munich/slides/monitoring-at-scale-migrating-to-prometheus-at-fastly.pdf)

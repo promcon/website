@@ -24,6 +24,8 @@ Speaker: [Max Inden](/2017-munich/speakers/max-inden/)
 
 Speaker: Andrey Markelov
 
+[Slides](/2018-munich/slides/lightning-talks-day1-03-monitoring-atlassian-applications.pdf)
+
 ---
 
 ### #4 - Chronomancer: Using Cortex to Control Time between Series
@@ -36,7 +38,7 @@ Speaker: Bob Cotton
 
 Speaker: [Christian Svensson](/2016-berlin/speakers/christian-svensson/)
 
-[Slides](/2018-munich/slides/lightning-talks-day1-05_BMC-and-Prometheus.pdf)
+[Slides](/2018-munich/slides/lightning-talks-day1-05_bmc-and-prometheus.pdf)
 
 ---
 
@@ -44,7 +46,7 @@ Speaker: [Christian Svensson](/2016-berlin/speakers/christian-svensson/)
 
 Speaker: [Julien Pivotto](/2018-munich/speakers/julien-pivotto/)
 
-[Slides](/2018-munich/slides/lightning-talks-day1-06_End-User-Dashboards-with-Prometheus.pdf)
+[Slides](/2018-munich/slides/lightning-talks-day1-06_end-user-dashboards-with-prometheus.pdf)
 
 ---
 
@@ -58,7 +60,7 @@ Speaker: [Nikunj Aggarwal](/2018-munich/speakers/nikunj-aggarwal/)
 
 Speaker: Martín Ferrari
 
-[Slides](/2018-munich/slides/lightning-talks-day1-08_Prometheus-in-Debian.pdf)
+[Slides](/2018-munich/slides/lightning-talks-day1-08_prometheus-in-debian.pdf)
 
 ---
 

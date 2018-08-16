@@ -24,3 +24,5 @@ During this talk we will demo:
 - A Kafka to Prometheus consumer (and why this is not what we want)
 - Prometheus Model Builder, generate expectation models out of any Prometheus metric
 - A collection of templated Grafana dashboards to give every team a kickstart
+
+[Slides](/2018-munich/slides/introducing-our-reliability-toolkit.pdf)

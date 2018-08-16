@@ -14,3 +14,5 @@ The Prometheus Monitoring system has been thriving for several years. Along with
 Thanos takes Prometheus' strong foundations and extends it into a clustered, yet coordination free, globally scalable metric system. It retains Prometheus's simple operational model and even simplifies deployments further. Under the hood, Thanos uses highly cost-efficient object storage that's available in virtually all environments today. By building directly on top of the storage format introduced with Prometheus 2.0, Thanos achieves near real-time responsiveness even for cold queries against historical data. All while having virtually no cost overhead beyond that of the underlying object storage.
 
 We will show the theoretical concepts behind Thanos and demonstrate how it seamlessly integrates into existing Prometheus setups.
+
+[Slides](/2018-munich/slides/thanos-prometheus-at-scale.pdf)
