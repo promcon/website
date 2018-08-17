@@ -21,6 +21,8 @@ Speakers:
 * [Sneha Inguva](/2018-munich/speakers/sneha-inguva/)
 * Daisy Tsang
 
+[Slides](/2018-munich/slides/lightning-talks-day2-02_how-to-contribute-to-open-source-software.pdf)
+
 ---
 
 ### #3 - Easy Prometheus Deployment with Ansible
