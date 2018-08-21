@@ -37,9 +37,11 @@ Speaker: Thibault Chataigner
 
 ---
 
-### #5 - Graphana Logging
+### #5 - Grafana Logging
 
 Speaker: [Tom Wilkie](/2018-munich/speakers/tom-wilkie/)
+
+[Slides](/2018-munich/slides/lightning-talks-day2-05_grafana-logging.pdf)
 
 ---
 
