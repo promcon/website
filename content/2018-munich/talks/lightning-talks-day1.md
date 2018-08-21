@@ -32,6 +32,8 @@ Speaker: Andrey Markelov
 
 Speaker: Bob Cotton
 
+[Slides](/2018-munich/slides/lightning-talks-day1-04_chronomancer-using-cortex-to-control-time-between-series.pdf)
+
 ---
 
 ### #5 - BMC and Prometheus
