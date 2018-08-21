@@ -56,6 +56,8 @@ Speaker: [Julien Pivotto](/2018-munich/speakers/julien-pivotto/)
 
 Speaker: [Nikunj Aggarwal](/2018-munich/speakers/nikunj-aggarwal/)
 
+[Slides](/2018-munich/slides/lightning-talks-day1-07_m3-with-prometheus.pdf)
+
 ---
 
 ### #8 - Prometheus in Debian
