@@ -8,9 +8,11 @@ Lightning talks are 5 minutes each.
 
 ---
 
-### #1 - Customizing Alertmanager Templates
+### #1 - Customizing Alertmanager Notifications
 
 Speaker: [Tobias Schmidt](/2016-berlin/speakers/tobias-schmidt/)
+
+[Slides](/2018-munich/slides/lightning-talks-day2-01_customizing-alertmanager-notifications.pdf)
 
 ---
 
