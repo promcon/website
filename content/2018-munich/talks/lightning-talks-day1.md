@@ -18,6 +18,8 @@ Speaker: Mustafa Akin
 
 Speaker: [Max Inden](/2017-munich/speakers/max-inden/)
 
+[Slides](/2018-munich/slides/lightning-talks-day1-02_property-and-model-based-testing-of-alertmanager.pdf)
+
 ---
 
 ### #3 - Monitoring Atlassian Applications
