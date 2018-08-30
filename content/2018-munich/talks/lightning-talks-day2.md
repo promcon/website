@@ -8,9 +8,11 @@ Lightning talks are 5 minutes each.
 
 ---
 
-### #1 - Customizing Alertmanager Templates
+### #1 - Customizing Alertmanager Notifications
 
 Speaker: [Tobias Schmidt](/2016-berlin/speakers/tobias-schmidt/)
+
+[Slides](/2018-munich/slides/lightning-talks-day2-01_customizing-alertmanager-notifications.pdf)
 
 ---
 
@@ -20,6 +22,8 @@ Speakers:
 
 * [Sneha Inguva](/2018-munich/speakers/sneha-inguva/)
 * Daisy Tsang
+
+[Slides](/2018-munich/slides/lightning-talks-day2-02_how-to-contribute-to-open-source-software.pdf)
 
 ---
 
@@ -35,9 +39,11 @@ Speaker: Thibault Chataigner
 
 ---
 
-### #5 - Graphana Logging
+### #5 - Grafana Logging
 
 Speaker: [Tom Wilkie](/2018-munich/speakers/tom-wilkie/)
+
+[Slides](/2018-munich/slides/lightning-talks-day2-05_grafana-logging.pdf)
 
 ---
 

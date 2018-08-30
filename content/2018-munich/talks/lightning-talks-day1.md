@@ -18,6 +18,8 @@ Speaker: Mustafa Akin
 
 Speaker: [Max Inden](/2017-munich/speakers/max-inden/)
 
+[Slides](/2018-munich/slides/lightning-talks-day1-02_property-and-model-based-testing-of-alertmanager.pdf)
+
 ---
 
 ### #3 - Monitoring Atlassian Applications
@@ -31,6 +33,8 @@ Speaker: Andrey Markelov
 ### #4 - Chronomancer: Using Cortex to Control Time between Series
 
 Speaker: Bob Cotton
+
+[Slides](/2018-munich/slides/lightning-talks-day1-04_chronomancer-using-cortex-to-control-time-between-series.pdf)
 
 ---
 
@@ -53,6 +57,8 @@ Speaker: [Julien Pivotto](/2018-munich/speakers/julien-pivotto/)
 ### #7 - M3 with Prometheus
 
 Speaker: [Nikunj Aggarwal](/2018-munich/speakers/nikunj-aggarwal/)
+
+[Slides](/2018-munich/slides/lightning-talks-day1-07_m3-with-prometheus.pdf)
 
 ---
 
