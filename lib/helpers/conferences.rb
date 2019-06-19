@@ -59,6 +59,21 @@ def conferences
       },
       Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
     ),
+    Conference.new(
+      'PromCon EU 2019',
+      'The Prometheus conference — November 07 - 08 in Munich',
+      '/2018-munich/',
+      {
+       '/2018-munich/' => 'Overview',
+#       '/2018-munich/register/' => 'Register',
+#       '/2018-munich/diversity/' => 'Diversity',
+#       '/2018-munich/schedule/' => 'Schedule',
+#       '/2018-munich/sponsor/' => 'Sponsor',
+#       '/2018-munich/stream' => 'Live Stream',
+       '/coc/' => 'Code of Conduct',
+      },
+      Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
+    ),
   ]
 end
 
