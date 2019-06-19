@@ -6,7 +6,7 @@ title: Overview
 
 PromCon EU 2019 is the fourth conference dedicated to the
 [Prometheus monitoring system](https://prometheus.io/). It will take place
-2018-11-07 & 2018-11-08 (Thu & Fri)
+2019-11-07 & 2019-11-08 (Thu & Fri)
 at Google Munich as a single-track event with space for 220 attendees.
 
 PromCon aims to connect Prometheus users and developers from around the world in
@@ -24,7 +24,7 @@ and 2018:
 
 ## Registration
 
-Registration for PromCon 2018 is closed.
+Registration for PromCon 2019 is closed.
 
 ## Sponsorship
 
