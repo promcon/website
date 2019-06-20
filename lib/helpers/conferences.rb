@@ -62,7 +62,7 @@ def conferences
     Conference.new(
       'PromCon EU 2019',
       'The Prometheus conference — November 07 - 08 in Munich',
-      '/2018-munich/',
+      '/2019-munich/',
       {
        '/2019-munich/' => 'Overview',
 #       '/2019-munich/register/' => 'Register',
