@@ -20,7 +20,7 @@ Get an impression of PromCon 2017:
 
 and 2018:
 
-<%= youtube_player(""GW3MzPecU94) %>
+<%= youtube_player("GW3MzPecU94") %>
 
 ## Registration
 
