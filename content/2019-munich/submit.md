@@ -7,7 +7,7 @@ title: Submit Talk
 The PromCon Call for Papers (CfP) is open for talk submissions until 23:59 UTC on
 Sunday, July 31st, 2019, and we encourage you to submit a talk!
 
-<a class="btn btn-default btn-lg" href="" target="_blank" role="button">
+<a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/1uMw1IfTD4bi5WwB9EA-gIdxKk6VPpwojJ6Gaf1IeuRw/edit" target="_blank" role="button">
   <i class="fa fa-commenting"></i>&nbsp;&nbsp;Submit Talk
 </a>
 
