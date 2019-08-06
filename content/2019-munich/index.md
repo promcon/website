@@ -25,7 +25,7 @@ and 2018:
 ## Registration
 
 Registration for PromCon 2019 will open soon. We will be limited to 220 seats again.
-If you are located in North America, plesae consider skipping and going to PromCon NA
+If you are located in North America, please consider skipping and going to PromCon NA
 in spring 2020 instead.
 
 ## Sponsorship
