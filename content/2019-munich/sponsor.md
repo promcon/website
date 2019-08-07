@@ -8,7 +8,7 @@ As a community conference with a low entrance fee, we depend on sponsors for
 making PromCon possible.
 
 Do you want to help make this happen and **get your company featured in videos,
-banners, and printed materials?
+banners, and printed materials?**
 
 ## I want to sponsor PromCon. What do I do?
 
