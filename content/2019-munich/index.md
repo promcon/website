@@ -38,4 +38,4 @@ will be contacted directly.
 PromCon is organized by the [Prometheus developer
 community](https://prometheus.io/community/). For PromCon-related inquiries,
 please contact the [PromCon team](mailto:promcon-organizers@googlegroups.com).
-This year's edition is lead by [Richard "RichiH" Hartmann](speakers/richard-hartmann/)
+This year's edition is led by [Richard "RichiH" Hartmann](https://twitter.com/TwitchiH)
