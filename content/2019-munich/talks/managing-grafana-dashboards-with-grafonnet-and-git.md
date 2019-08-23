@@ -1,8 +1,8 @@
 ---
-title:  Managing Grafana dashboards with grafonnet and git
+title:  Managing Grafana Dashboards with grafonnet and git
 ---
 
-## Managing Grafana dashboards with grafonnet and git
+## Managing Grafana Dashboards with grafonnet and git
 
 Speaker: [Adam Wolfe Gordon](/2019-munich/speakers/Adam Wolfe Gordon/)
 

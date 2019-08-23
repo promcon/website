@@ -1,8 +1,8 @@
 ---
-title:  Monitoring Nodeless Kubernetes workloads with Prometheus
+title:  Monitoring Nodeless Kubernetes Workloads with Prometheus
 ---
 
-## Monitoring Nodeless Kubernetes workloads with Prometheus
+## Monitoring Nodeless Kubernetes Workloads with Prometheus
 
 Speaker: [Madhuri Yechuri](/2019-munich/speakers/Madhuri Yechuri/)
 

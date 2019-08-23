@@ -1,8 +1,8 @@
 ---
-title:  Managing Prometheus in a security-focused environment -- Linux Monitoring at HUK-COBURG
+title:  Managing Prometheus in a Security-focused Environment -- Linux Monitoring at HUK-COBURG
 ---
 
-## Managing Prometheus in a security-focused environment -- Linux Monitoring at HUK-COBURG
+## Managing Prometheus in a Security-focused Environment -- Linux Monitoring at HUK-COBURG
 
 Speaker: [Christian Hoffmann](/2019-munich/speakers/Christian Hoffmann/)
 

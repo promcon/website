@@ -1,8 +1,8 @@
 ---
-title:  Remote write storage wars
+title:  Remote Write Storage Wars
 ---
 
-## Remote write storage wars
+## Remote Write Storage Wars
 
 Speaker: [Alejandro Cespedes](/2019-munich/speakers/Alejandro Cespedes/)
 

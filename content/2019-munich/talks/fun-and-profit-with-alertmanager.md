@@ -1,8 +1,8 @@
 ---
-title:  Fun and profit with AlertManager
+title: Fun and Profit with Alertmanager
 ---
 
-## Fun and profit with AlertManager
+## Fun and Profit with Alertmanager
 
 Speaker: [Simon Pasquier](/2019-munich/speakers/Simon Pasquier/)
 
