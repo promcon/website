@@ -1,8 +1,8 @@
 ---
-title:  What the fork‽ Reporting metrics in a multi-process environment
+title: What the Fork‽ Reporting Metrics in a Multi-process Environment
 ---
 
-## What the fork‽ Reporting metrics in a multi-process environment
+## What the Fork‽ Reporting Metrics in a Multi-process Environment
 
 Speaker: [Daniel Magliola](/2019-munich/speakers/Daniel Magliola/)
 

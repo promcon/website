@@ -1,8 +1,8 @@
 ---
-title: "Prometheus and Jaeger: A match made in heaven!"
+title: "Prometheus and Jaeger: A Match Made in Heaven!"
 ---
 
-## Prometheus and Jaeger: A match made in heaven!
+## Prometheus and Jaeger: A Match Made in Heaven!
 
 Speaker: [Goutham Veeramachaneni](/2019-munich/speakers/Goutham Veeramachaneni/)
 

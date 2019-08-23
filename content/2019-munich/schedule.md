@@ -38,7 +38,7 @@ title: Schedule
     <td>10:00</td>
     <td>
       <a href="/2019-munich/talks/managing-grafana-dashboards-with-grafonnet-and-git">
-        Managing Grafana dashboards with grafonnet and git
+        Managing Grafana Dashboards with grafonnet and git
       </a>
     </td>
     <td>
@@ -50,8 +50,8 @@ title: Schedule
   <tr class="talk">
     <td>10:30</td>
     <td>
-      <a href="/2019-munich/talks/prometheus-in-small-medium-business-why-you-don-t-need-to-do-rocket-science-kubernetes-for-use-it">
-        Prometheus in small medium business: why you don't need to do rocket science (kubernetes) for use it
+      <a href="/2019-munich/talks/prometheus-in-small-and-medium-businesses-why-you-don-t-need-to-do-rocket-science-kubernetes-to-use-it">
+        Prometheus in Small and Medium Businesses: Why You Don't Need to Do Rocket Science (Kubernetes) to Use It
       </a>
     </td>
     <td>
@@ -82,7 +82,7 @@ title: Schedule
     <td>11:45</td>
     <td>
       <a href="/2019-munich/talks/managing-prometheus-in-a-security-focused-environment-linux-monitoring-at-huk-coburg">
-        Managing Prometheus in a security-focused environment -- Linux Monitoring at HUK-COBURG
+        Managing Prometheus in a Security-focused Environment -- Linux Monitoring at HUK-COBURG
       </a>
     </td>
     <td>
@@ -100,7 +100,7 @@ title: Schedule
     <td>12:30</td>
     <td>
       <a href="/2019-munich/talks/fun-and-profit-with-alertmanager">
-        Fun and profit with AlertManager
+        Fun and Profit with Alertmanager
       </a>
     </td>
     <td>
@@ -113,7 +113,7 @@ title: Schedule
     <td>13:00</td>
     <td>
       <a href="/2019-munich/talks/practical-capacity-planning-using-prometheus">
-        Practical Capacity Planning using Prometheus
+        Practical Capacity Planning Using Prometheus
       </a>
     </td>
     <td>
@@ -131,7 +131,7 @@ title: Schedule
     <td>14:30</td>
     <td>
       <a href="/2019-munich/talks/prometheus-datacenters-or-why-modbus-is-even-worse-than-snmp">
-        Prometheus @ Datacenters - or why Modbus is even worse than SNMP
+        Prometheus @ Datacenters - Or Why Modbus Is Even Worse than SNMP
       </a>
     </td>
     <td>
@@ -144,7 +144,7 @@ title: Schedule
     <td>15:00</td>
     <td>
       <a href="/2019-munich/talks/remote-write-storage-wars">
-        Remote write storage wars
+        Remote Write Storage Wars
       </a>
     </td>
     <td>
@@ -231,7 +231,7 @@ title: Schedule
     <td>9:30</td>
     <td>
       <a href="/2019-munich/talks/prometheus-at-prezi-replacing-10-years-of-anti-patterns">
-        Prometheus at Prezi: replacing 10 years of anti-patterns
+        Prometheus at Prezi: Replacing 10 Years of Anti-patterns
       </a>
     </td>
     <td>
@@ -257,7 +257,7 @@ title: Schedule
     <td>10:30</td>
     <td>
       <a href="/2019-munich/talks/monitoring-nodeless-kubernetes-workloads-with-prometheus">
-        Monitoring Nodeless Kubernetes workloads with Prometheus
+        Monitoring Nodeless Kubernetes Workloads with Prometheus
       </a>
     </td>
     <td>
@@ -275,7 +275,7 @@ title: Schedule
     <td>11:15</td>
     <td>
       <a href="/2019-munich/talks/prometheus-and-jaeger-a-match-made-in-heaven">
-        Prometheus and Jaeger: A match made in heaven!
+        Prometheus and Jaeger: A Match Made in Heaven!
       </a>
     </td>
     <td>
@@ -288,7 +288,7 @@ title: Schedule
     <td>11:45</td>
     <td>
       <a href="/2019-munich/talks/improved-alerting-with-prometheus-and-alertmanager">
-        Improved alerting with prometheus and alertmanager
+        Improved Alerting with Prometheus and Alertmanager
       </a>
     </td>
     <td>
@@ -319,7 +319,7 @@ title: Schedule
     <td>13:00</td>
     <td>
       <a href="/2019-munich/talks/tsdb-1-year-in">
-        TSDB: 1 year in
+        TSDB: 1 Year In
       </a>
     </td>
     <td>
@@ -337,7 +337,7 @@ title: Schedule
     <td>14:30</td>
     <td>
       <a href="/2019-munich/talks/what-the-fork-reporting-metrics-in-a-multi-process-environment">
-        What the fork‽ Reporting metrics in a multi-process environment
+        What the Fork‽ Reporting Metrics in a Multi-process Environment
       </a>
     </td>
     <td>

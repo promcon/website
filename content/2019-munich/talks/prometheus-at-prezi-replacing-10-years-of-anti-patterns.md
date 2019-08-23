@@ -1,8 +1,8 @@
 ---
-title: "Prometheus at Prezi: replacing 10 years of anti-patterns"
+title: "Prometheus at Prezi: Replacing 10 Years of Anti-patterns"
 ---
 
-## Prometheus at Prezi: replacing 10 years of anti-patterns
+## Prometheus at Prezi: Replacing 10 Years of Anti-patterns
 
 Speaker: [David Guerrero](/2019-munich/speakers/David Guerrero/)
 

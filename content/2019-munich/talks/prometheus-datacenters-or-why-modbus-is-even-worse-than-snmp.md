@@ -1,8 +1,8 @@
 ---
-title:  Prometheus @ Datacenters - or why Modbus is even worse than SNMP
+title:  Prometheus @ Datacenters - Or Why Modbus Is Even Worse than SNMP
 ---
 
-## Prometheus @ Datacenters - or why Modbus is even worse than SNMP
+## Prometheus @ Datacenters - Or Why Modbus Is Even Worse than SNMP
 
 Speaker: [Richard "RichiH" Hartmann](/2019-munich/speakers/Richard "RichiH" Hartmann/)
 
