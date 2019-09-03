@@ -13,4 +13,4 @@ Add yourself to the waitlist to be first in line:
 </a>
 
 
-Admission is 90€; if you need help covering attendance, travel, or accomodation costs, look [here](https://promcon.io/2019-munich/diversity/)
+Admission is 80€; if you need help covering attendance, travel, or accomodation costs, look [here](https://promcon.io/2019-munich/diversity/)
