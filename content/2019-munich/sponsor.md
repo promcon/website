@@ -13,7 +13,7 @@ banners, and printed materials?**
 ## I want to sponsor PromCon. What do I do?
 
 Please see the **<a href="https://events.linuxfoundation.org/sponsor-promcon-2019">PromCon 2019 sponsorship prospectus</a>**,
-schedule a call, or email [CNCF](mailto:sponsor@cncf.io).
+[schedule a call](https://calendly.com/kosweiler), or email [CNCF](mailto:sponsor@cncf.io).
 
 If you wish to take advantage of swag distribution, booth space, or free
 attendee tickets, please let us know in advance.
