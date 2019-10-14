@@ -26,6 +26,49 @@ and 2018:
 
 Registration for PromCon EU 2019 is closed.
 
+## Our sponsors
+
+A big thank you to all of our sponsors who are helping make PromCon EU 2019 happen!
+
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
+  <a href="https://redhat.com/"><img src="/assets/redhat_logo_new.svg" class="logo narrow"/></a>
+  <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
+  <a href="https://sysdig.com/"><img src="/assets/sysdig_logo.png" class="logo narrower"/></a>
+</div>
+
+<hr>
+
+<h3>Venue</h3>
+<div class="sponsor-logos">
+  <a href="https://google.com/"><img src="/assets/google-cloud_logo.png" class="logo narrow"/></a>
+</div>
+
+<hr>
+
+<h3>Gold</h3>
+<div class="sponsor-logos">
+  <a href="https://www.timescale.com/"><img src="/assets/timescale_logo.svg" class="logo"/></a>
+  <a href="https://www.xmatters.com/"><img src="/assets/xmatters_logo.svg" class="logo"/></a>
+</div>
+
+<hr>
+
+<h3>Silver</h3>
+<div class="sponsor-logos">
+  <a href="https://about.gitlab.com/?utm_medium=display&utm_source=event&utm_campaign=promcon"><img src="/assets/gitlab_logo_new.svg" class="logo"/></a>
+  <a href="https://nexclipper.io/"><img src="/assets/nexclipper_logo.svg" class="logo narrow"/></a>
+  <a href="https://www.walmartlabs.com/"><img src="/assets/walmart_labs_logo.svg" class="logo"/></a>
+</div>
+
+<hr>
+
+<!-- <h3>Diversity</h3>
+<div class="sponsor-logos">
+  <a href="https://gocardless.com/"><img src="/assets/gocardless_logo.svg" class="logo"/></a>
+</div>-->
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer
