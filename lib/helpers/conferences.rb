@@ -65,8 +65,8 @@ def conferences
       '/2019-munich/',
       {
        '/2019-munich/' => 'Overview',
-       '/2019-munich/register/' => 'Register',
-       '/2019-munich/diversity/' => 'Diversity',
+#       '/2019-munich/register/' => 'Register',
+#       '/2019-munich/diversity/' => 'Diversity',
 #       '/2019-munich/submit/' => 'CfP',
        '/2019-munich/schedule/' => 'Schedule',
 #       '/2019-munich/sponsor/' => 'Sponsor',

@@ -24,15 +24,7 @@ and 2018:
 
 ## Registration
 
-Registration for PromCon 2019 is [open](https://promcon.io/2019-munich/register/)! 
-
-Note: We will be limited to 220 seats again!
-
-If you are located in North America, please consider skipping and going to PromCon NA in spring 2020 instead.
-
-## Sponsorship
-
-Sponsorship is open! https://promcon.io/2019-munich/sponsor/
+Registration for PromCon EU 2019 is closed.
 
 ## Contact
 
