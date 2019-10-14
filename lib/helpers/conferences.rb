@@ -69,7 +69,7 @@ def conferences
        '/2019-munich/diversity/' => 'Diversity',
 #       '/2019-munich/submit/' => 'CfP',
        '/2019-munich/schedule/' => 'Schedule',
-       '/2019-munich/sponsor/' => 'Sponsor',
+#       '/2019-munich/sponsor/' => 'Sponsor',
 #       '/2019-munich/stream' => 'Live Stream',
        '/coc/' => 'Code of Conduct',
       },
