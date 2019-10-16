@@ -36,7 +36,7 @@ A big thank you to all of our sponsors who made PromCon 2016 happen!
 
 <h3>Platinum</h3>
 <div class="sponsor-logos">
-  <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
+  <a href="https://cncf.io/"><img src="/assets/cncf_logo.svg" class="logo"/></a>
   <a href="https://coreos.com/"><img src="/assets/coreos_logo.svg" class="logo"/></a>
 </div>
 

@@ -32,7 +32,7 @@ A big thank you to all of our sponsors who helped make PromCon 2017 happen!
 <div class="sponsor-logos">
   <a href="http://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
   <a href="https://www.weave.works/"><img src="/assets/weave_logo.png" class="logo"/></a>
-  <a href="https://cncf.io/"><img src="/assets/cncf_logo.png" class="logo"/></a>
+  <a href="https://cncf.io/"><img src="/assets/cncf_logo.svg" class="logo"/></a>
   <a href="https://www.influxdata.com/"><img src="/assets/influxdata_logo.svg" class="logo"/></a>
   <a href="https://about.gitlab.com/"><img src="/assets/gitlab_logo.svg" class="logo narrow"/></a>
 </div>

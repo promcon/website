@@ -32,6 +32,7 @@ A big thank you to all of our sponsors who are helping make PromCon EU 2019 happ
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
+  <a href="https://cncf.io/"><img src="/assets/cncf_logo.svg" class="logo"/></a>
   <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
   <a href="https://redhat.com/"><img src="/assets/redhat_logo_new.svg" class="logo narrow"/></a>
   <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
