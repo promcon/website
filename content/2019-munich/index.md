@@ -56,19 +56,19 @@ A big thank you to all of our sponsors who are helping make PromCon EU 2019 happ
 
 <hr>
 
+<h3>Diversity</h3>
+<div class="sponsor-logos">
+  <a href="https://gocardless.com/"><img src="/assets/gocardless_logo.svg" class="logo"/></a>
+</div>
+
+<hr>
+
 <h3>Silver</h3>
 <div class="sponsor-logos">
   <a href="https://about.gitlab.com/?utm_medium=display&utm_source=event&utm_campaign=promcon"><img src="/assets/gitlab_logo_new.svg" class="logo"/></a>
   <a href="https://nexclipper.io/"><img src="/assets/nexclipper_logo.svg" class="logo narrow"/></a>
   <a href="https://www.walmartlabs.com/"><img src="/assets/walmart_labs_logo.svg" class="logo"/></a>
 </div>
-
-<hr>
-
-<!-- <h3>Diversity</h3>
-<div class="sponsor-logos">
-  <a href="https://gocardless.com/"><img src="/assets/gocardless_logo.svg" class="logo"/></a>
-</div>-->
 
 ## Contact
 
