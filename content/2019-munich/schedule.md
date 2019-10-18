@@ -14,7 +14,7 @@ title: Schedule
     <td></td>
   </tr>
   <tr class="talk">
-    <td>9:15</td>
+    <td>9:00</td>
     <td>
         Welcome and Introduction
     </td>
@@ -22,7 +22,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>9:30</td>
+    <td>9:15</td>
     <td>
       <a href="/2019-munich/talks/migrating-from-nagios-to-prometheus-at-runtastic">
         Migrating from Nagios to Prometheus at Runtastic
@@ -35,7 +35,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>10:00</td>
+    <td>9:45</td>
     <td>
       <a href="/2019-munich/talks/managing-grafana-dashboards-with-grafonnet-and-git">
         Managing Grafana Dashboards with grafonnet and git
@@ -48,7 +48,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>10:30</td>
+    <td>10:15</td>
     <td>
       <a href="/2019-munich/talks/prometheus-in-small-and-medium-businesses-why-you-don-t-need-to-do-rocket-science-kubernetes-to-use-it">
         Prometheus in Small and Medium Businesses: Why You Don't Need to Do Rocket Science (Kubernetes) to Use It
@@ -61,7 +61,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="break">
-    <td>11:00</td>
+    <td>10:45</td>
     <td>Break</td>
     <td></td>
   </tr>
@@ -122,13 +122,8 @@ title: Schedule
       <b>GitLab</b>
     </td>
   </tr>
-  <tr class="break">
-    <td>13:30</td>
-    <td>Lunch</td>
-    <td></td>
-  </tr>
   <tr class="talk">
-    <td>14:30</td>
+    <td>13:30</td>
     <td>
       <a href="/2019-munich/talks/prometheus-datacenters-or-why-modbus-is-even-worse-than-snmp">
         Prometheus @ Datacenters - Or Why Modbus Is Even Worse than SNMP
@@ -139,6 +134,11 @@ title: Schedule
       <br>
       <b>SpaceNet</b>
     </td>
+  </tr>
+  <tr class="break">
+    <td>14:00</td>
+    <td>Lunch</td>
+    <td></td>
   </tr>
   <tr class="talk">
     <td>15:00</td>
@@ -153,13 +153,8 @@ title: Schedule
       <b>Adidas</b>
     </td>
   </tr>
-  <tr class="break">
-    <td>15:30</td>
-    <td>Break</td>
-    <td></td>
-  </tr>
   <tr class="talk">
-    <td>15:45</td>
+    <td>15:30</td>
     <td>
       <a href="/2019-munich/talks/expectations-on-remote-data">
         Expectations on Remote Data
@@ -172,7 +167,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>16:15</td>
+    <td>16:00</td>
     <td>
       <a href="/2019-munich/talks/two-households-both-alike-in-dignity-cortex-and-thanos">
         Two Households, Both Alike in Dignity: Cortex and Thanos
@@ -189,7 +184,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="break">
-    <td>16:45</td>
+    <td>16:30</td>
     <td>Break</td>
     <td></td>
   </tr>
@@ -228,7 +223,7 @@ title: Schedule
     <td></td>
   </tr>
   <tr class="talk">
-    <td>9:30</td>
+    <td>9:15</td>
     <td>
       <a href="/2019-munich/talks/prometheus-at-prezi-replacing-10-years-of-anti-patterns">
         Prometheus at Prezi: Replacing 10 Years of Anti-patterns
@@ -241,7 +236,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>10:00</td>
+    <td>9:45</td>
     <td>
       <a href="/2019-munich/talks/containing-your-cardinality">
         Containing Your Cardinality
@@ -254,7 +249,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="talk">
-    <td>10:30</td>
+    <td>10:15</td>
     <td>
       <a href="/2019-munich/talks/monitoring-nodeless-kubernetes-workloads-with-prometheus">
         Monitoring Nodeless Kubernetes Workloads with Prometheus
@@ -267,7 +262,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="break">
-    <td>11:00</td>
+    <td>10:45</td>
     <td>Break</td>
     <td></td>
   </tr>
@@ -328,13 +323,8 @@ title: Schedule
       <b>Grafana Labs</b>
     </td>
   </tr>
-  <tr class="break">
-    <td>13:30</td>
-    <td>Lunch</td>
-    <td></td>
-  </tr>
   <tr class="talk">
-    <td>14:30</td>
+    <td>13:30</td>
     <td>
       <a href="/2019-munich/talks/what-the-fork-reporting-metrics-in-a-multi-process-environment">
         What the Fork‽ Reporting Metrics in a Multi-process Environment
@@ -346,6 +336,11 @@ title: Schedule
       <b>GoCardless Ltd</b>
       <br>
     </td>
+  </tr>
+  <tr class="break">
+    <td>14:00</td>
+    <td>Lunch</td>
+    <td></td>
   </tr>
   <tr class="talk">
     <td>15:00</td>
@@ -360,13 +355,8 @@ title: Schedule
       <b>Grafana Labs</b>
     </td>
   </tr>
-  <tr class="break">
-    <td>15:30</td>
-    <td>Break</td>
-    <td></td>
-  </tr>
   <tr class="talk">
-    <td>15:45</td>
+    <td>15:30</td>
     <td>
         Panel Discussion
     </td>
@@ -374,7 +364,7 @@ title: Schedule
     </td>
   </tr>
   <tr class="break">
-    <td>16:45</td>
+    <td>16:30</td>
     <td>Break</td>
     <td></td>
   </tr>
