@@ -201,9 +201,9 @@ title: Schedule
     <td></td>
   </tr>
   <tr class="break">
-    <td>18:30</td>
+    <td>19:00</td>
     <td>
-      Social event
+      Social event @ <a href="https://goo.gl/maps/BTrDPQNW7qiKnDu29">Stiglerie, Nymphenburger Straße 3</a>
       <br>
       Until Late
     </td>
