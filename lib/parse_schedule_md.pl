@@ -26,10 +26,21 @@ sub process {
         }
         my ($time, $title, $speakers) = (
             $slotcontent =~ m#<td>\s*(.*?)\s*</td>#sg);
-        my $talklink;
-        if ($title =~ m#<a href="(.*)">\s*(\S.*\S)\s*</a>#) {
-            $talklink = $1;
-            $title = $2;
+        my ($talklink, $desc, $links);
+        if ($title =~ m#^\s*(.*)<a href="(.*)">\s*(\S.*\S)\s*</a>(.*?)\s*$#s) {
+            $title = "$1$3$4";
+            $talklink = $2;
+            my $linkdesc = $3;
+            $title =~ s/\s+/ /g;
+            if ($talklink) {
+                my $talkfname = "content/$talklink.md";
+                if (-f $talkfname) {
+                    ($desc, $links) = process_talk($talkfname);
+                } else {
+                    $links = [[$talklink, $linkdesc]];
+                    $talklink = undef;
+                }
+            }
         }
         $title =~ s#<br/?>##g;
         my @speakers;
@@ -47,7 +58,6 @@ sub process {
         if ($speakers) {
             push @speakers, [$speakers, undef, undef];
         }
-        my ($desc, $links) = process_talk($talklink) if ($talklink);
         push @{$events[$day]}, {
             id => ++$id,
             type => $type,
@@ -64,10 +74,9 @@ sub process {
 }
 
 sub process_talk {
-    my $slug = shift;
-    my $fname = "content/$slug.md";
+    my $fname = shift;
     local $/;
-    open(my $fh, '<', $fname) or die $!;
+    open(my $fh, '<', $fname) or die "$fname: $!";
     my $talk = <$fh>;
     close ($fh) or die $!;
 
@@ -108,7 +117,7 @@ sub set_durations {
     }
 }
 my $baseurl = 'https://promcon.io';
-my $start = DateTime->new(day => 9, month => 8, year => 2018);
+my $start = DateTime->new(day => 7, month => 11, year => 2019);
 
 my $events = process();
 my $days = scalar(@$events);
@@ -121,7 +130,7 @@ print <<END;
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
   <conference>
-    <title>PromCon 2018</title>
+    <title>PromCon EU 2019</title>
     <start>$startYMD</start>
     <end>$endYMD</end>
     <days>$days</days>
