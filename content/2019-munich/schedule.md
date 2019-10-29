@@ -4,6 +4,9 @@ title: Schedule
 
 ## PromCon 2019 Schedule
 
+**Mobile schedule**: You can also access this schedule from your mobile device. Click
+[here](/2019-munich/mobile_schedule) for more info.
+
 <table class="table schedule-table">
   <tr class="day">
     <th colspan="3">Day 1 - Thursday, November 7</th>
