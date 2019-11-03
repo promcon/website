@@ -16,4 +16,7 @@ In the process of doing so, we will investigate how the Prometheus frontend hand
 
 The entire setup is usable with out-of-the-box standard Prometheus components, no patches necessary.
 
+<%= youtube_player("AO_I1oVcqBM") %>
+
+[Video link](https://youtu.be/AO_I1oVcqBM) -
 [Slides](/2018-munich/slides/implementing-a-cooperative-multi-tenant-capable-prometheus.pdf)

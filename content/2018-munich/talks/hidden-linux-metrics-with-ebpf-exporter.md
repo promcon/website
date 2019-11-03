@@ -24,4 +24,7 @@ In this talk we'll go over eBPF basics, how to write programs and get insights i
 
 [https://github.com/cloudflare/ebpf\_exporter](https://github.com/cloudflare/ebpf\_exporter)
 
+<%= youtube_player("dRdJ75tKZak") %>
+
+[Video link](https://youtu.be/dRdJ75tKZak) -
 [Slides](/2018-munich/slides/hidden-linux-metrics-with-ebpf-exporter.pdf)

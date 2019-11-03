@@ -16,4 +16,7 @@ We will cover why we decided to use [Prow](https://github.com/kubernetes/test-in
 
 We will also cover the current progress, the project roadmap and of course do a short demo.
 
+<%= youtube_player("9LuVvVddJjg") %>
+
+[Video link](https://youtu.be/9LuVvVddJjg) -
 [Slides](/2018-munich/slides/automated-prometheus-benchmarking.pdf)

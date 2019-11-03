@@ -15,4 +15,7 @@ While for some use cases single values are enough, for others more sophisticated
 
 Frederic and Michael will review the history of metrics in Kubernetes, discuss the current state of metrics and autoscaling on Kubernetes using Prometheus with a focus on VPAs as well as show it in action.
 
+<%= youtube_player("yaB8I6_qR_k") %>
+
+[Video link](https://youtu.be/yaB8I6_qR_k) -
 [Slides](/2018-munich/slides/autoscaling-all-things-kubernetes-with-prometheus.pdf)

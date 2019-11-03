@@ -10,4 +10,7 @@ The pillars of observability have long been accepted as key components of any mi
 
 Within this talk, I will discuss how we have leveraged Prometheus to properly instrument and test features within the software-defined networking pillar at Digital Ocean. I will highlight instrumentation, key visualizations, as well as takeaways from our experience. Perhaps even more importantly, I will touch upon areas that we can certainly improve upon. Listeners - especially those on product teams - will be able to utilize these learnings and hopefully apply them before their releases as well.
 
+<%= youtube_player("gNk7Y0AW9HI") %>
+
+[Video link](https://youtu.be/gNk7Y0AW9HI) -
 [Slides](/2018-munich/slides/observability-and-product-release.pdf)

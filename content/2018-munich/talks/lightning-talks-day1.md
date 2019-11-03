@@ -6,6 +6,10 @@ title: Lightning Talks Day One
 
 Lightning talks are 5 minutes each.
 
+<%= youtube_player("_L5RjJ7MVv4") %>
+
+[Video link](https://youtu.be/_L5RjJ7MVv4)
+
 ---
 
 ### #1 - Integrate Alertmanager with OpsGenie for Advanced Alerting

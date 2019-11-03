@@ -12,4 +12,7 @@ This talk will show how we've added support to the Flux engine to query multiple
 
 We'll close out the talk by looking at how PromQL support is being added to the new engine. This will enable PromQL queries across a distributed system where the individual Prometheus and storage servers maintain their shared-nothing non-clustered failure modes.
 
+<%= youtube_player("yO2X6oNba6k") %>
+
+[Video link](https://youtu.be/yO2X6oNba6k) -
 [Slides](/2018-munich/slides/using-the-flux-query-engine-to-query-multiple-prometheus-servers.pdf)

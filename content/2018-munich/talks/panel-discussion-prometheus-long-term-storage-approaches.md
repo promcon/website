@@ -13,3 +13,7 @@ Speakers:
 * [Nikunj Aggarwal](/2018-munich/speakers/nikunj-aggarwal/), M3DB
 * [Paul Dix](/2018-munich/speakers/paul-dix/), InfluxDB
 * [Tom Wilkie](/2018-munich/speakers/tom-wilkie/), Cortex
+
+<%= youtube_player("3pTG_N8yGSU") %>
+
+[Video link](https://youtu.be/3pTG_N8yGSU)
