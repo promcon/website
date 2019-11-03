@@ -8,4 +8,7 @@ Speaker: [Jaana B. Dogan](/2018-munich/speakers/jaana-b-dogan)
 
 Collecting and alerting on RPC metrics is a fundamental part of Google's reliability story. In this talk, we will go through what we have learned in the last two decades and why we are trying to flex our instrumentation stack to cooperate with Prometheus.
 
+<%= youtube_player("Dm3r0Siu7PU") %>
+
+[Video link](https://youtu.be/Dm3r0Siu7PU) -
 [Slides](/2018-munich/slides/rpc_metrics_at_google.pdf)

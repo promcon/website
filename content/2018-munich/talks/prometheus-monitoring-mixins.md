@@ -10,4 +10,7 @@ Prometheus offers powerful open source monitoring and alerting - but that comes 
 
 In this talk we present a technique for using Jsonnet (a configuration language from Google) for packaging and deploying "Monitoring Mixins" - extensible and customisable combinations of dashboards, alert definitions and exporters. This technique allows developers of open source projects to publish best-practice monitoring configurations alongside their code, and for users to consume it, customise it and stay up to date. We will present example Mixins for Kubernetes and other services such as Consul, Vault, and Cassandra.
 
+<%= youtube_player("GDdnL5R_l-Y") %>
+
+[Video link](https://youtu.be/GDdnL5R_l-Y) -
 [Slides](/2018-munich/slides/prometheus-monitoring-mixins.pdf)

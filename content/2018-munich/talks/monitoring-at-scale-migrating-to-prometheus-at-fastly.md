@@ -14,4 +14,7 @@ It hasn't been completely smooth sailing and deploying Prometheus across a globe
 
 In this presentation you will learn how we addressed these issues in ways that deviate slightly from conventional wisdom, the mistakes we made along the way, and how the new system has been received by our teams. We hope that our experiences can help you succeed in deploying Prometheus within your organization.
 
+<%= youtube_player("ouLY973Ld24") %>
+
+[Video link](https://youtu.be/ouLY973Ld24) -
 [Slides](/2018-munich/slides/monitoring-at-scale-migrating-to-prometheus-at-fastly.pdf)

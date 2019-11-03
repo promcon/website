@@ -25,4 +25,7 @@ During this talk we will demo:
 - Prometheus Model Builder, generate expectation models out of any Prometheus metric
 - A collection of templated Grafana dashboards to give every team a kickstart
 
+<%= youtube_player("m-TOaHfOXoE") %>
+
+[Video link](https://youtu.be/m-TOaHfOXoE) -
 [Slides](/2018-munich/slides/introducing-our-reliability-toolkit.pdf)

@@ -15,4 +15,7 @@ Thanos takes Prometheus' strong foundations and extends it into a clustered, yet
 
 We will show the theoretical concepts behind Thanos and demonstrate how it seamlessly integrates into existing Prometheus setups.
 
+<%= youtube_player("Fb_lYX01IX4") %>
+
+[Video link](https://youtu.be/Fb_lYX01IX4) -
 [Slides](/2018-munich/slides/thanos-prometheus-at-scale.pdf)

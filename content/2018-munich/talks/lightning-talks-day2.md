@@ -6,6 +6,9 @@ title: Lightning Talks Day Two
 
 Lightning talks are 5 minutes each.
 
+<%= youtube_player("5h-8V5qY2j0") %>
+
+[Video link](https://youtu.be/5h-8V5qY2j0)
 ---
 
 ### #1 - Customizing Alertmanager Notifications
