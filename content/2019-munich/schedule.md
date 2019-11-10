@@ -194,7 +194,9 @@ title: Schedule
   <tr class="talk">
     <td>17:00</td>
     <td>
+      <a href="/2019-munich/talks/lightning-talks-day1">
         Lightning Talks
+      </a>
     </td>
     <td></td>
   </tr>
@@ -374,7 +376,9 @@ title: Schedule
   <tr class="talk">
     <td>17:00</td>
     <td>
+      <a href="/2019-munich/talks/lightning-talks-day2">
         Lightning Talks
+      </a>
     </td>
     <td></td>
   </tr>
