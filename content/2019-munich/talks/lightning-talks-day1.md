@@ -8,67 +8,11 @@ Lightning talks are 5 minutes each.
 
 ---
 
-### #1 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #2 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #3 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #4 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
 ### #5 - Announcing the SLO Libsonnet
 
 Speaker: Matthias Loibl
 
 [Slides](/2019-munich/slides/lt1-05_slo-libsonnet.pdf)
-
----
-
-### #6 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #7 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #8 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
 
 ---
 

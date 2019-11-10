@@ -32,60 +32,11 @@ Speaker: Joris Baum
 
 ---
 
-### #4 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #5 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #6 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #7 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
 ### #8 - Monitoring at CCC NOC - How the Internetmanufaktur Uses Prometheus
 
 Speaker: Frederic Jaeckel
 
 [Slides](/2019-munich/slides/lt2-08_monitoring-at-ccc-noc.pdf)
-
----
-
-### #9 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #10 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
 
 ---
 
@@ -97,50 +48,9 @@ Speaker: Sally Lehman
 
 ---
 
-### #12 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
-
----
-
-### #13 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
 ### #14 - Pain Points with M3 and How Replication Works
 
 Speaker: Rob Skillington
 
 [Slides](/2019-munich/slides/lt2-14_pain-points-with-m3-and-how-replication-works.pdf)
-
----
-
-### #15 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #16 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
-
----
-
-### #17 - 
-
-Speaker: 
-
-[Slides](/2019-munich/slides/)
 
