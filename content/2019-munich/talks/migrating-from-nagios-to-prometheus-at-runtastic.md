@@ -4,7 +4,7 @@ title:  Migrating from Nagios to Prometheus at Runtastic
 
 ## Migrating from Nagios to Prometheus at Runtastic
 
-Speaker: [Niko Dominkowitsch](/2019-munich/speakers/Niko Dominkowitsch/)
+Speaker: [Niko Dominkowitsch](/2019-munich/speakers/niko-dominkowitsch/)
 
 Thinking of replacing your existing monitoring solution with Prometheus? In this talk we will show you how Runtastic moved its monitoring and alerting stack from Nagios to Prometheus. We'll show you how we managed to do this, how monitoring and alerting works with Prometheus and what challenges we were facing.  
 
