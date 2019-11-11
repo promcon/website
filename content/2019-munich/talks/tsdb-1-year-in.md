@@ -4,7 +4,7 @@ title: "TSDB: 1 Year In"
 
 ## TSDB: 1 Year In
 
-Speaker: [Ganesh Vernekar](/2019-munich/speakers/Ganesh Vernekar/)
+Speaker: [Ganesh Vernekar](/2019-munich/speakers/ganesh-vernekar/)
 
 Since a major revamp of the Prometheus storage engine as part of the Prometheus 2.0 release, there have been a lot of enhancements and feature additions in TSDB.
 
