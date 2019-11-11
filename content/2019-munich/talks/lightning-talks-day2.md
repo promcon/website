@@ -56,6 +56,14 @@ Speaker: Rob Skillington
 
 ---
 
+### #15 - Alert Acknowledgment with Alertmanager
+
+Speaker: Łukasz Mierzwa
+
+[Slides](/2019-munich/slides/lt2-15_alert_acknowledgement_with_alertmanager.pdf)
+
+---
+
 ### #16 - Cacheability of PromQL Queries
 
 Speaker: [Björn Rabenstein](/2019-munich/speakers/Björn Rabenstein/)
