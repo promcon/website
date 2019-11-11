@@ -19,7 +19,9 @@ title: Schedule
   <tr class="talk">
     <td>9:00</td>
     <td>
+      <a href="/2019-munich/talks/welcome-and-introduction">
         Welcome and Introduction
+      </a>
     </td>
     <td>
     </td>
@@ -385,7 +387,9 @@ title: Schedule
   <tr class="talk">
     <td>18:00</td>
     <td>
+      <a href="/2019-munich/talks/closing">
         Closing
+      </a>
     </td>
     <td>
     </td>
