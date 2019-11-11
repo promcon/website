@@ -18,3 +18,5 @@ We will cover these topics:
 * Examples of common checks in Nagios and how we implemented them with Prometheus
 * Examples of custom written Exporters
 * Lessons Learned
+
+[Slides](/2019-munich/slides/migrating-from-nagios-to-prometheus-at-runtastic.pdf)
