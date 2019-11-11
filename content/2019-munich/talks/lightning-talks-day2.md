@@ -54,3 +54,8 @@ Speaker: Rob Skillington
 
 [Slides](/2019-munich/slides/lt2-14_pain-points-with-m3-and-how-replication-works.pdf)
 
+---
+
+### #16 - Cacheability of PromQL Queries
+
+Speaker: [Björn Rabenstein](/2019-munich/speakers/Björn Rabenstein/)
