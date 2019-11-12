@@ -32,6 +32,14 @@ Speaker: Joris Baum
 
 ---
 
+### #7 - How to Manage 600 Prometheus Instances?
+
+Speaker: Geoffrey Beausire
+
+[Slides](/2019-munich/slides/lt2-07_how-to-manage-600-prometheus-instances.pdf)
+
+---
+
 ### #8 - Monitoring at CCC NOC - How the Internetmanufaktur Uses Prometheus
 
 Speaker: Frederic Jaeckel
