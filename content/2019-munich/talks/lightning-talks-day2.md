@@ -32,6 +32,14 @@ Speaker: Joris Baum
 
 ---
 
+### #4 - Monitoring Networking Infrastructure with Prometheus ecosystem
+
+Speaker: Artem Nedoshepa
+
+[Slides](/2019-munich/slides/lt2-04_monitoring-networking-infrastructure-with-prometheus-ecosystem.pdf)
+
+---
+
 ### #7 - How to Manage 600 Prometheus Instances?
 
 Speaker: Geoffrey Beausire

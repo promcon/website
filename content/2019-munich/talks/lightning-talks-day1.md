@@ -8,14 +8,6 @@ Lightning talks are 5 minutes each.
 
 ---
 
-### #4 - Monitoring Networking Infrastructure with Prometheus ecosystem
-
-Speaker: Artem Nedoshepa
-
-[Slides](/2019-munich/slides/lt1-04_monitoring-networking-infrastructure-with-prometheus-ecosystem.pdf)
-
----
-
 ### #5 - Announcing the SLO Libsonnet
 
 Speaker: Matthias Loibl
