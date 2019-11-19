@@ -40,6 +40,18 @@ Speaker: Artem Nedoshepa
 
 ---
 
+### #5 - The Numbers Behind Prometheus and Grafana
+
+Speaker: Manuel Craciun
+
+---
+
+### #6 - Metrics, and Logs, and Metadata, Oh My!
+
+Speaker: Mike Freedman
+
+---
+
 ### #7 - How to Manage 600 Prometheus Instances?
 
 Speaker: Geoffrey Beausire
@@ -56,11 +68,35 @@ Speaker: Frederic Jaeckel
 
 ---
 
+### #9 - How to Monitor a Music Festival
+
+Speaker: Christian Simon
+
+---
+
+### #10 - PromQL Aggregation Sharding
+
+Speaker: [Tom Wilkie](/2019-munich/speakers/tom-wilkie/)
+
+---
+
 ### #11 - Getting Non-Infrastructure Engineers to Use Prometheus
 
 Speaker: Sally Lehman
 
 [Slides](/2019-munich/slides/lt2-11_getting-non-infrastructure-engineers-to-use-prometheus.pdf)
+
+---
+
+### #12 - Victoria Metrics Cluster Architecture
+
+Speaker: Alexander Danilov
+
+---
+
+### #13 - A Deeper Look into Victoria Metrics Benchmarks
+
+Speaker: [Brian Brazil](/2019-munich/speakers/brian-brazil/)
 
 ---
 
@@ -83,3 +119,9 @@ Speaker: Łukasz Mierzwa
 ### #16 - Cacheability of PromQL Queries
 
 Speaker: [Björn Rabenstein](/2019-munich/speakers/Björn Rabenstein/)
+
+---
+
+### #17 - Automated Canaries with Prometheus, Kubernetes and Service Mesh
+
+Speaker: Bryan Boreham
