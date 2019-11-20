@@ -94,6 +94,8 @@ Speaker: Sally Lehman
 
 Speaker: Alexander Danilov
 
+[Slides](/2019-munich/slides/lt2-12_victoria-metrics-cluster-architecture.pdf)
+
 ---
 
 ### #13 - A Deeper Look into Victoria Metrics Benchmarks
