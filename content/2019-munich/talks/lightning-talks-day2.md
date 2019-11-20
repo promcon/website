@@ -44,6 +44,8 @@ Speaker: Artem Nedoshepa
 
 Speaker: Manuel Craciun
 
+[Slides](/2019-munich/slides/lt2-05_the-numbers-behind-prometheus-and-grafana.pdf)
+
 ---
 
 ### #6 - Metrics, and Logs, and Metadata, Oh My!
@@ -91,6 +93,8 @@ Speaker: Sally Lehman
 ### #12 - Victoria Metrics Cluster Architecture
 
 Speaker: Alexander Danilov
+
+[Slides](/2019-munich/slides/lt2-12_victoria-metrics-cluster-architecture.pdf)
 
 ---
 

@@ -44,6 +44,8 @@ Speaker: Matthias Loibl
 
 Speaker: Matthias Runge
 
+[Slides](/2019-munich/slides/lt1-06_saf-and-closed-loop-automation.pdf)
+
 ---
 
 ### #7 - New UI
