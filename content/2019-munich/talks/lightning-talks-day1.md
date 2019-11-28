@@ -58,6 +58,8 @@ Speaker: [Julius Volz](/2018-munich/speakers/julius-volz/)
 
 Speaker: Cyril Tovena
 
+[Slides](/2019-munich/slides/lt1-08_logql-in-5-minutes.pdf)
+
 ---
 
 ### #9 - Reducing remote read footprint

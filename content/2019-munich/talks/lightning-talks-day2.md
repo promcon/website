@@ -80,6 +80,8 @@ Speaker: Christian Simon
 
 Speaker: [Tom Wilkie](/2019-munich/speakers/tom-wilkie/)
 
+[Slides](/2019-munich/slides/lt2-10_promql-aggregation-sharding.pdf)
+
 ---
 
 ### #11 - Getting Non-Infrastructure Engineers to Use Prometheus
@@ -129,3 +131,5 @@ Speaker: [Björn Rabenstein](/2019-munich/speakers/Björn Rabenstein/)
 ### #17 - Automated Canaries with Prometheus, Kubernetes and Service Mesh
 
 Speaker: Bryan Boreham
+
+[Slides](/2019-munich/slides/lt2-17_automated-canaries-with-prometheus-kubernetes-and-service-mesh.pdf)
