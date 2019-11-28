@@ -4,7 +4,7 @@ title: Welcome and Introduction
 
 ## Welcome and Introduction
 
-Speaker: [Richard Hartmann](/2019-munich/speakers/richard-hartmann/)
+Speaker: [Richard "RichiH" Hartmann](/2019-munich/speakers/richard-hartmann/)
 
 Richard opens the conference.
 

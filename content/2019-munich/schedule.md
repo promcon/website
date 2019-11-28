@@ -24,6 +24,9 @@ title: Schedule
       </a>
     </td>
     <td>
+      <a href="/2019-munich/speakers/richard-hartmann">Richard "RichiH" Hartmann</a>
+      <br>
+      <b>SpaceNet</b>
     </td>
   </tr>
   <tr class="talk">
@@ -392,6 +395,9 @@ title: Schedule
       </a>
     </td>
     <td>
+      <a href="/2019-munich/speakers/richard-hartmann">Richard "RichiH" Hartmann</a>
+      <br>
+      <b>SpaceNet</b>
     </td>
   </tr>
 </table>
