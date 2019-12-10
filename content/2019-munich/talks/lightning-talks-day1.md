@@ -14,9 +14,11 @@ Speaker: Adrien Fillon
 
 ---
 
-### #2 - Conprof - Prometheus for Profiles
+### #2 - Conprof - Prometheus but for Profiles
 
 Speaker: [Frederic Branczyk](/2018-munich/speakers/frederic-branczyk/)
+
+[Slides](/2019-munich/slides/lt1-02_conprof-prometheus-but-for-profiles.pdf)
 
 ---
 
