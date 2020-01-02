@@ -19,4 +19,7 @@ We will cover these topics:
 * Examples of custom written Exporters
 * Lessons Learned
 
+<%= youtube_player("xSPNYXbAhQE") %>
+
+[Video link](https://youtu.be/xSPNYXbAhQE) -
 [Slides](/2019-munich/slides/migrating-from-nagios-to-prometheus-at-runtastic.pdf)

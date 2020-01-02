@@ -8,6 +8,9 @@ Speaker: [Julien Pivotto](/2019-munich/speakers/julien-pivotto/)
 
 One of the reasons we collect metrics is to be able to alert on them. This presentation will introduce you some concepts of PromQL, prometheus and alertmanager to highly improve the quality and reliability of your alerts.  This talk will cover different topic, including:  - Reducing flapping alerts - Hysteresis - "Time of the day" based alerting - Computed thresholds with data history
 
+<%= youtube_player("RlOA5KgBkz8") %>
+
+[Video link](https://youtu.be/RlOA5KgBkz8) -
 [Slides][s] - [Code][c]
 
 

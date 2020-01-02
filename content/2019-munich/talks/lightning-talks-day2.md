@@ -6,6 +6,10 @@ title: Lightning Talks Day Two
 
 Lightning talks are 5 minutes each.
 
+<%= youtube_player("UTODrbR9yxE") %>
+
+[Video link](https://youtu.be/UTODrbR9yxE)
+
 ---
 
 ### #1 - Metric Storage for Capacity Management of Kubernetes/OpenShift Clusters
