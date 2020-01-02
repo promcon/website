@@ -6,6 +6,10 @@ title: Lightning Talks Day One
 
 Lightning talks are 5 minutes each.
 
+<%= youtube_player("kRVE15j1zxQ") %>
+
+[Video link](https://youtu.be/kRVE15j1zxQ)
+
 ---
 
 ### #1 - Tips and Tricks with the TextFile Collector

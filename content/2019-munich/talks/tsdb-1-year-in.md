@@ -21,4 +21,7 @@ In this talk I will speak about all that has gone into TSDB since 2.0 was releas
 
 I will also talk about how each of these developments impacted Prometheus and how devs embedding them in their own apps can leverage them.
 
+<%= youtube_player("ogtK5-Tvp-E") %>
+
+[Video link](https://youtu.be/ogtK5-Tvp-E) -
 [Slides](/2019-munich/slides/tsdb-1-year-in.pdf)
