@@ -93,6 +93,3 @@ DEPENDENCIES
   rb-fsevent
   rb-inotify
   redcarpet
-
-BUNDLED WITH
-   1.14.5
