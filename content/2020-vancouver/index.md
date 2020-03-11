@@ -22,7 +22,7 @@ A big thank you to all of our sponsors who are helping make PromCon NA 2020 happ
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
-  <a href="https://chronosphere.io/"><img src="/assets/Chronosphere_vertical_logo.svg" class="logo"/></a>
+  <a href="https://chronosphere.io/"><img alt="Chronosphere" src="/assets/Chronosphere_vertical_logo.svg" class="logo"/></a>
 </div>
 
 ## Contact
