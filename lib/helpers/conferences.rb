@@ -83,6 +83,7 @@ def conferences
         '/2020-vancouver/' => 'Overview',
 #       '/2020-vancouver/register/' => 'Register',
 #       '/2020-vancouver/diversity/' => 'Diversity',
+        '/2020-vancouver/covid-19/' => 'COVID-19 Notice',
         '/2020-vancouver/submit/' => 'Submit Talk',
 #       '/2020-vancouver/schedule/' => 'Schedule',
         '/2020-vancouver/sponsor/' => 'Sponsor',
