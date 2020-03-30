@@ -1,6 +1,9 @@
 ## Submit a talk
 
-Talk submissions for PromCon NA 2020 are open until 23:59 UTC on Friday, March 27, 2020, and we encourage you to submit a talk!
+Talk submissions for PromCon NA 2020 are open until 23:59 UTC on Thursday, April 30, 2020.
+
+While there is uncertainty due to COVID-19, we encourage you to submit a talk anyway as we hope
+to have an event at some point in some form one way or the other.
 
 <a class="btn btn-default btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSeBWIpc5sl6W1z3xtmrCZGog58vaAX6YeHJrPMXO44_dwMnhA/viewform" target="_blank" role="button">
   <i class="fa fa-commenting"></i>&nbsp;&nbsp;Submit Talk
