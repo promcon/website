@@ -12,10 +12,7 @@ banners, and printed materials?**
 
 ## I want to sponsor PromCon. What do I do?
 
-Please see the **<a href="/assets/sponsor-promcon-2020_03022020.pdf">PromCon NA 2020 sponsorship prospectus</a>** or email [CNCF](mailto:sponsor@cncf.io).
-
-If you wish to take advantage of swag distribution, booth space, or free
-attendee tickets, please let us know in advance.
+We will announce sponsorship details for PromCon North America 2021 soon. For now, please email [CNCF](mailto:sponsor@cncf.io) to register interest.
 
 ## Why sponsor PromCon?
 

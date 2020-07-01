@@ -1,6 +1,6 @@
 ---
 title: The Prometheus Conference
-redirect: /2020-vancouver/
+redirect: /2021-vancouver/
 ---
 
 ## PromCon - The Prometheus Conference

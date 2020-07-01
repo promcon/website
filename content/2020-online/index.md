@@ -2,11 +2,9 @@
 title: Overview
 ---
 
-<p class="alert alert-warning">PromCon North America 2020 is <strong>cancelled</strong>. <a href="covid-19/">Read more</a>.</p>
-
 ## Overview
 
-PromCon North America 2020 is the fifth installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). It will take place July 16-17, 2020 (Thu & Fri) at the [Westin Bayshore](https://www.marriott.com/hotels/travel/yvrwi-the-westin-bayshore-vancouver/) hotel in Vancouver as a single-track event with space for 600 attendees.
+PromCon Online 2020 is the fifth installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). It will take place online on July 15-16, 2020 (Wed & Thu).
 
 PromCon aims to connect Prometheus users and developers from around the world in order to exchange knowledge, best practices, and experience gained around using Prometheus. We also want to collaborate to build a community and grow professional connections around systems and service monitoring.
 
@@ -16,11 +14,11 @@ Get an impression of PromCon EU 2019:
 
 ## Registration
 
-Registration for PromCon NA 2020 will open soon.
+Registration for PromCon Online 2020 will open soon.
 
 ## Our sponsors
 
-A big thank you to all of our sponsors who are helping make PromCon NA 2020 happen!
+A big thank you to all of our sponsors who are helping make PromCon Online 2020 happen!
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
