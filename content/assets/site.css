@@ -23,6 +23,11 @@ body {
   background-size: cover;
 }
 
+.online-banner {
+  background-image: url("/assets/online-banner.jpg");
+  background-size: cover;
+}
+
 .vancouver-banner {
   background-image: url("/assets/vancouver-banner.jpg");
   background-size: cover;
