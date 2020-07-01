@@ -18,7 +18,7 @@ Registration for PromCon Online 2020 will open soon.
 
 ## Our sponsors
 
-A big thank you to all of our sponsors who are helping make PromCon Online 2020 happen!
+A big thank you to all of our sponsors who are helping make PromCon happen! While our costs in 2020 will be reduced, the ones listed here agreed to sponsor 2021 which makes venue postponement juggling easier.
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
