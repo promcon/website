@@ -77,7 +77,7 @@ def conferences
     ),
     Conference.new(
       'PromCon Online 2020',
-      'The Prometheus conference — July 15 - 16 online',
+      'The Prometheus conference — July 14 - 16 online',
       '/2020-online/',
       {
         '/2020-online/' => 'Overview',

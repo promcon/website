@@ -4,7 +4,7 @@ title: Overview
 
 ## Overview
 
-PromCon Online 2020 is the fifth installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). It will take place online on July 15-16, 2020 (Wed & Thu).
+PromCon Online 2020 is the fifth installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). It will take place online on July 14-16, 2020 (Tue - Thu).
 
 PromCon aims to connect Prometheus users and developers from around the world in order to exchange knowledge, best practices, and experience gained around using Prometheus. We also want to collaborate to build a community and grow professional connections around systems and service monitoring.
 
