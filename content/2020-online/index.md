@@ -14,7 +14,7 @@ Get an impression of PromCon EU 2019:
 
 ## Registration
 
-Registration for PromCon Online 2020 will open soon.
+The registration is open. Register <a href="https://promcon.io/2020-online/register/">here</a>!
 
 ## Our sponsors
 
