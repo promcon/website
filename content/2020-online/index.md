@@ -20,9 +20,10 @@ The registration is open. Register <a href="https://promcon.io/2020-online/regis
 
 A big thank you to all of our sponsors who are helping make PromCon happen! While our costs in 2020 will be reduced, the ones listed here agreed to sponsor 2021 which makes venue postponement juggling easier.
 
-<h3>Diamond</h3>
 <div class="sponsor-logos">
   <a href="https://chronosphere.io/"><img alt="Chronosphere" src="/assets/Chronosphere_vertical_logo.svg" class="logo"/></a>
+  <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
+  <a href="https://www.timescale.com/"><img src="/assets/timescale_logo.svg" class="logo"/></a>
 </div>
 
 ## Contact
