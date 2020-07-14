@@ -6,6 +6,10 @@ title: Overview
 
 Please join [here](https://qiqochat.com/e/promcon2020)! :)
 
+<a class="btn btn-lg btn-default" href="https://qiqochat.com/e/promcon2020" target="_blank" role="button">
+  <i class="fa fa-fire"></i>&nbsp;&nbsp;Join PromCon Online 2020
+</a>
+
 ## Announcement doc
 
 In case anything goes wrong and for all our janitorial needs, we have a public [announcement doc](https://docs.google.com/document/d/1bF2Ae6r9X4ZC5GpoYr6noWV8zXlLa1uERQV8cl3DBDU/edit).
