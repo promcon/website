@@ -2,6 +2,10 @@
 title: Overview
 ---
 
+## Conference!
+
+Please join [here](https://qiqochat.com/e/promcon2020)! :)
+
 ## Announcement doc
 
 In case anything goes wrong and for all our janitorial needs, we have a public [announcement doc](https://docs.google.com/document/d/1bF2Ae6r9X4ZC5GpoYr6noWV8zXlLa1uERQV8cl3DBDU/edit).
