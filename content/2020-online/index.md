@@ -2,6 +2,10 @@
 title: Overview
 ---
 
+## Announcement doc
+
+In case anything goes wrong and for all our janitorial needs, we have a public [announcement doc](https://docs.google.com/document/d/1bF2Ae6r9X4ZC5GpoYr6noWV8zXlLa1uERQV8cl3DBDU/edit).
+
 ## Overview
 
 PromCon Online 2020 is the fifth installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). It will take place online on July 14-16, 2020 (Tue - Thu).
