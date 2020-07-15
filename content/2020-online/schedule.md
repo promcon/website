@@ -68,7 +68,15 @@ All times are in UTC.
     </td>
     <td></td>
   </tr>
-
+  <tr class="talk">
+    <td>18:30</td>
+    <td>
+      <a href="/2020-online/talks/breakout-sessions">
+        Breakout Sessions
+      </a>
+    </td>
+    <td></td>
+  </tr>
 
   <tr>
     <td colspan="3">
@@ -135,6 +143,15 @@ All times are in UTC.
     </td>
     <td></td>
   </tr>
+  <tr class="talk">
+    <td>18:30</td>
+    <td>
+      <a href="/2020-online/talks/breakout-sessions">
+        Breakout Sessions
+      </a>
+    </td>
+    <td></td>
+  </tr>
 
   <tr>
     <td colspan="3">
@@ -193,6 +210,15 @@ All times are in UTC.
     <td>
       <a href="/2020-online/talks/lightning-talks-day3">
         Lightning Talks
+      </a>
+    </td>
+    <td></td>
+  </tr>
+  <tr class="talk">
+    <td>18:30</td>
+    <td>
+      <a href="/2020-online/talks/breakout-sessions">
+        Breakout Sessions
       </a>
     </td>
     <td></td>
