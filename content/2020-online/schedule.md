@@ -2,6 +2,10 @@
 title: Schedule
 ---
 
+## Announcement doc
+
+In case anything goes wrong and for all our janitorial needs, we have a public [announcement doc](https://docs.google.com/document/d/1bF2Ae6r9X4ZC5GpoYr6noWV8zXlLa1uERQV8cl3DBDU/edit).
+
 ## PromCon Online 2020 Schedule
 
 All times are in UTC.
@@ -198,3 +202,18 @@ All times are in UTC.
     <td></td>
   </tr>
 </table>
+
+## Our sponsors
+
+A big thank you to all of our sponsors who are helping make PromCon happen! While our costs in 2020 will be reduced, the ones listed here agreed to sponsor 2021 which makes venue postponement juggling easier.
+
+<div class="sponsor-logos">
+  <a href="https://chronosphere.io/"><img alt="Chronosphere" src="/assets/Chronosphere_vertical_logo.svg" class="logo"/></a>
+  <a href="https://www.grafana.com/"><img alt="Grafana" src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
+  <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
+  <a href="https://www.timescale.com/"><img src="/assets/timescale_logo.svg" class="logo"/></a>
+</div>
+
+## Contact
+
+PromCon is organized by the [Prometheus developer community](https://prometheus.io/community/). For PromCon-related inquiries, please contact the [PromCon team](mailto:promcon-organizers@googlegroups.com). This year's edition is led by [Richard "RichiH" Hartmann](https://twitter.com/TwitchiH).
