@@ -34,6 +34,7 @@ A big thank you to all of our sponsors who are helping make PromCon happen! Whil
 
 <div class="sponsor-logos">
   <a href="https://chronosphere.io/"><img alt="Chronosphere" src="/assets/Chronosphere_vertical_logo.svg" class="logo"/></a>
+  <a href="https://www.grafana.com/"><img alt="Grafana" src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
   <a href="https://www.robustperception.io/"><img src="/assets/robust_perception_logo.png" class="logo"/></a>
   <a href="https://www.timescale.com/"><img src="/assets/timescale_logo.svg" class="logo"/></a>
 </div>
