@@ -148,7 +148,7 @@ All times are in UTC.
     <td></td>
   </tr>
   <tr class="talk">
-    <td>18:30</td>
+    <td>18:10</td>
     <td>
       <a href="/2020-online/talks/breakout-sessions">
         Breakout Sessions
@@ -219,7 +219,7 @@ All times are in UTC.
     <td></td>
   </tr>
   <tr class="talk">
-    <td>18:30</td>
+    <td>18:10</td>
     <td>
       <a href="/2020-online/talks/breakout-sessions">
         Breakout Sessions
