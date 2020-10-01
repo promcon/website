@@ -5,7 +5,7 @@ PromCon website.
 
 ## Prerequisites
 
-You need to have a working Ruby environment set up and then install the
+You need to have a working Ruby environment setup and then install the
 necessary gems:
 
 ```bash
