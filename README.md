@@ -15,7 +15,7 @@ bundle
 
 ## Building
 
-To generate the static site, run:
+To generate the static site, You need run:
 
 ```bash
 bundle exec nanoc
