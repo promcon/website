@@ -1,7 +1,7 @@
 # PromCon Website
 
 This repository contains both the content and the static-site generator code for the
-PromCon website.
+PromCon website and easy to use
 
 ## Prerequisites
 
