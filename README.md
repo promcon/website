@@ -35,7 +35,7 @@ bundle exec nanoc view
 ```
 
 You should now be able to view the generated site at
-[http://localhost:3000/](http://localhost:3000).
+[http://localhost:3000/](http://localhost:3000)(which is the localhost server access port number).
 
 ## License
 
