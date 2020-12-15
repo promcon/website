@@ -1,5 +1,5 @@
-def youtube_player(id)
-  url = "https://www.youtube.com/embed/#{id}?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vm&origin=https://promcon.io"
+def youtube_player(id, list = "PLoz-W_CUquUlCq-Q0hy53TolAhaED9vm")
+  url = "https://www.youtube.com/embed/#{id}?list=#{list}&origin=https://promcon.io"
   container %(<iframe id="ytplayer" type="text/html" src="#{url}" allowFullScreen="true" frameborder="0"></iframe></div>)
 end
 

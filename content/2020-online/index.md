@@ -2,18 +2,6 @@
 title: Overview
 ---
 
-## Conference!
-
-Please join [here](https://qiqochat.com/e/promcon2020)! :)
-
-<a class="btn btn-lg btn-default" href="https://qiqochat.com/e/promcon2020" target="_blank" role="button">
-  <i class="fa fa-fire"></i>&nbsp;&nbsp;Join PromCon Online 2020
-</a>
-
-## Announcement doc
-
-In case anything goes wrong and for all our janitorial needs, we have a public [announcement doc](https://docs.google.com/document/d/1bF2Ae6r9X4ZC5GpoYr6noWV8zXlLa1uERQV8cl3DBDU/edit).
-
 ## Overview
 
 PromCon Online 2020 is the fifth installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). It will take place online on July 14-16, 2020 (Tue - Thu).
@@ -23,10 +11,6 @@ PromCon aims to connect Prometheus users and developers from around the world in
 Get an impression of PromCon EU 2019:
 
 <%= youtube_player("TUbj9ykgafM") %>
-
-## Registration
-
-The registration is open. Register <a href="https://promcon.io/2020-online/register/">here</a>!
 
 ## Our sponsors
 
