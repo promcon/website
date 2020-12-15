@@ -4,9 +4,7 @@ title: Live Stream
 
 ## Live Stream
 
-PromCon Online 2020 will be live-streamed online.
+PromCon Online 2020 was live-streamed online.
 
-<a class="btn btn-lg btn-default" href="https://qiqochat.com/e/promcon2020" target="_blank" role="button">
-  <i class="fa fa-fire"></i>&nbsp;&nbsp;Join PromCon Online 2020
-</a>
 
+<%= youtube_player("q-dgU5MzreM", "PLoz-W_CUquUm0r6nxziK9B9LnmNntzctE") %>
