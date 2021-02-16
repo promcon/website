@@ -89,6 +89,18 @@ def conferences
       Banner.new('online-banner', 'Luke Chesser', 'https://unsplash.com/photos/tgrBcf7S_dY'),
     ),
     Conference.new(
+      'PromCon Online 2021',
+      'The Prometheus conference — May 3 online',
+      '/2021-online/',
+      {
+        '/2021-online/' => 'Overview',
+        '/2021-online/register/' => 'Register',
+        '/2021-online/submit/' => 'Submit a talk',
+        '/coc/' => 'Code of Conduct',
+      },
+      Banner.new('online-banner', 'Luke Chesser', 'https://unsplash.com/photos/tgrBcf7S_dY'),
+    ),
+    Conference.new(
       'PromCon NA 2021',
       'The Prometheus conference — Summer 2021 in Vancouver',
       '/2021-vancouver/',
