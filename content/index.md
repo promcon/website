@@ -1,6 +1,6 @@
 ---
 title: The Prometheus Conference
-redirect: /2020-online/
+redirect: /2021-online/
 ---
 
 ## PromCon - The Prometheus Conference
