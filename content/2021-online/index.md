@@ -14,7 +14,7 @@ Get an impression of PromCon EU 2019:
 
 ## Our sponsors
 
-A big thank you to all of our sponsors who are helping make PromCon happen!
+A big thank you to all of our sponsors who are helping make PromCon happen! Click [HERE](https://events.linuxfoundation.org/wp-content/uploads/2021/02/sponsor-cncf-2021.02.22.pdf) to learn more about how your company or organization can participate in the event as an event sponsor.
 
 ## Contact
 
