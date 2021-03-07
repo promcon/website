@@ -95,26 +95,26 @@ def conferences
       {
         '/2021-online/' => 'Overview',
         '/2021-online/register/' => 'Register',
-        '/2021-online/submit/' => 'Submit a talk',
+#        '/2021-online/submit/' => 'Submit a talk',
         '/coc/' => 'Code of Conduct',
       },
       Banner.new('online-banner', 'Luke Chesser', 'https://unsplash.com/photos/tgrBcf7S_dY'),
     ),
-    Conference.new(
-      'PromCon NA 2021',
-      'The Prometheus conference — Summer 2021 in Vancouver',
-      '/2021-vancouver/',
-      {
-        '/2021-vancouver/' => 'Overview',
+#    Conference.new(
+#      'PromCon NA 2021',
+#      'The Prometheus conference — Summer 2021 in Vancouver',
+#      '/2021-vancouver/',
+#      {
+#        '/2021-vancouver/' => 'Overview',
 #       '/2021-vancouver/register/' => 'Register',
 #       '/2021-vancouver/diversity/' => 'Diversity',
 #        '/2021-vancouver/submit/' => 'Submit Talk',
 #       '/2021-vancouver/schedule/' => 'Schedule',
-        '/2021-vancouver/sponsor/' => 'Sponsor',
+#        '/2021-vancouver/sponsor/' => 'Sponsor',
 #       '/2021-vancouver/stream' => 'Live Stream',
-        '/coc/' => 'Code of Conduct',
-      },
-      Banner.new('vancouver-banner', 'Mike Benna', 'https://unsplash.com/photos/WHHY-iBp3aI'),
+#        '/coc/' => 'Code of Conduct',
+#      },
+#      Banner.new('vancouver-banner', 'Mike Benna', 'https://unsplash.com/photos/WHHY-iBp3aI'),
     ),
   ]
 end
