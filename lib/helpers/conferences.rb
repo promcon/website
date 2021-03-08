@@ -115,7 +115,7 @@ def conferences
 #        '/coc/' => 'Code of Conduct',
 #      },
 #      Banner.new('vancouver-banner', 'Mike Benna', 'https://unsplash.com/photos/WHHY-iBp3aI'),
-    ),
+#    ),
   ]
 end
 
