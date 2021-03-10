@@ -12,6 +12,24 @@ Get an impression of PromCon EU 2019:
 
 <%= youtube_player("TUbj9ykgafM") %>
 
+## Scholarship
+
+Cloud Native Computing Foundation’s scholarship program for KubeCon +
+CloudNativeCon Europe 2021 – Virtual exists to support individuals who may not
+otherwise have the opportunity to attend. [Click here](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/) for details and [apply for scholarships](https://www.surveymonkey.com/r/EU21ScholarshipApp).
+
+## Diversity + Inclusion
+
+Education and collaboration are vital to the future of the CNCF ecosystem and it
+is imperative to us that everyone in the community that wants to participate
+feels welcome to do so regardless of gender, gender identity, sexual
+orientation, dis/ability, race, ethnicity, age, religion, or economic status.
+Our code of conduct outlines our expectations for all those who participate in
+our community, as well as the consequences for unacceptable behavior.  
+
+For more information, [click
+here](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/diversity-inclusion/).
+
 ## Our sponsors
 
 A big thank you to all of our sponsors who are helping make PromCon happen! Click [HERE](http://cncf.io/sponsor) to learn more about how your company or organization can participate in the event as an event sponsor.
