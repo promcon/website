@@ -44,6 +44,7 @@ A big thank you to all of our sponsors who are helping make PromCon happen! Clic
 <h3>Gold</h3>
 <div class="sponsor-logos">
   <a href="https://chronosphere.io/"><img src="/assets/chronosphere-2021.svg" alt="Chronosphere sponsor logo" class="logo"/></a>
+  <a href="https://sysdig.com/"><img src="/assets/sysdig-2021.svg" alt="Sysdig sponsor logo" class="logo"/></a>
 </div>
 
 
