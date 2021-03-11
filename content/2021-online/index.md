@@ -34,6 +34,19 @@ here](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/di
 
 A big thank you to all of our sponsors who are helping make PromCon happen! Click [HERE](http://cncf.io/sponsor) to learn more about how your company or organization can participate in the event as an event sponsor.
 
+<h3>Platinum</h3>
+<div class="sponsor-logos">
+  <a href="https://grafana.com/"><img src="/assets/grafana-2021.svg" alt="Grafana sponsor logo" class="logo"/></a>
+</div>
+
+<hr>
+
+<h3>Gold</h3>
+<div class="sponsor-logos">
+  <a href="https://chronosphere.io/"><img src="/assets/chronosphere-2021.svg" alt="Chronosphere sponsor logo" class="logo"/></a>
+</div>
+
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer community](https://prometheus.io/community/). For PromCon-related inquiries, please contact the [PromCon team](mailto:promcon-organizers@googlegroups.com). This year's edition is led by [Richard "RichiH" Hartmann](https://twitter.com/TwitchiH).
