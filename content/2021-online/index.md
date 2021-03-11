@@ -18,14 +18,14 @@ A big thank you to all of our sponsors who are helping make PromCon happen! Clic
 
 <h3>Platinum</h3>
 <div class="sponsor-logos">
-  <a href="https://grafana.com/"><img src="/assets/grafana-2021.svg" class="logo"/></a>
+  <a href="https://grafana.com/"><img src="/assets/grafana-2021.svg" alt="Grafana sponsor logo" class="logo"/></a>
 </div>
 
 <hr>
 
 <h3>Gold</h3>
 <div class="sponsor-logos">
-  <a href="https://chronosphere.io/"><img src="/assets/chronosphere-2021.svg" class="logo"/></a>
+  <a href="https://chronosphere.io/"><img src="/assets/chronosphere-2021.svg" alt="Chronosphere sponsor logo" class="logo"/></a>
 </div>
 
 
