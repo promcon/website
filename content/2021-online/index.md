@@ -34,6 +34,13 @@ here](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/di
 
 A big thank you to all of our sponsors who are helping make PromCon happen! Click [HERE](http://cncf.io/sponsor) to learn more about how your company or organization can participate in the event as an event sponsor.
 
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="https://redhat.com/"><img src="/assets/red_hat-2021.svg" alt="Red Hat sponsor logo" class="logo"/></a>
+</div>
+
+<hr>
+
 <h3>Platinum</h3>
 <div class="sponsor-logos">
   <a href="https://grafana.com/"><img src="/assets/grafana-2021.svg" alt="Grafana sponsor logo" class="logo"/></a>
