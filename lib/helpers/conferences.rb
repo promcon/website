@@ -95,6 +95,7 @@ def conferences
       {
         '/2021-online/' => 'Overview',
         '/2021-online/register/' => 'Register',
+        '/2021-online/schedule/' => 'Schedule',
 #        '/2021-online/submit/' => 'Submit a talk',
         '/coc/' => 'Code of Conduct',
       },
