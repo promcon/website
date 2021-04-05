@@ -32,7 +32,7 @@ here](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/di
 
 ## Our sponsors
 
-A big thank you to all of our sponsors who are helping make PromCon happen! Click [HERE](http://cncf.io/sponsor) to learn more about how your company or organization can participate in the event as an event sponsor.
+Sponsorship sales for PromCon Online 2021 are now closed.  A big thank you to all of our sponsors who are helping make PromCon happen!
 
 <h3>Platinum</h3>
 <div class="sponsor-logos">
