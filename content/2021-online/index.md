@@ -37,6 +37,7 @@ A big thank you to all of our sponsors who are helping make PromCon happen! Clic
 <h3>Diamond</h3>
 <div class="sponsor-logos">
   <a href="https://redhat.com/"><img src="/assets/red_hat-2021.svg" alt="Red Hat sponsor logo" class="logo"/></a>
+  <a href="https://www.timescale.com/"><img src="/assets/timescale-2021.svg" alt="Timescale sponsor logo" class="logo"/></a>
 </div>
 
 <hr>
