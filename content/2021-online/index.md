@@ -55,6 +55,14 @@ Sponsorship sales for PromCon Online 2021 are now closed.  A big thank you to al
   <a href="https://sysdig.com/"><img src="/assets/sysdig-2021.svg" alt="Sysdig sponsor logo" class="logo"/></a>
 </div>
 
+<hr>
+
+<h3>BoF</h3>
+
+<div class="sponsor-logos">
+  <a href="https://www.timescale.com/"><img src="/assets/timescale-2021.svg" alt="Timescale sponsor logo" class="logo"/></a>
+</div>
+
 
 ## Contact
 
