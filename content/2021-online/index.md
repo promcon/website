@@ -20,6 +20,8 @@ otherwise have the opportunity to attend. [Click here](https://events.linuxfound
 
 ## Diversity + Inclusion
 
+<a href="https://chaoss.community/"><img src="/assets/CHAOSS_D+I_gold.svg" alt="CHAOSS D+I"></a>
+
 Education and collaboration are vital to the future of the CNCF ecosystem and it
 is imperative to us that everyone in the community that wants to participate
 feels welcome to do so regardless of gender, gender identity, sexual
