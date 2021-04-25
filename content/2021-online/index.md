@@ -16,11 +16,15 @@ Get an impression of PromCon EU 2019:
 
 Cloud Native Computing Foundation’s scholarship program for KubeCon +
 CloudNativeCon Europe 2021 – Virtual exists to support individuals who may not
-otherwise have the opportunity to attend. [Click here](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/) for details and [apply for scholarships](https://www.surveymonkey.com/r/EU21ScholarshipApp).
+otherwise have the opportunity to attend. [Click here](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/) for details.
+
+<strong>The Scholarship application is now closed. All applicants will be notified within 14 business days of submitting their application or no later than Monday, April 26.</strong>
 
 ## Diversity + Inclusion
 
-<a href="https://chaoss.community/"><img src="/assets/CHAOSS_D+I_gold.svg" alt="CHAOSS D+I"></a>
+<a href="https://chaoss.community/"><img src="/assets/CHAOSS_D+I_gold.svg" alt="CHAOSS D+I" style="width: 200px"></a>
+
+Awarded to events in the open source community that fosters healthy D&I practices. <a href="https://chaoss.community/diversity-and-inclusion-badging/">Learn More</a>.
 
 Education and collaboration are vital to the future of the CNCF ecosystem and it
 is imperative to us that everyone in the community that wants to participate
