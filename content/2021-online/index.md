@@ -4,11 +4,14 @@ title: Overview
 
 ## Overview
 
-PromCon Online 2021 is the sixth installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). It will take place online on May 3, 2021, as a co-located event of [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/).
+PromCon Online 2021 was the sixth installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). It took place online on May 3, 2021, as a co-located event of [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/).
 
 PromCon aims to connect Prometheus users and developers from around the world in order to exchange knowledge, best practices, and experience gained around using Prometheus. We also want to collaborate to build a community and grow professional connections around systems and service monitoring.
 
-Get an impression of PromCon EU 2019:
+Registered attendees will be sent a link to session recordings in the post-event email and may continue to visit sponsor booths and enjoy many other experiences on the KubeCon + CloudNativeCon platform (MeetingPlay), including CNCF Slack workspace which will remain open until May 14.  Additionally, all session recordings will be uploaded to the [CNCF YouTube channel](https://www.youtube.com/c/cloudnativefdn/playlists) by May 14.
+
+
+Get an impression of PromCon EU 2019, the last physical one, for now:
 
 <%= youtube_player("TUbj9ykgafM") %>
 
