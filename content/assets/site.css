@@ -28,6 +28,11 @@ body {
   background-size: cover;
 }
 
+.losangeles-banner {
+  background-image: url("/assets/losangeles-banner.jpg");
+  background-size: cover;
+}
+
 .vancouver-banner {
   background-image: url("/assets/vancouver-banner.jpg");
   background-size: cover;
