@@ -22,3 +22,11 @@ pleased to offer diversity and need-based registration scholarships, discounts,
 and travel funding to our conferences.
 
 Additional information can be found [here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/scholarships/).
+
+## Captioning
+
+Captioning will be available for each keynote and session whether in person or virtual. Check back for more details as the event gets closer.
+
+## Onsite + Emergency Resources
+
+Please [click here to see a list of onsite resources](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/diversity-inclusion/#onsite-resources) provided by KubeCon + CloudNativeCon North America 2021.
