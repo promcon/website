@@ -15,14 +15,6 @@ Please view the transparency report [Link to be provided] for opt-in statistics
 from the PromCon Online 2021 on May 3, 2021.
 -->
 
-## Registration Discounts/Scholarships
-
-To encourage and increase the participation of a diverse community, we are
-pleased to offer diversity and need-based registration scholarships, discounts,
-and travel funding to our conferences.
-
-Additional information can be found [here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/scholarships/).
-
 ## Captioning
 
 Captioning will be available for each keynote and session whether in person or virtual. Check back for more details as the event gets closer.
