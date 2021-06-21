@@ -4,6 +4,8 @@ title: Registration Discounts/Scholarships
 
 To encourage and increase the participation of a diverse community, we are pleased to offer diversity and need-based registration scholarships, discounts, and travel funding to our conferences.
 
+[**APPLY NOW**](https://www.surveymonkey.com/r/Co-LoScholarshipNA21)
+
 ## Diversity Scholarships
 
 Eligibility Requirements: Applicants must be from traditionally underrepresented and/or marginalized groups in the technology and/or open source communities who are unable to attend without some financial assistance. Including, but not limited to persons identifying as: LGBTQIA, women, persons of color, and/or persons with dis/abilities. (Virtual or In-Person)
@@ -32,4 +34,4 @@ Virtual: Sunday, September 26, 2021 (11:59PM Pacific Time)
 In-Person: Monday, August 30, 2021 (by 6:00PM Pacific Time)
 Virtual: Within 14 business days of submitting their application. Or no later than Friday, October 1, 2021.
 
-[*APPLY NOW*](https://www.surveymonkey.com/r/Co-LoScholarshipNA21)
+[**APPLY NOW**](https://www.surveymonkey.com/r/Co-LoScholarshipNA21)
