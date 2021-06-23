@@ -4,7 +4,9 @@ In-Person: $249 standard / $349 on-site (includes free virtual access)
 
 Virtual-Only: $20
 
-[REGISTER NOW](https://www.cvent.com/events/kubecon-cloudnativecon-north-america-2020-virtual/archived-e4091d10480b45aeb2714b99ecc71858.aspx)
+<a class="btn btn-lg btn-default" href="https://www.cvent.com/events/kubecon-cloudnativecon-north-america-2020-virtual/archived-e4091d10480b45aeb2714b99ecc71858.aspx" target="_blank" role="button">
+  <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Register
+</a>
 
 How to Register: Pre-registration is required. To register for PromCon North America 2021, add it on during your [KubeCon + CloudNativeCon North America registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/). Registration for KubeCon + CloudNativeCon North America is required.
 
