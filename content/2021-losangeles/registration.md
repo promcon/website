@@ -4,7 +4,7 @@ In-Person: $249 standard / $349 on-site (includes free virtual access)
 
 Virtual-Only: $20
 
-<a class="btn btn-lg btn-default" href="https://www.cvent.com/events/kubecon-cloudnativecon-north-america-2020-virtual/archived-e4091d10480b45aeb2714b99ecc71858.aspx" target="_blank" role="button">
+<a class="btn btn-lg btn-default" href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/" target="_blank" role="button">
   <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Register
 </a>
 
