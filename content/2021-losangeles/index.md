@@ -4,7 +4,7 @@ title: Overview
 
 ## Overview
 
-PromCon NA 2021 is the sixth installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). The conference will be presented as a hybrid event - attendees can join and participate in person or virtually. It will take place on Monday, October 11, 2021, as a colocated event at [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/).
+PromCon North America 2021 is the seventh installment of the PromCon conference dedicated to the [Prometheus monitoring system](https://prometheus.io/). The conference will be presented as a hybrid event - attendees can join and participate in person or virtually. It will take place on Monday, October 11, 2021, as a colocated event at [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/).
 
 PromCon aims to connect Prometheus users and developers from around the world in order to exchange knowledge, best practices, and experience gained around using Prometheus. We also want to collaborate to build a community and grow professional connections around systems and service monitoring.
 
