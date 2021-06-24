@@ -107,9 +107,10 @@ def conferences
       '/2021-losangeles/',
       {
         '/2021-losangeles/' => 'Overview',
+        '/2021-losangeles/registration/' => 'Registration',
         '/2021-losangeles/diversity/' => 'Diversity',
         '/2021-losangeles/scholarship/' => 'Scholarship',
-        '/2021-losangeles/venue/' => 'Venue',
+#        '/2021-losangeles/venue/' => 'Venue',
         '/2021-losangeles/safety/' => 'COVID-19',
         '/coc/' => 'Code of Conduct',
       },
