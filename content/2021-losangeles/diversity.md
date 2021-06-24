@@ -1,5 +1,5 @@
 ---
-title: Diversity & Inclusion
+title: Diversity
 ---
 
 Education and collaboration are vital to the future of the CNCF ecosystem, and
