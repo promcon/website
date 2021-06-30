@@ -35,6 +35,9 @@ and they attempt to sell you a hotel room, please email us at
 
 Information on conference hotel blocks will be available in Summer 2021.
 
+Hotel Information
+Please visit the [KubeCon + CloudNativeCon North America 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/venue-travel/#hotel-information) website for the most up-to-date information on hotel availability.
+
 Need more info or have questions? Please contact us at
 [housing@linuxfoundation.org](mailto:housing@linuxfoundation.org).
 
