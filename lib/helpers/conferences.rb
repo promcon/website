@@ -108,6 +108,7 @@ def conferences
       {
         '/2021-losangeles/' => 'Overview',
         '/2021-losangeles/registration/' => 'Registration',
+        '/2021-losangeles/submit/' => 'Submit a talk',
         '/2021-losangeles/diversity/' => 'Diversity',
 #        '/2021-losangeles/scholarship/' => 'Scholarship',
 #        '/2021-losangeles/venue/' => 'Venue',
