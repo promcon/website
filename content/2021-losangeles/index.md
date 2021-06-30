@@ -33,8 +33,6 @@ call or email from someone claiming to be with The Linux Foundation or the hotel
 and they attempt to sell you a hotel room, please email us at
 [housing@linuxfoundation.org](mailto:housing@linuxfoundation.org).
 
-Information on conference hotel blocks will be available in Summer 2021.
-
 Hotel Information
 Please visit the [KubeCon + CloudNativeCon North America 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/venue-travel/#hotel-information) website for the most up-to-date information on hotel availability.
 
