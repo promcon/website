@@ -19,6 +19,6 @@ For any questions regarding the CFP process, please email
 
 - CFP opens: Monday, June 28
 - CFP Closes: Sunday, July 25, 11:59pm PDT
-- CFP Notifications: Friday, August 20
-- Schedule Announcement: Wednesday, August 25
-- Event Dates: Monday, October 11, 2021
+- Talk acceptance notifications: Friday, August 20
+- Schedule announcement: Wednesday, August 25
+- Event dates: Monday, October 11, 2021
