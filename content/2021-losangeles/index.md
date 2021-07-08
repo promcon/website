@@ -49,6 +49,27 @@ organizers.
 
 The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
+## Sponsors
+
+Thanks to our sponsors!
+
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="https://chronosphere.io/"><img alt="Chronosphere sponsor logo" src="/assets/chronosphere-2021.svg" class="logo"/></a>
+  <a href="https://redhat.com/"><img src="/assets/RedHat-2021.svg" alt="Red Hat sponsor logo" class="logo"/></a>
+</div>
+
+<hr>
+
+<h3>Session Recording</h3>
+<div class="sponsor-logos">
+  <a href="https://www.calyptia.com/"><img src="/assets/Calyptia-2021.svg" alt="Calyptia sponsor logo" class="logo"/></a>
+</div>
+
+<hr>
+
+Interested in sponsoring PromCon? Have a look at the [2021 Sponsorship Prospectus](https://cncf.io/sponsor).
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer community](https://prometheus.io/community/). For PromCon-related inquiries, please contact the [PromCon team](mailto:promcon-organizers@googlegroups.com). This year's edition is led by [Richard "RichiH" Hartmann](https://twitter.com/TwitchiH).
