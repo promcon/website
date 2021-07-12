@@ -38,6 +38,9 @@ Please visit the [KubeCon + CloudNativeCon North America 2021](https://events.li
 Need more info or have questions? Please contact us at
 [housing@linuxfoundation.org](mailto:housing@linuxfoundation.org).
 
+## Visa Letter Request
+If you require a visa letter, please visit the KubeCon + CloudNativeCon North America 2021 Visa Request page.
+
 ## Code of Conduct
 
 To make PromCon a welcoming and harrassment-free experience for everyone, we
