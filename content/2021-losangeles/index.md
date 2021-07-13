@@ -62,6 +62,11 @@ Thanks to our sponsors!
   <a href="https://redhat.com/"><img src="/assets/RedHat-2021.svg" alt="Red Hat sponsor logo" class="logo"/></a>
 </div>
 
+<h3>Gold</h3>
+<div class="sponsor-logos">
+  <a href="https://sysdig.com/"><img alt="sysdig sponsor logo" src="/assets/sysdig-2021.svg" class="logo"/></a>
+</div>
+
 <hr>
 
 <h3>Session Recording</h3>
