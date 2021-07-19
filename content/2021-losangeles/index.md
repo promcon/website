@@ -39,7 +39,7 @@ Need more info or have questions? Please contact us at
 [housing@linuxfoundation.org](mailto:housing@linuxfoundation.org).
 
 ## Visa Letter Request
-If you require a visa letter, please visit the KubeCon + CloudNativeCon North America 2021 Visa Request page.
+If you require a visa letter, please visit the [KubeCon + CloudNativeCon North America 2021 Visa Request page](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/visa-request/).
 
 ## Code of Conduct
 
