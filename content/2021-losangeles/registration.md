@@ -46,7 +46,7 @@ If you would like to substitute another attendee in lieu of cancellation, return
 
 ## Note to event participants on email scams to purchase attendee lists
 
-**There has been a growing number of emails going out claiming to sell the attendee list for this event. We never sell attendee lists or contact information, nor do we authorize others to do so. Anyone claiming to be authorized to do so is fraudulent. At this time we have no reason to believe that they have obtained the attendee list, which we never publicly share for exactly this reason. If you receive an email claiming to sell an attendee list for this event, it is fraudulent.**
+There has been a growing number of emails going out claiming to sell the attendee list for this event. We never sell attendee lists or contact information, nor do we authorize others to do so. Anyone claiming to be authorized to do so is fraudulent. At this time we have no reason to believe that they have obtained the attendee list, which we never publicly share for exactly this reason. If you receive an email claiming to sell an attendee list for this event, it is fraudulent.
 
 ## COVID-19 vaccination policy
 
