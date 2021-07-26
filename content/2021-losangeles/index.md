@@ -65,8 +65,6 @@ Thanks to our sponsors!
 <h3>Platinum</h3>
 <div class="sponsor-logos">
   <a href="https://www.grafana.com/"><img alt="Grafana Labs sponsor logo" src="/assets/grafana-2021-la.svg" class="logo"/></a>
-</div>
-<div class="sponsor-logos">
   <a href="https://www.timescale.com/"><img alt="Timescale sponsor logo" src="/assets/timescale-2021.svg" class="logo"/></a>
 </div>
 
