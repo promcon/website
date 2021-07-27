@@ -1,4 +1,4 @@
-def youtube_player(id, list = "")
+def youtube_player(id, list)
   if $list then
     url = "https://www.youtube.com/embed/#{id}?list=#{list}&origin=https://promcon.io"
   else
