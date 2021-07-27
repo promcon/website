@@ -1,5 +1,9 @@
-def youtube_player(id, list = "PLoz-W_CUquUlCq-Q0hy53TolAhaED9vm")
-  url = "https://www.youtube.com/embed/#{id}?list=#{list}&origin=https://promcon.io"
+def youtube_player(id, list = '')
+  if list == '' then
+    url = "https://www.youtube.com/embed/#{id}?origin=https://promcon.io"
+  else
+    url = "https://www.youtube.com/embed/#{id}?list=#{list}&origin=https://promcon.io"
+  end
   container %(<iframe id="ytplayer" type="text/html" src="#{url}" allowFullScreen="true" frameborder="0"></iframe></div>)
 end
 
