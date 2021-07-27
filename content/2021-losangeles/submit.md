@@ -4,7 +4,7 @@ title: Submit Talk
 
 ## Submit a talk
 
-**The CfP is closed now**
+**The CfP is closed.**
 
 The PromCon Call for Papers (CfP) is open for talk submissions until 11:59pm PDT on
 Sunday, July 25, 2021, and we encourage you to submit a talk!
