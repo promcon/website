@@ -54,7 +54,7 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 ## Sponsors
 
-Thanks to our sponsors!
+Sponsorship Sales is now closed. Thanks to our sponsors!
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
@@ -81,8 +81,6 @@ Thanks to our sponsors!
 </div>
 
 <hr>
-
-Interested in sponsoring PromCon? Have a look at the [2021 Sponsorship Prospectus](https://cncf.io/sponsor).
 
 ## Contact
 
