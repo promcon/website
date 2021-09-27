@@ -20,7 +20,7 @@ from the PromCon Online 2021 on May 3, 2021.
 To encourage and increase the participation of a diverse community, we are pleased to offer diversity and need-based registration scholarships, discounts, and travel funding to our conferences.
 
 <a class="btn btn-lg btn-default" href="https://www.surveymonkey.com/r/Co-LoScholarshipNA21" target="_blank" role="button">
-  <i class="fa fa-pen-field"></i>&nbsp;&nbsp;Apply now
+  <i class="fa fa-pencil"></i>&nbsp;&nbsp;Apply now
 </a>
 
 ## Diversity Scholarships
@@ -54,7 +54,7 @@ In-Person: Monday, August 30, 2021 (by 6:00PM Pacific Time)
 Virtual: Within 14 business days of submitting their application. Or no later than Friday, October 8, 2021.
 
 <a class="btn btn-lg btn-default" href="https://www.surveymonkey.com/r/Co-LoScholarshipNA21" target="_blank" role="button">
-  <i class="fa fa-pen-field"></i>&nbsp;&nbsp;Apply now
+  <i class="fa fa-pencil"></i>&nbsp;&nbsp;Apply now
 </a>
 
 ## CHAOSS D&I Event Badge
