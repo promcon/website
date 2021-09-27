@@ -43,15 +43,23 @@ Receipt of a scholarship does not, on its own, guarantee entry to the event. Rec
 
 In-Person: Sunday, August 8, 2021 (11:59PM Pacific Time)
 
-Virtual: Sunday, September 26, 2021 (11:59PM Pacific Time)
+Virtual: Friday, October 1, 2021 (11:59PM Pacific Time)
 
 ## All applicants will be notified By:
 
 In-Person: Monday, August 30, 2021 (by 6:00PM Pacific Time)
 
-Virtual: Within 14 business days of submitting their application. Or no later than Friday, October 1, 2021.
+Virtual: Within 14 business days of submitting their application. Or no later than Friday, October 8, 2021.
 
 [**APPLY NOW**](https://www.surveymonkey.com/r/Co-LoScholarshipNA21)
+
+## CHAOSS D&I Event Badge
+
+<a href="https://chaoss.community/"><img src="/assets/CHAOSS_D+I_gold.svg" alt="CHAOSS D+I" style="width: 200px"></a>
+
+Awarded to events in the open source community that fosters healthy D&I
+practices. <a href="https://chaoss.community/diversity-and-inclusion-badging/">Learn More</a>.
+
 
 ## Captioning
 
