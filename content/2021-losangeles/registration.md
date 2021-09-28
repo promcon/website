@@ -10,6 +10,11 @@ Virtual-Only: $20
 
 How to Register: Pre-registration is required. To register for PromCon North America 2021, add it on during your [KubeCon + CloudNativeCon North America registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/). Registration for KubeCon + CloudNativeCon North America is required.
 
+**CNCF supports active community members who are not being assisted or sponsored
+by a company or organization, and are unable to attend for financial reasons.
+Click [here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/scholarships/)
+for details.**
+
 ## LFID SSO
 
 Our registration system is now integrated with the Linux Foundation ID system (LFID). After clicking “Register Now”, you will be prompted to log in with your existing LFID, or to create a new one.
