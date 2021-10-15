@@ -107,7 +107,7 @@ def conferences
       '/2021-losangeles/',
       {
         '/2021-losangeles/' => 'Overview',
-        '/2021-losangeles/registration/' => 'Registration',
+#        '/2021-losangeles/registration/' => 'Registration',
 #        '/2021-losangeles/submit/' => 'Submit a talk',
         '/2021-losangeles/diversity/' => 'Diversity',
         '/2021-losangeles/schedule/' => 'Schedule',

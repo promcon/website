@@ -18,29 +18,6 @@ Get an impression of PromCon EU 2019:
 1201 S Figueroa St
 Los Angeles, CA 90015
 
-## Online Event Platform Information
-
-Information about the online components of this event will be available in late
-Summer 2021.
-
-## Hotel Information
-
-Important: The Linux Foundation will never reach out to attendees by phone to
-make hotel reservations for our conferences. Please be advised that the most
-secure way to book in our discounted room block is by using the direct booking
-link provided below or by calling the hotel directly. If you receive a phone
-call or email from someone claiming to be with The Linux Foundation or the hotel
-and they attempt to sell you a hotel room, please email us at
-[housing@linuxfoundation.org](mailto:housing@linuxfoundation.org).
-
-Please visit the [KubeCon + CloudNativeCon North America 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/venue-travel/#hotel-information) website for the most up-to-date information on hotel availability.
-
-Need more info or have questions? Please contact us at
-[housing@linuxfoundation.org](mailto:housing@linuxfoundation.org).
-
-## Visa Letter Request
-If you require a visa letter, please visit the [KubeCon + CloudNativeCon North America 2021 Visa Request page](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/visa-request/).
-
 ## Code of Conduct
 
 To make PromCon a welcoming and harrassment-free experience for everyone, we
@@ -81,6 +58,10 @@ Sponsorship Sales is now closed. Thanks to our sponsors!
 </div>
 
 <hr>
+
+## Note to event participants on email scams to purchase attendee lists
+
+There has been a growing number of emails going out claiming to sell the attendee list for this event. We never sell attendee lists or contact information, nor do we authorize others to do so. Anyone claiming to be authorized to do so is fraudulent. At this time we have no reason to believe that they have obtained the attendee list, which we never publicly share for exactly this reason. If you receive an email claiming to sell an attendee list for this event, it is fraudulent.
 
 ## Contact
 
