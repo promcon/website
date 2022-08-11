@@ -19,9 +19,10 @@ Get an impression of PromCon EU 2019:
 
 ## Venue Information
 
-[Alte Kongresshalle](https://www.altekongresshalle.de/)
-Am Bavariapark 14
-80339 München
+[Alte Kongresshalle](https://www.altekongresshalle.de/)<br />
+Am Bavariapark 14<br />
+80339 Munich<br />
+Germany<br />
 
 [Google Maps](https://www.google.com/maps/place/Alte+Kongresshalle/@48.1320653,11.5423688,1079m/data=!3m2!1e3!4b1!4m5!3m4!1s0x479dd8ac95d355ff:0x7a4c39c8985f8a98!8m2!3d48.1320617!4d11.5445575)
 
