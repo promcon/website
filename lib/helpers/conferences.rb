@@ -116,6 +116,8 @@ def conferences
 #        '/2021-losangeles/safety/' => 'COVID-19',
 #        '/coc/' => 'Code of Conduct',
       },
+      Banner.new('losangeles-banner', 'Cameron Venti', 'https://unsplash.com/photos/0YWaDPylkYA'),
+    ),
     Conference.new(
       'PromCon EU 2022',
       'The Prometheus conference — November 08 - 09 in Munich',
@@ -131,8 +133,6 @@ def conferences
         '/coc/' => 'Code of Conduct',
       },
       Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
-    ),
-      Banner.new('losangeles-banner', 'Cameron Venti', 'https://unsplash.com/photos/0YWaDPylkYA'),
     ),
   ]
 end
