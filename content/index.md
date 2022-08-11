@@ -1,6 +1,6 @@
 ---
 title: The Prometheus Conference
-redirect: /2021-losangeles/
+redirect: /2022-munich/
 ---
 
 ## PromCon - The Prometheus Conference
