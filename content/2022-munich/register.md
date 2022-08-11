@@ -1,0 +1,11 @@
+---
+title: Register
+---
+
+## Register to attend
+
+Registration will open soon!
+
+## Letter for Visa
+
+If you need a letter to apply for a Visa, use [this link](https://events.linuxfoundation.org/visa-request/) to raise a request for the same. Be sure to select <b>PromCon EU 2022</b> while selecting the event.

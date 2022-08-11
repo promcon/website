@@ -116,6 +116,22 @@ def conferences
 #        '/2021-losangeles/safety/' => 'COVID-19',
 #        '/coc/' => 'Code of Conduct',
       },
+    Conference.new(
+      'PromCon EU 2022',
+      'The Prometheus conference — November 08 - 09 in Munich',
+      '/2019-munich/',
+      {
+        '/2022-munich/' => 'Overview',
+        '/2022-munich/register/' => 'Register',
+        '/2022-munich/diversity/' => 'Diversity',
+        '/2022-munich/submit/' => 'CfP',
+#        '/2022-munich/schedule/' => 'Schedule',
+       '/2022-munich/sponsor/' => 'Sponsor',
+#        '/2022-munich/stream/' => 'Live Stream',
+        '/coc/' => 'Code of Conduct',
+      },
+      Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
+    ),
       Banner.new('losangeles-banner', 'Cameron Venti', 'https://unsplash.com/photos/0YWaDPylkYA'),
     ),
   ]
