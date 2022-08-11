@@ -1,18 +1,18 @@
 {
-    "version": 2019102900,
-    "url": "https://promcon.io/2019-munich/schedule.xml",
-    "title": "PromCon EU 2019",
-        "start": "2019-11-07",
-        "end": "2018-11-08",
+    "version": 20220811,
+    "url": "https://promcon.io/2022-munich/schedule.xml",
+    "title": "PromCon EU 2022",
+        "start": "2019-11-08",
+        "end": "2018-11-09",
         "metadata": {
             "icon": "https://promcon.io/assets/favicons/apple-touch-icon.png",
             "links": [
                 {
-                    "url": "https://promcon.io/2019-munich/",
+                    "url": "https://promcon.io/2022-munich/",
                     "title": "Website"
                 },
                 {
-                    "url": "https://goo.gl/maps/BgtgjfCDyez",
+                    "url": "https://www.google.com/maps/place/Alte+Kongresshalle/@48.1320653,11.5423688,1079m/data=!3m2!1e3!4b1!4m5!3m4!1s0x479dd8ac95d355ff:0x7a4c39c8985f8a98!8m2!3d48.1320617!4d11.5445575",
                     "title": "Venue location"
                 },
                 {

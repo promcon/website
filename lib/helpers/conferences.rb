@@ -121,12 +121,12 @@ def conferences
     Conference.new(
       'PromCon EU 2022',
       'The Prometheus conference — November 08 - 09 in Munich',
-      '/2019-munich/',
+      '/2022-munich/',
       {
         '/2022-munich/' => 'Overview',
         '/2022-munich/register/' => 'Register',
         '/2022-munich/diversity/' => 'Diversity',
-        '/2022-munich/submit/' => 'CfP',
+#        '/2022-munich/submit/' => 'CfP',
 #        '/2022-munich/schedule/' => 'Schedule',
        '/2022-munich/sponsor/' => 'Sponsor',
 #        '/2022-munich/stream/' => 'Live Stream',
