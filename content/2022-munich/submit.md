@@ -4,7 +4,7 @@ title: Submit Talk
 
 ## Submit a talk
 
-The [PromCon Call for Papers](https://docs.google.com/forms/d/1FgFgUWY51xAhP3luvfG8hbSWAfDHyUuToyxP7qGt-II/viewform?edit_requested=true) is open until 2022-09-02, 23:59 UTC
+The [PromCon Call for Papers](https://docs.google.com/forms/d/e/1FAIpQLSdkcpMXhT4QAZ9g7IWE74OO08Re0b5R4vjVoXxa2Gidc28hIg/viewform) is open until 2022-09-02, 23:59 UTC
 
 We are accepting talk proposals around the following topics, with experience
 levels ranging from beginner to expert:
