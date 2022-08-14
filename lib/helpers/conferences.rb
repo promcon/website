@@ -126,7 +126,7 @@ def conferences
         '/2022-munich/' => 'Overview',
         '/2022-munich/register/' => 'Register',
         '/2022-munich/diversity/' => 'Diversity',
-#        '/2022-munich/submit/' => 'CfP',
+        '/2022-munich/submit/' => 'CfP',
 #        '/2022-munich/schedule/' => 'Schedule',
        '/2022-munich/sponsor/' => 'Sponsor',
 #        '/2022-munich/stream/' => 'Live Stream',
