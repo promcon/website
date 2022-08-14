@@ -9,7 +9,6 @@ The [PromCon Call for Papers](https://docs.google.com/forms/d/e/1FAIpQLSdkcpMXhT
 <a class="btn btn-lg btn-default" href="https://docs.google.com/forms/d/e/1FAIpQLSdkcpMXhT4QAZ9g7IWE74OO08Re0b5R4vjVoXxa2Gidc28hIg/viewform" target="_blank" role="button">
   <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Submit to speak
 </a>
->>>>>>> 6d7eefa (Add button)
 
 We are accepting talk proposals around the following topics, with experience
 levels ranging from beginner to expert:
