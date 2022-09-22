@@ -48,8 +48,11 @@ In lieu of proof of vaccination, participants may instead show proof of a negati
 * The test may NOT be an unproctored at-home test. Tests must be administered by a verified provider, either locally in Detroit or virtually before you travel from your home city (if time permits).
 * The test results must include your name and the date and time of the test.
 
+<!--
 ### Wearable Indicators of Social Distance Comfort Levels
 
 We will provide a wearable indicator of social distance comfort levels for event participants to wear onsite (optional but encouraged). Participants are asked to be respectful of each other’s comfort level on social distance.
+
+-->
 
 **PromCon EU is following CNCF Health + Safety guidelines.  Please refer to this [Frequently Asked Questions](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/health-and-safety/#frequently-asked-questions) for more details.**
