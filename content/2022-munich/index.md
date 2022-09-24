@@ -30,7 +30,7 @@ Yes, this is overlooking the Oktoberfest area.
 
 ## Registration
 
-Registration for PromCon EU 2022 will open soon.
+Registration for PromCon EU 2022 is open now.
 
 ## Code of Conduct
  
