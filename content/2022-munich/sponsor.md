@@ -12,7 +12,7 @@ banners, and printed materials?**
 
 ## I want to sponsor PromCon. What do I do?
 
-Sponsorships will open soon!
+Please see the [sponsorship prospectus](https://events.linuxfoundation.org/wp-content/uploads/2022/09/sponsor-cncf-2022-09.23.22.pdf).
 
 If you wish to take advantage of swag distribution, booth space, or free
 attendee tickets, please let us know in advance.
