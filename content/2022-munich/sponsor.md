@@ -14,9 +14,6 @@ banners, and printed materials?**
 
 Please see the [sponsorship prospectus](https://events.linuxfoundation.org/wp-content/uploads/2022/09/sponsor-cncf-2022-09.23.22.pdf).
 
-If you wish to take advantage of swag distribution, booth space, or free
-attendee tickets, please let us know in advance.
-
 ## Why sponsor PromCon?
 
 Prometheus is a leading open-source monitoring system and time series database
