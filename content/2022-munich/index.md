@@ -45,7 +45,12 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 ## Our sponsors
 
-Sponsorship will open soon.
+[Sponsorship is open](https://promcon.io/2022-munich/sponsor/).
+
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="https://cncf.io/"><img src="/assets/cncf_logo.svg" class="logo"/></a>
+</div>
 
 <hr>
 
