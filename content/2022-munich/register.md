@@ -4,7 +4,7 @@ title: Register
 
 ## Register to attend
 
-Admission is €120. If you need help covering attendance, travel, or accomodation costs, consider our [diversity scholarship](https://promcon.io/2022-munich/diversity/).
+Admission is €120.
 
 <a class="btn btn-lg btn-default" href="https://cvent.me/EDBynP" target="_blank" role="button">
   <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Register for PromCon EU 2022
