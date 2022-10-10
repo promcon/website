@@ -16,7 +16,7 @@ Receipt of Travel Funding does not guarantee entry to the event.  Recipients nee
 
 For questions, please contact <a href="mailto:travelfund@linuxfoundation.org">travelfund@linuxfoundation.org</a>.
 
-**The application for Scholarships + Travel Funding is now closed**
+**The application for Scholarships + Travel Funding is now closed.**
 
 ### Timeline
 
