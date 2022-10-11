@@ -28,7 +28,7 @@ title: Schedule
    <tr class="talk">
     <td>9:15</td>
     <td>
-      <a href="../talks/whats-new-in-prometheus-and-its-">What's new in Prometheus and its ecosystem</a>
+      <a href="../talks/whats-new-in-prometheus-and-its-">What's New in Prometheus and Its Ecosystem</a>
     </td>
     <td>
       <a href="../speakers/julien-pivotto">Julien Pivotto</a>
@@ -69,7 +69,7 @@ title: Schedule
    <tr class="talk">
     <td>11:15</td>
     <td>
-      <a href="../talks/oss-supply-chain---are-prometheu">OSS Supply Chain - Are Prometheus exporters the weak link?</a>
+      <a href="../talks/oss-supply-chain---are-prometheu">OSS Supply Chain - Are Prometheus Exporters the Weak Link?</a>
     </td>
     <td>
       <a href="../speakers/david-de-torres-huerta">David de Torres Huerta</a>
@@ -81,7 +81,7 @@ title: Schedule
    <tr class="talk">
     <td>11:45</td>
     <td>
-      <a href="../talks/best-practices-and-pitfalls-of-i">Best practices and Pitfalls of Instrumenting Your Cloud-Native Application</a>
+      <a href="../talks/best-practices-and-pitfalls-of-i">Best Practices and Pitfalls of Instrumenting Your Cloud-Native Application</a>
     </td>
     <td>
       <a href="../speakers/jéssica-lins">Jéssica Lins</a>
@@ -102,7 +102,7 @@ title: Schedule
    <tr class="talk">
     <td>13:15</td>
     <td>
-      <a href="../talks/monitoring-in-store-point-of-sal">Monitoring in store point of sales infrastructure with Prometheus and Netbox</a>
+      <a href="../talks/monitoring-in-store-point-of-sal">Monitoring In-Store Point of Sales Infrastructure with Prometheus and Netbox</a>
     </td>
     <td>
       <a href="../speakers/felix-peters">Felix Peters</a>
@@ -130,7 +130,7 @@ title: Schedule
    <tr class="talk">
     <td>14:15</td>
     <td>
-      <a href="../talks/why-is-it-so-big-analysing-the-m">Why is it so big? Analysing the memory consumption of Prometheus</a>
+      <a href="../talks/why-is-it-so-big-analysing-the-m">Why Is It so Big? Analysing the Memory Consumption of Prometheus</a>
     </td>
     <td>
       <a href="../speakers/bryan-boreham">Bryan Boreham</a>
@@ -193,7 +193,7 @@ title: Schedule
    <tr class="talk">
     <td>9:15</td>
     <td>
-      <a href="../talks/brief-illustrated-history-of-pro">Brief illustrated history of Prometheus</a>
+      <a href="../talks/a-brief-illustrated-history-of-p">A Brief Illustrated History of Prometheus</a>
     </td>
     <td>
       <a href="../speakers/martin-chodúr">Martin Chodúr</a>
@@ -205,7 +205,7 @@ title: Schedule
    <tr class="talk">
     <td>9:45</td>
     <td>
-      <a href="../talks/anatomy-of-a-slow-query-and-less">Anatomy of a slow query, and lessons learned building query acceleration techniques</a>
+      <a href="../talks/anatomy-of-a-slow-query-and-less">Anatomy of a Slow Query, and Lessons Learned Building Query Acceleration Techniques</a>
     </td>
     <td>
       <a href="../speakers/cyril-tovena">Cyril Tovena</a>
@@ -224,7 +224,7 @@ title: Schedule
       <a href="../talks/opening-pandoras-box-redesigning">Opening Pandora’s Box: Redesigning PromQL for Scalable Computation</a>
     </td>
     <td>
-      <a href="../speakers/bartlomiej-plotka">Bartlomiej Plotka</a>
+      <a href="../speakers/bartłomiej-płotka">Bartłomiej Płotka</a>
       <br>
       <b>Red Hat</b>
       <br/>
@@ -242,7 +242,7 @@ title: Schedule
    <tr class="talk">
     <td>11:15</td>
     <td>
-      <a href="../talks/securing-prometheus-lessons-lear">Securing Prometheus: lessons learned from OpenShift</a>
+      <a href="../talks/securing-prometheus-lessons-lear">Securing Prometheus: Lessons Learned from OpenShift</a>
     </td>
     <td>
       <a href="../speakers/manuel-hernandez-valero">Manuel Hernandez Valero</a>
@@ -258,7 +258,7 @@ title: Schedule
    <tr class="talk">
     <td>11:45</td>
     <td>
-      <a href="../talks/alerting-with-confidence">Alerting with confidence</a>
+      <a href="../talks/alerting-with-confidence">Alerting with Confidence</a>
     </td>
     <td>
       <a href="../speakers/xintao-lai">Xintao LAI</a>
@@ -287,7 +287,7 @@ title: Schedule
    <tr class="talk">
     <td>13:45</td>
     <td>
-      <a href="../talks/maas-for-the-masses-build-your-m">MaaS for the masses: Build Your Monitoring-as-a-Service (MaaS) Solution With Prometheus</a>
+      <a href="../talks/maas-for-the-masses-build-your-m">MaaS for the Masses: Build Your Monitoring-as-a-Service (MaaS) Solution With Prometheus</a>
     </td>
     <td>
       <a href="../speakers/saswata-mukherjee">Saswata Mukherjee</a>
@@ -303,7 +303,7 @@ title: Schedule
    <tr class="talk">
     <td>14:15</td>
     <td>
-      <a href="../talks/opentelemetry-metrics-is-ga-so-w">OpenTelemetry Metrics is GA, so what?</a>
+      <a href="../talks/opentelemetry-metrics-is-ga-so-w">OpenTelemetry Metrics is GA, So What?</a>
     </td>
     <td>
       <a href="../speakers/james-guthrie">James Guthrie</a>
@@ -320,7 +320,7 @@ title: Schedule
    <tr class="talk">
     <td>15:15</td>
     <td>
-      <a href="../talks/fun-with-labels!-what-to-do-when">Fun with labels! What to do when metrics have different labels in PromQL</a>
+      <a href="../talks/fun-with-labels!-what-to-do-when">Fun with labels! What to Do When Metrics Have Different Labels in PromQL</a>
     </td>
     <td>
       <a href="../speakers/jaime-yera-hidalgo">Jaime Yera Hidalgo</a>
@@ -332,7 +332,7 @@ title: Schedule
    <tr class="talk">
     <td>15:45</td>
     <td>
-      The Prometheus conformance program
+      The Prometheus Conformance Program
     </td>
     <td>
       <a href="../speakers/richard-hartmann">Richard Hartmann</a>

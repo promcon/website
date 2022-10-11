@@ -4,7 +4,7 @@ title: "Opening Pandora’s Box: Redesigning PromQL for Scalable Computation"
 
 ## Opening Pandora’s Box: Redesigning PromQL for Scalable Computation
 
-Speaker(s): [Bartlomiej Plotka](../../speakers/bartlomiej-plotka) & [Filip Petkovski](../../speakers/filip-petkovski)
+Speaker(s): [Bartłomiej Płotka](../../speakers/bartłomiej-płotka) & [Filip Petkovski](../../speakers/filip-petkovski)
 
 Thanks to projects like Thanos, Mimir and Cortex, the ecosystem can ingest large amounts of Prometheus metrics and retain them for long periods of time. Although storing large amounts of data is feasible today at a fairly low cost, querying such volumes of data efficiently and within reasonable time is still quite challenging.
 

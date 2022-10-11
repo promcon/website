@@ -1,8 +1,8 @@
 ---
-title: "OSS Supply Chain - Are Prometheus exporters the weak link?"
+title: "OSS Supply Chain - Are Prometheus Exporters the Weak Link?"
 ---
 
-## OSS Supply Chain - Are Prometheus exporters the weak link?
+## OSS Supply Chain - Are Prometheus Exporters the Weak Link?
 
 Speaker(s): [David de Torres Huerta](../../speakers/david-de-torres-huerta)
 
@@ -10,9 +10,9 @@ The supply chain in open source projects has become the elephant in the room of 
 
 The reason for this is that few applications provide out-of-the-box Prometheus metrics, and we can see how the original idea of allowing the open-source community to create Prometheus exporters at will has resulted in a heterogeneous ecosystem in which:
 
-- You can find more than one exporter for the same application
-- Configurations are not homogeneous
-- Prometheus best practices and conventions are not always followed
+* You can find more than one exporter for the same application
+* Configurations are not homogeneous
+* Prometheus best practices and conventions are not always followed
 
 Most crucially, the majority of them are independent open source projects maintained by independent open source contributors. They may or may not continue with the project with the degree of security and performance necessary for production environments in the future.
 

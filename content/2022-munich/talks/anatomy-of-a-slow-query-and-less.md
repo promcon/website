@@ -1,8 +1,8 @@
 ---
-title: "Anatomy of a slow query, and lessons learned building query acceleration techniques"
+title: "Anatomy of a Slow Query, and Lessons Learned Building Query Acceleration Techniques"
 ---
 
-## Anatomy of a slow query, and lessons learned building query acceleration techniques
+## Anatomy of a Slow Query, and Lessons Learned Building Query Acceleration Techniques
 
 Speaker(s): [Cyril Tovena](../../speakers/cyril-tovena) & [Marco Pracucci](../../speakers/marco-pracucci)
 

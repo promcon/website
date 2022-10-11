@@ -6,7 +6,8 @@ title: "Out Of Order Support in Prometheus"
 
 Speaker(s): [Ganesh Vernekar](../../speakers/ganesh-vernekar) & [Jesús Vázquez](../../speakers/jesús-vázquez)
 
-Until Prometheus v2.38.0, Prometheus’ TSDB only accepted in-order samples if they were less than 1 hour old, discarding everything else. As Prometheus continues to be adopted in new fields this poses an increasingly hard problem. Several use cases need out-of-order support, for example
+Until Prometheus v2.38.0, Prometheus’ TSDB only accepted in-order samples if they were less than 1 hour old, discarding everything else. As Prometheus continues to be adopted in new fields this poses an increasingly hard problem. Several use cases need out-of-order support, for example:
+
 * IoT devices waking up asynchronously and writing metrics
 * complex metric delivery architectures using message buses like Kafka with randomized sharding and delay due to congestion
 * standalone Prometheus instances isolated from a network connection for some time trying to push old samples.

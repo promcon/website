@@ -1,7 +1,7 @@
 ---
-title: "Bartlomiej Plotka"
+title: "Bartłomiej Płotka"
 ---
-## Bartlomiej Plotka
+## Bartłomiej Płotka
 
 Working at Red Hat
 
