@@ -174,7 +174,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>16:15</td>
-    <td>Break and travel to social event</td>
+    <td>Break</td>
     <td></td>
   </tr>
   <tr class="talk">
