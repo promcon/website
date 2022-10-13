@@ -5,6 +5,6 @@ title: "Filip Petkovski"
 
 Working at Shopify
 
-Filip is a production engineer at Shopify, currently working on monitoring the monitoring stack for Shopify’s infrastructure. He is a kube-state-metrics maintainer and a member of the Thanos team.
+Filip is a production engineer at Shopify, currently working the monitoring stack for Shopify’s infrastructure. He is a kube-state-metrics maintainer and a member of the Thanos team.
 
 Also engineer by day, Batman by night.
