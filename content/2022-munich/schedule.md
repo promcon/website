@@ -40,7 +40,7 @@ title: Schedule
    <tr class="talk">
     <td>9:45</td>
     <td>
-      <a href="../talks/native-histograms-in-prometheus-">Native Histograms in Prometheus v2.41.0</a>
+      <a href="../talks/native-histograms-in-prometheus-">Native Histograms in Prometheus v2.40.0</a>
     </td>
     <td>
       <a href="../speakers/ganesh-vernekar">Ganesh Vernekar</a>
