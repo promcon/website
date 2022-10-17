@@ -117,14 +117,13 @@ title: Schedule
       <a href="../talks/out-of-order-support-in-promethe">Out Of Order Support in Prometheus</a>
     </td>
     <td>
-      <a href="../speakers/ganesh-vernekar">Ganesh Vernekar</a>
-      <br>
-      <b>Grafana Labs</b>
-      <br/>
       <a href="../speakers/jesús-vázquez">Jesús Vázquez</a>
       <br>
       <b>Grafana Labs</b>
-      
+      <br/>
+      <a href="../speakers/ganesh-vernekar">Ganesh Vernekar</a>
+      <br>
+      <b>Grafana Labs</b>
     </td>
   </tr>
    <tr class="talk">
