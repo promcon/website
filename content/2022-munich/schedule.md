@@ -124,6 +124,7 @@ title: Schedule
       <a href="../speakers/ganesh-vernekar">Ganesh Vernekar</a>
       <br>
       <b>Grafana Labs</b>
+      
     </td>
   </tr>
    <tr class="talk">
@@ -207,7 +208,7 @@ title: Schedule
       <a href="../talks/anatomy-of-a-slow-query-and-less">Anatomy of a Slow Query, and Lessons Learned Building Query Acceleration Techniques</a>
     </td>
     <td>
-      <a href="../speakers/cyril-tovena">Cyril Tovena</a>
+      <a href="../speakers/susana-ferreira">Susana Ferreira</a>
       <br>
       <b>Grafana Labs</b>
       <br/>
@@ -289,7 +290,7 @@ title: Schedule
       <a href="../talks/maas-for-the-masses-build-your-m">MaaS for the Masses: Build Your Monitoring-as-a-Service (MaaS) Solution With Prometheus</a>
     </td>
     <td>
-      <a href="../speakers/saswata-mukherjee">Saswata Mukherjee</a>
+      <a href="../speakers/moad-zardab">Moad Zardab</a>
       <br>
       <b>Red Hat</b>
       <br/>
