@@ -63,7 +63,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>10:45</td>
-    <td>Break</td>
+    <td>Break sponsored by Exaring - Waipu.TV</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -96,7 +96,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>12:15</td>
-    <td>Lunch</td>
+    <td>Lunch sponsored by Exaring - Waipu.TV</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -141,7 +141,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>14:45</td>
-    <td>Break</td>
+    <td>Break sponsored by Exaring - Waipu.TV</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -174,12 +174,12 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>16:15</td>
-    <td>Break</td>
+    <td>Break sponsored by Exaring - Waipu.TV</td>
     <td></td>
   </tr>
-  <tr class="talk">
+  <tr class="break">
     <td>17:15</td>
-    <td>Social Event</td>
+    <td>Social Event sponsored by Grafana Labs and Sysdig</td>
     <td></td>
   </tr>
   <tr class="day">
@@ -236,7 +236,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>10:45</td>
-    <td>Break</td>
+    <td>Break sponsored by Exaring - Waipu.TV</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -269,7 +269,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>12:15</td>
-    <td>Lunch</td>
+    <td>Lunch sponsored by Exaring - Waipu.TV</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -314,7 +314,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>14:45</td>
-    <td>Break</td>
+    <td>Break sponsored by Exaring - Waipu.TV</td>
     <td></td>
   </tr>
    <tr class="talk">
