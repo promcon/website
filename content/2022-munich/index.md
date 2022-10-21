@@ -57,7 +57,7 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 <h3>Platinum</h3>
 <div class="sponsor-logos">
-  <a href="https://chronosphere.io/"><img src="/assets/chronosphere-2021.svg" class="logo"/></a>
+  <a href="https://chronosphere.io/"><img src="/assets/chronosphere_logo_2022.svg" class="logo"/></a>
 </div>
 
 <hr>
