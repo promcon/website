@@ -56,6 +56,12 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 <hr>
 
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="https://sighup.io/"><img src="/assets/sighup_logo.svg" class="logo"/></a>
+</div>
+<hr>
+
 <h3>Social event</h3>
 <div class="sponsor-logos">
     <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
