@@ -56,11 +56,12 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 <hr>
 
-<h3>Diamond</h3>
+<h3>Gold</h3>
 <div class="sponsor-logos">
   <a href="https://sighup.io/"><img src="/assets/sighup_logo.svg" class="logo"/></a>
   <a href="https://www.waipu.tv/"><img src="/assets/waipu_logo.svg" class="logo"/></a>
 </div>
+
 <hr>
 
 <h3>Social event</h3>
