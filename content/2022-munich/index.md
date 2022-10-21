@@ -49,9 +49,15 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
-  <a href="https://chronosphere.io/"><img src="/assets/chronosphere-2021.svg" class="logo"/></a>
   <a href="https://cncf.io/"><img src="/assets/cncf_logo.svg" class="logo"/></a>
   <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
+</div>
+
+<hr>
+
+<h3>Platinum</h3>
+<div class="sponsor-logos">
+  <a href="https://chronosphere.io/"><img src="/assets/chronosphere_logo_2022.svg" class="logo"/></a>
 </div>
 
 <hr>
