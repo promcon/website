@@ -1,8 +1,8 @@
 ---
-title: "Native Histograms in Prometheus v2.40.0"
+title: "Native Histograms in Prometheus"
 ---
 
-## Native Histograms in Prometheus v2.40.0
+## Native Histograms in Prometheus
 
 Speaker(s): [Ganesh Vernekar](../../speakers/ganesh-vernekar)
 
