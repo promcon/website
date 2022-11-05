@@ -172,9 +172,9 @@ title: Schedule
       
     </td>
   </tr>
-  <tr class="break">
+  <tr class="talk">
     <td>16:15</td>
-    <td>Break sponsored by Exaring - Waipu.TV</td>
+    <td>Lightning Talks</td>
     <td></td>
   </tr>
   <tr class="break">
