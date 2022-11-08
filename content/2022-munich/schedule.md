@@ -165,11 +165,14 @@ title: Schedule
       <a href="../speakers/eric-d-schabell">Eric D. Schabell</a>
       <br>
       <b>Chronosphere</b>
-      <br/>
+      <br>
+      Ales Koprivnikar
+      <br>
+      <b>Chronosphere</b>
+      <br>
       <a href="../speakers/emma-(qixuan)-wang">Emma (Qixuan) Wang</a>
       <br>
       <b>DoorDash</b>
-      
     </td>
   </tr>
   <tr class="talk">
