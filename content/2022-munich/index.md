@@ -4,8 +4,8 @@ title: Overview
 
 ## Overview
 
-PromCon EU 2022 is the seventh conference fully dedicated to the
-[Prometheus monitoring system](https://prometheus.io/). It will take place
+PromCon EU 2022 was the seventh conference fully dedicated to the
+[Prometheus monitoring system](https://prometheus.io/). It took place
 2022-11-08 & 2022-11-09 (Tue & Wed) at Alte Kongresshalle in Munich as a single-track event with space for 500+ attendees.
 
 PromCon aims to connect Prometheus users and developers from around the world in
@@ -27,10 +27,6 @@ Germany<br />
 [Google Maps](https://www.google.com/maps/place/Alte+Kongresshalle/@48.1320653,11.5423688,1079m/data=!3m2!1e3!4b1!4m5!3m4!1s0x479dd8ac95d355ff:0x7a4c39c8985f8a98!8m2!3d48.1320617!4d11.5445575)
 
 Yes, this is overlooking the Oktoberfest area.
-
-## Registration
-
-Registration for PromCon EU 2022 is open now.
 
 ## Code of Conduct
  
