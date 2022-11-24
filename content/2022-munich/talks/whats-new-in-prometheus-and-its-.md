@@ -7,3 +7,5 @@ title: "What's New in Prometheus and Its Ecosystem"
 Speaker(s): [Julien Pivotto](../../speakers/julien-pivotto)
 
 Let's have a look at all the recent features and changes in the Prometheus server and the community. We will introduce the new features and see how you can integrate them in your workflows to get a better Prometheus experience.
+
+<%= youtube_player("2Wlza5jrS-U") %>

@@ -11,3 +11,5 @@ Patterns of operating Prometheus-based monitoring solutions are changing steadil
 Prometheus provides us with well-grounded and stable foundation to expand its functionality to monitoring-as-a-service (MaaS). However, achieving this on the TSDB data model, with remote client-controlled environments, poses some unique challenges.  With this paradigm shift, we now need to consider aspects such as authentication, authorization, rate limiting, allow-listing, and tenancy. 
 
 In this talk, you will learn how to leverage Prometheus and its ecosystem to implement functional MaaS for your needs. Matej and Moad will discuss several state-of-the-art open source solutions, ranging from using a simple proxy to deploying a fully-fledged multi-tenancy system like Prometheus in receive mode, Thanos, Cortex, and Mimir. They will also talk about the challenges faced and the future work ahead.
+
+<%= youtube_player("EFPPic9dBS4") %>

@@ -11,3 +11,5 @@ In this talk I will walk through the main internal data structures that contribu
 
 This talk should be of interest to anyone who would like their Prometheus to be a bit smaller.
 Attendees will take away potential changes in configuration or workload that make the size go down.
+
+<%= youtube_player("vc5LgoiP_CA") %>
