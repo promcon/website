@@ -10,3 +10,5 @@ Monitoring bare metal infrastructure with Prometheus is hard because there is no
 
 This talk is about how we solved this challenge by using Netbox as an inventory management system, integrated with Prometheus using the new http service discovery method. We will discuss several solutions, strategies, pitfalls and how this could be scaled to any kind of classic infrastructure.
 It's also about how this increased the quality of our infrastructure documentation, just because engineers get a real benefit of writing down what's deployed while getting monitoring just out of the box. 
+
+<%= youtube_player("0a8dzLEow3Q") %>

@@ -14,3 +14,4 @@ We’ll then explore the options to speed up a query in Prometheus and the accel
 
 Finally, we’ll share further ideas on additional techniques Prometheus and Prometheus-compatible systems could adopt to further speed up the queries execution, like a query planner and query optimizer.
 
+<%= youtube_player("t9dw698NMvs") %>

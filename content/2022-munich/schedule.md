@@ -335,7 +335,7 @@ title: Schedule
    <tr class="talk">
     <td>15:45</td>
     <td>
-      The Prometheus Conformance Program
+      <a href="../talks/the-prometheus-conformance">The Prometheus Conformance Program</a>
     </td>
     <td>
       <a href="../speakers/richard-hartmann">Richard Hartmann</a>
@@ -352,7 +352,7 @@ title: Schedule
    <tr class="talk">
     <td>17:15</td>
     <td>
-      Closing
+      <a href="../talks/closing">Closing</a>
     </td>
     <td>
       <a href="../speakers/richard-hartmann">Richard Hartmann</a>

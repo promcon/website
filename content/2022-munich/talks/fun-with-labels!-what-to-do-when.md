@@ -15,3 +15,5 @@ In this talk, you will learn about:
 * How PromQL combines different metrics
 * PromQL functions for solving label conflicts
 * PromQL functions to modify labels at query time
+
+<%= youtube_player("wjukmbi0I58") %>

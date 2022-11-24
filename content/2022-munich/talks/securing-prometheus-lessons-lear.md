@@ -13,3 +13,5 @@ When you deploy Prometheus in a Kubernetes cluster, there isn’t any built-in s
 On the other hand, when you deploy an OpenShift cluster, you get a Prometheus monitoring stack fully secured with ServiceAccounts, RoleBindings, TLS, tokens, etc. The question is, how does OpenShift integrate all these security features into Prometheus?
 
 In this talk, Manuel and Jesus will go through all the security features that OpenShift implements, making Prometheus more secure. This way, the attendees will learn by example a toolbox of security best practices for Prometheus deployments in Kubernetes.
+
+<%= youtube_player("WtGOy5ob39M") %>

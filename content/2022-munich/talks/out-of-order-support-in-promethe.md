@@ -17,3 +17,5 @@ Prometheus v2.39.0 comes with support for ingesting out of order samples up to a
 We will talk about how we designed the new system, challenges faced while extending Prometheus TSDB, interesting decisions such as adding a new “Write Behind Log” instead of reusing the traditional Write Ahead Log, etc.
 
 We will also share our experience running this in production with millions of series at Grafana Labs and the performance characteristics at scale.
+
+<%= youtube_player("qYsycK3nTSQ") %>

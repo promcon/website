@@ -18,3 +18,4 @@ Most crucially, the majority of them are independent open source projects mainta
 
 In this talk, we will explore the potential risk of exporters in the Prometheus supply chain and some ideas of how to improve our ecosystem.
 
+<%= youtube_player("UZ-MxQpaogY") %>
