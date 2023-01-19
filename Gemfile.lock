@@ -67,7 +67,7 @@ GEM
     pygments.rb (1.1.1)
       multi_json (>= 1.0.0)
     racc (1.6.1)
-    rack (2.2.3.1)
+    rack (3.0.4.1)
     rb-fchange (0.0.6)
       ffi
     rb-fsevent (0.9.8)
