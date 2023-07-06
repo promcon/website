@@ -1,6 +1,6 @@
 ---
 title: The Prometheus Conference
-redirect: /2022-munich/
+redirect: /2023-berlin/
 ---
 
 ## PromCon - The Prometheus Conference
@@ -13,4 +13,4 @@ professional connections around systems and service monitoring.
 ## Contact
 
 PromCon is organized by the [Prometheus developer community](https://prometheus.io/community/).
-For PromCon-related inquiries, please contact [Richard Hartmann](mailto:richih+promcon@richih.org).
+For PromCon-related inquiries, please contact the [PromCon Organizers](mailto:promcon-organizers@googlegroups.com).

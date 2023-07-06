@@ -135,6 +135,23 @@ def conferences
       },
       Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
     ),
+    Conference.new(
+      'PromCon EU 2023',
+      'The Prometheus conference — September 28 - 29 in Berlin',
+      '/2023-berlin/',
+      {
+        '/2023-berlin/' => 'Overview',
+        '/2023-berlin/register/' => 'Register',
+        '/2023-berlin/diversity/' => 'Diversity',
+        '/2023-berlin/submit/' => 'CfP',
+        # '/2023-berlin/schedule/' => 'Schedule',
+        '/2023-berlin/sponsor/' => 'Sponsor',
+        '/2023-berlin/health-and-safety/' => 'Health & Safety',
+        # '/2023-berlin/stream/' => 'Live Stream',
+        '/coc/' => 'Code of Conduct',
+      },
+      Banner.new('berlin-banner', 'Céline Lang', 'https://www.flickr.com/photos/line68/10555465713'),
+    ),
   ]
 end
 

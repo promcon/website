@@ -15,7 +15,7 @@ body {
 
 .berlin-banner {
   background-image: url("/assets/berlin-banner.jpg");
-  background-size: auto;
+  background-size: cover;
 }
 
 .munich-banner {
