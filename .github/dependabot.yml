@@ -1,6 +1,10 @@
 ---
 version: 2
 updates:
+  - package-ecosystem: "gomod"
+    directory: "/lib/sched_gsheettomd/"
+    schedule:
+      interval: "monthly"
   - package-ecosystem: 'bundler'
     directory: '/'
     schedule:
