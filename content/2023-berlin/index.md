@@ -4,7 +4,7 @@ title: Overview
 
 ## Overview
 
-PromCon EU 2023 is the eigth conference fully dedicated to the
+PromCon EU 2023 is the eighth conference fully dedicated to the
 [Prometheus monitoring system](https://prometheus.io/). It will take place
 2023-09-28 & 2023-09-29 (Thu & Fri) in Berlin as a single-track event with space for 300 attendees.
 
