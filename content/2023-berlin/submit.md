@@ -4,7 +4,11 @@ title: Submit Talk
 
 ## Submit a talk
 
-The PromCon Call for Papers (CfP) will open soon!
+The [PromCon Call for Papers](https://docs.google.com/forms/d/e/1FAIpQLSdsxgMTkiZ336bYldHJ1tbaMyy8DVuPhhXFXNDz0eiYy5miEw/viewform) is open until 2023-08-18, 23:59 UTC
+
+<a class="btn btn-lg btn-default" href="https://docs.google.com/forms/d/e/1FAIpQLSdsxgMTkiZ336bYldHJ1tbaMyy8DVuPhhXFXNDz0eiYy5miEw/viewform" target="_blank" role="button">
+  <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Submit to speak
+</a>
 
 We are accepting talk proposals around the following topics, with experience
 levels ranging from beginner to expert:
