@@ -25,7 +25,7 @@ Germany<br />
 
 ## Code of Conduct
 
-To make PromCon a welcoming and harrassment-free experience for everyone, we
+To make PromCon a welcoming and harassment-free experience for everyone, we
 follow the [Linux Foundation's Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/),
 which applies to all attendees including speakers, guests, and
 organizers.
@@ -36,7 +36,7 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 ## Our sponsors
 
-Sponshorship will open soon.
+[Sponsorship is open](https://promcon.io/2023-berlin/sponsor/).
 
 ## Contact
 
