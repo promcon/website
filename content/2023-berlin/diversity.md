@@ -12,7 +12,7 @@ Applicants must be from traditionally underrepresented and/or marginalized group
 
 ## Need-Based
 
-Applicants should be active community members who are not being assisted or sponsored by a company or organization, and are unable to attend for financial reasons.
+Applicants need to be active community members who are not being assisted or sponsored by a company or organization, and are unable to attend for financial reasons.
 
 ## Maintainer
 
