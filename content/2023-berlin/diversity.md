@@ -8,7 +8,7 @@ The Dan Kohn scholarship fund exists to support individuals who may not otherwis
 
 ## Diversity
 
-Applicants must be from traditionally underrepresented and/or marginalized groups in the technology and/or open source communities who are unable to attend without some financial assistance. Including, but not limited to persons identifying as: LGBTQIA+, women, persons of color, and/or persons with disabilities.
+Applicants must be from traditionally underrepresented and/or marginalized groups in the technology and/or open source communities who are unable to attend without financial assistance. Including, but not limited to people identifying as: LGBTQIA+, women, people of color, and/or persons with disabilities.
 
 ## Need-Based
 
