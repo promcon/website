@@ -16,17 +16,22 @@ Get an impression of PromCon EU 2019:
 
 ## Venue Information
 
-To be announced (TBA) once the contract has been signed. 
+[Radialsystem](https://www.radialsystem.de/)<br />
+Holzmarktstraße 33<br />
+10243 Berlin<br />
+Germany<br />
+
+[Google Maps](https://goo.gl/maps/wrVkDDwuygnpNtzn9)
 
 ## Code of Conduct
- 
+
 To make PromCon a welcoming and harrassment-free experience for everyone, we
 follow the [Linux Foundation's Code of Conduct](https://events.linuxfoundation.org/code-of-conduct/),
 which applies to all attendees including speakers, guests, and
 organizers.
- 
+
 ## Hashtag
- 
+
 The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 ## Our sponsors
