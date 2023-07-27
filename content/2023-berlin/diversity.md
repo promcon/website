@@ -16,7 +16,7 @@ Applicants need to be active community members who are not being assisted or spo
 
 ## Maintainer
 
-Applicants should be active Prometheus maintainers who are not being assisted or sponsored by a company or organization, and are unable to attend for financial reasons.
+Applicants need to be active Prometheus maintainers who are not being assisted or sponsored by a company or organization, and are unable to attend for financial reasons.
 
 Scholarships are awarded based on a combination of need and impact. Scholarships are NOT transferable to another person, or any other event. Selection will be made by reviewers who will assess each applicant’s request. Application information will be kept confidential.
 Scholarship recipients will receive a complimentary registration pass to attend PromCon EU 2023 in Berlin, Germany.
