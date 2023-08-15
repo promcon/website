@@ -38,6 +38,11 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 [Sponsorship is open](https://promcon.io/2023-berlin/sponsor/).
 
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"/></a>
+</div>
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer
