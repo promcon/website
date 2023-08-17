@@ -48,6 +48,11 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
   <a href="https://www.redhat.com/"><img src="/assets/red_hat-2021-ba2b65bf8a6994ed.svg" class="logo"/></a>
 </div>
 
+<h3>Gold</h3>
+<div class="sponsor-logos">
+  <a href="https://o11y.eu/"><img src="/assets/o11y_logo.svg" class="logo"/></a>
+</div>
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer
