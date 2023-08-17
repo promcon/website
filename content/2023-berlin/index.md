@@ -53,6 +53,11 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
   <a href="https://o11y.eu/"><img src="/assets/o11y_logo.svg" class="logo"/></a>
 </div>
 
+<h3>Organizational</h3>
+<div class="sponsor-logos">
+  <a href="https://www.polarsignals.com/"><img src="/assets/polarsignals_logo.svg" class="logo"/></a>
+</div>
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer
