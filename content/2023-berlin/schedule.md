@@ -56,6 +56,10 @@ title: Schedule
       <a href="../speakers/augustin-husson">Augustin Husson</a>
       <br>
       <b>Amadeus</b>
+      <br>
+      <a href="../speakers/antoine-thebaud">Antoine Thebaud</a>
+      <br>
+      <b>Amadeus</b>
     </td>
   </tr>
    <tr class="talk">

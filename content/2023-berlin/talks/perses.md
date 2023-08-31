@@ -4,7 +4,7 @@ title: "Perses"
 
 ## Perses
 
-Speaker(s): [Augustin Husson](../../speakers/augustin-husson) & [Marco Pracucci](../../speakers/marco-pracucci)
+Speaker(s): [Augustin Husson](../../speakers/augustin-husson) & [Antoine Thebaud](../../speakers/antoine-thebaud)
 
 Perses is a new visualization tool supporting Prometheus, owned by the Linux foundation under the open source license Apache V2.
 
