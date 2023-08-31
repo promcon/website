@@ -175,7 +175,7 @@ title: Schedule
       <br>
       <b>Coralogix</b>
       <br>
-      <a href="../speakers/bartłomiej-płotka.md">Bartłomiej Płotka</a>
+      <a href="../speakers/bartlomiej-plotka.md">Bartłomiej Płotka</a>
       <br>
       <b>Google</b>
     </td>
