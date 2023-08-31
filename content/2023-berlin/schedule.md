@@ -353,7 +353,7 @@ title: Schedule
    <tr class="talk">
     <td>17:15</td>
     <td>
-      <a href="../talks/closing">See you next time</a>
+      See you next time
     </td>
     <td>
       <a href="../speakers/jah-orawee">Jah Orawee</a>
