@@ -31,7 +31,6 @@ title: Schedule
       <br/>
       <b>Polar Signals</b>
     </td>
-
   </tr>
    <tr class="talk">
     <td>9:15</td>
@@ -176,7 +175,7 @@ title: Schedule
       <br>
       <b>Coralogix</b>
       <br>
-      <a href="../speakers/bartlomiej-plotka">Bartłomiej Płotka</a>
+      <a href="../speakers/bartłomiej-płotka.md">Bartłomiej Płotka</a>
       <br>
       <b>Google</b>
     </td>
