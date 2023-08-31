@@ -143,7 +143,7 @@ def conferences
         '/2023-berlin/' => 'Overview',
         '/2023-berlin/register/' => 'Register',
         '/2023-berlin/diversity/' => 'Diversity',
-        '/2023-berlin/submit/' => 'CfP',
+        # '/2023-berlin/submit/' => 'CfP',
         '/2023-berlin/schedule/' => 'Schedule',
         '/2023-berlin/sponsor/' => 'Sponsor',
         '/2023-berlin/health-and-safety/' => 'Health & Safety',
