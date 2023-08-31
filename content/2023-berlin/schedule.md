@@ -80,7 +80,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>10:45</td>
-    <td></td>
+    <td>Break</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -107,7 +107,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>12:15</td>
-    <td></td>
+    <td>Lunch</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -154,7 +154,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>14:45</td>
-    <td></td>
+    <td>Break</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -247,7 +247,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>10:45</td>
-    <td></td>
+    <td>Break</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -274,7 +274,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>12:15</td>
-    <td></td>
+    <td>Lunch</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -312,7 +312,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>14:45</td>
-    <td></td>
+    <td>Break</td>
     <td></td>
   </tr>
    <tr class="talk">
