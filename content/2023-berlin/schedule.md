@@ -237,7 +237,7 @@ title: Schedule
    <tr class="talk">
     <td>10:15</td>
     <td>
-      <a href="../talks/opening-pandoras-box-redesigning">Prometheus Java Client 1.0.0</a>
+      <a href="../talks/prometheus-java-client">Prometheus Java Client 1.0.0</a>
     </td>
     <td>
       <a href="../speakers/fabian-staber">Fabian Stäber</a>
