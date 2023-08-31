@@ -42,6 +42,7 @@ title: Schedule
       <a href="../speakers/julien-pivotto">Julien Pivotto</a>
       <br/>
       <b>O11y</b>
+      <br/>
       <a href="../speakers/matthias-loibl">Matthias Loibl</a>
       <br/>
       <b>Polar Signals</b>
@@ -201,152 +202,144 @@ title: Schedule
    <tr class="talk">
     <td>9:15</td>
     <td>
-      <a href="../talks/a-brief-illustrated-history-of-p">A Brief Illustrated History of Prometheus</a>
+      <a href="../talks/taming-the-tsunami-low-latency-ingestion-of-push-based-metrics-in-prometheus">Taming the Tsunami: low latency ingestion of push-based metrics in Prometheus</a>
     </td>
     <td>
-      <a href="../speakers/martin-chodúr">Martin Chodúr</a>
+      <a href="../speakers/filip-petkovski">Filip Petkovski</a>
       <br>
-      <b>Seznam.cz</b>
-      
+      <b>Shopify</b>
+      <br>
+      <a href="../speakers/pedro-tanaka">Pedro Tanaka</a>
+      <br>
+      <b>Shopify</b>
+      <br>
     </td>
   </tr>
    <tr class="talk">
     <td>9:45</td>
     <td>
-      <a href="../talks/anatomy-of-a-slow-query-and-less">Anatomy of a Slow Query, and Lessons Learned Building Query Acceleration Techniques</a>
+      <a href="../talks/making-everything-visible-connect-your-gitops-workflow-with-prometheus">Making everything visible - Connect your GitOps workflow with Prometheus</a>
     </td>
     <td>
-      <a href="../speakers/susana-ferreira">Susana Ferreira</a>
+      <a href="../speakers/siddhant-khisty">Siddhant Khisty</a>
       <br>
-      <b>Grafana Labs</b>
-      <br/>
-      <a href="../speakers/marco-pracucci">Marco Pracucci</a>
+      <b>WeMakeDevs</b>
       <br>
-      <b>Grafana Labs</b>
-      
+      <a href="../speakers/aakansha-priya">Aakansha Priya</a>
+      <br>
+      <b>WeMakeDevs</b>
+      <br>
     </td>
   </tr>
    <tr class="talk">
     <td>10:15</td>
     <td>
-      <a href="../talks/opening-pandoras-box-redesigning">Opening Pandora’s Box: Redesigning PromQL for Scalable Computation</a>
+      <a href="../talks/opening-pandoras-box-redesigning">Prometheus Java Client 1.0.0</a>
     </td>
     <td>
-      <a href="../speakers/bartłomiej-płotka">Bartłomiej Płotka</a>
+      <a href="../speakers/fabian-staber">Fabian Stäber</a>
       <br>
-      <b>Red Hat</b>
-      <br/>
-      <a href="../speakers/filip-petkovski">Filip Petkovski</a>
-      <br>
-      <b>Shopify</b>
-      
+      <b>Grafana Labs</b>     
     </td>
   </tr>
   <tr class="break">
     <td>10:45</td>
-    <td>Break sponsored by Exaring - Waipu.TV</td>
+    <td></td>
     <td></td>
   </tr>
    <tr class="talk">
     <td>11:15</td>
     <td>
-      <a href="../talks/securing-prometheus-lessons-lear">Securing Prometheus: Lessons Learned from OpenShift</a>
+      <a href="../talks/build-your-own-apm-instead-of-buying-one">Build your own APM instead of buying one!</a>
     </td>
     <td>
-      <a href="../speakers/manuel-hernandez-valero">Manuel Hernandez Valero</a>
+      <a href="../speakers/aniket-rao">Aniket Rao</a>
       <br>
-      <b>Sysdig</b>
-      <br/>
-      <a href="../speakers/jesus-angel-samitier">Jesus Angel Samitier</a>
-      <br>
-      <b>Sysdig</b>
-      
+      <b>Last9</b>
     </td>
   </tr>
    <tr class="talk">
     <td>11:45</td>
     <td>
-      <a href="../talks/alerting-with-confidence">Alerting with Confidence</a>
+      <a href="../talks/where-your-money-going-the-beginners-guide-to-measuring-kubernetes-costs">Where's your money going? The Beginners Guide To Measuring Kubernetes Costs</a>
     </td>
     <td>
-      <a href="../speakers/xintao-lai">Xintao LAI</a>
+      <a href="../speakers/erik-sommer">Erik Sommer</a>
       <br>
-      <b>Shopee</b>
-      
+      <b>Grafana Labs</b>      
     </td>
   </tr>
   <tr class="break">
     <td>12:15</td>
-    <td>Lunch sponsored by Exaring - Waipu.TV</td>
+    <td></td>
     <td></td>
   </tr>
    <tr class="talk">
     <td>13:15</td>
     <td>
-      <a href="../talks/using-promql-for-custom-datasour">Using PromQL for Custom Datasources</a>
+      <a href="../talks/yet-another-streaming-promql-engine">Yet Another Streaming PromQL Engine</a>
     </td>
     <td>
-      <a href="../speakers/chris-marchbanks">Chris Marchbanks</a>
+      <a href="../speakers/charles-korn">Charles Korn</a>
       <br>
-      <b>Grafana Labs</b>
-      
+      <b>Grafana Labs</b>      
     </td>
   </tr>
    <tr class="talk">
     <td>13:45</td>
     <td>
-      <a href="../talks/maas-for-the-masses-build-your-m">MaaS for the Masses: Build Your Monitoring-as-a-Service (MaaS) Solution With Prometheus</a>
+      <a href="../talks/configuring-your-opentelemetry-collector-for-prometheus">Configuring your OpenTelemetry collector for Prometheus</a>
     </td>
     <td>
-      <a href="../speakers/moad-zardab">Moad Zardab</a>
-      <br>
-      <b>Red Hat</b>
-      <br/>
       <a href="../speakers/matej-gera">Matej Gera</a>
       <br>
-      <b>Red Hat</b>
-      
+      <b>Coralogix</b>
     </td>
   </tr>
    <tr class="talk">
     <td>14:15</td>
     <td>
-      <a href="../talks/opentelemetry-metrics-is-ga-so-w">OpenTelemetry Metrics is GA, So What?</a>
+      <a href="../talks/testing-kubernetes-apps-observability-end-to-end">Testing Kubernetes apps' observability end-to-end</a>
     </td>
     <td>
-      <a href="../speakers/james-guthrie">James Guthrie</a>
+      <a href="../speakers/joao-pedro-machado-vilaca">João Pedro Machado Vilaça</a>
       <br>
-      <b>Timescale Inc.</b>
-      
+      <b>Red Hat</b>
     </td>
   </tr>
   <tr class="break">
     <td>14:45</td>
-    <td>Break sponsored by Exaring - Waipu.TV</td>
+    <td></td>
     <td></td>
   </tr>
    <tr class="talk">
     <td>15:15</td>
     <td>
-      <a href="../talks/fun-with-labels!-what-to-do-when">Fun with labels! What to Do When Metrics Have Different Labels in PromQL</a>
+      <a href="../talks/metrics-explorer-a-tool-used-to-learn-about-prometheus">Metrics Explorer: A tool used to learn about Prometheus</a>
     </td>
     <td>
-      <a href="../speakers/jaime-yera-hidalgo">Jaime Yera Hidalgo</a>
+      <a href="../speakers/brendan-o-handley">Brendan O'Handley</a>
       <br>
-      <b>Sysdig</b>
-      
+      <b>Grafana Labs</b>
+      <br>
+      <a href="../speakers/catherine-gui">Catherine Gui</a>
+      <br>
+      <b>Grafana Labs</b>
     </td>
   </tr>
    <tr class="talk">
     <td>15:45</td>
     <td>
-      <a href="../talks/the-prometheus-conformance">The Prometheus Conformance Program</a>
+      <a href="../talks/learning-from-mistakes-choosing-the-right-metrics-for-prometheus-alerting">Learning from Mistakes - Choosing the Right Metrics for Prometheus Alerting</a>
     </td>
     <td>
-      <a href="../speakers/richard-hartmann">Richard Hartmann</a>
+      <a href="../speakers/shubham-srivastava">Shubham Srivastava</a>
       <br>
-      <b>Grafana Labs</b>
-      
+      <b>Zenduty</b>
+      <br>
+      <a href="../speakers/deepak-kumar">Deepak Kumar</a>
+      <br>
+      <b>Zenduty</b>
     </td>
   </tr>
   <tr class="talk">
@@ -357,13 +350,20 @@ title: Schedule
    <tr class="talk">
     <td>17:15</td>
     <td>
-      <a href="../talks/closing">Closing</a>
+      <a href="../talks/closing">See you next time</a>
     </td>
     <td>
-      <a href="../speakers/richard-hartmann">Richard Hartmann</a>
-      <br>
-      <b>Grafana Labs</b>
-      
+      <a href="../speakers/jah-orawee">Jah Orawee</a>
+      <br/>
+      <b>Polar Signals</b>
+      <br/>
+      <a href="../speakers/matthias-loibl">Matthias Loibl</a>
+      <br/>
+      <b>Polar Signals</b>
+      <br/>
+      <a href="../speakers/frederic-branczyk">Frederic Branczyk</a>
+      <br/>
+      <b>Polar Signals</b>
     </td>
   </tr>
 </table>
