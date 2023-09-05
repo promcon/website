@@ -4,7 +4,7 @@ title: "Towards making Prometheus OpenTelemetry native"
 
 ## Towards making Prometheus OpenTelemetry native
 
-Speaker(s): [Goutham Veeramachaneni](../../speakers/goutham-veeramachaneni) & [Jesus Vasquez](../../speakers/jesus-vasquez)
+Speaker(s): [Goutham Veeramachaneni](../../speakers/goutham-veeramachaneni) & [Jesús Vázquez](../../speakers/jesus-vasquez)
 
 OpenTelemetry is coming up as the emerging standard for instrumenting and transporting telemetry data. There is good integration between Prometheus and OpenTelemetry, with the conversion between the two as part of the OpenTelemetry specification.
 
