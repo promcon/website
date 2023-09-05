@@ -6,8 +6,16 @@ title: "Finding useless and resource-hungry Prometheus metrics"
 
 Speaker(s): [David Calvert](../../speakers/david-calvert)
 
-Did you ever wonder which of your scrapped Prometheus metrics were actually used and which wasn’t? And how this could impact the performance of your Prometheus setup?
+Did you ever wonder which of your scrapped Prometheus metrics were actually used and which wasn’t? Or which labels were responsible for your metrics cardinality? And how this could impact the performance of your Prometheus setup?
 
-I recently had the task to stabilise, track cardinality issues, and significantly reduce resource usage of a Prometheus setup. In order to do that, I first needed to analyse the Prometheus and Thanos stack. In this talk, I will explain how I used Grafana mimirtool to identify which metrics were used on the platform, and which wasn’t.
+As an engineer, you might need to understand, track cardinality issues or reduce resource usage of your Prometheus setup. First step is to understand and measure what you have in your Prometheus’s TSDB. Hopefully we have now great tools to do that!
 
-We’ll also see why it’s important to know that, and what we can do with this information: configuring exporters, using relabeling rules and explore the cardinality of our metrics. All those things that may, or may not, improve the performance of your Prometheus setup!
+In this talk, I will explain how Mimirtool and Grafana can help you achieve this in no time!
+
+We’ll cover:
+
+* Analysing your Prometheus metrics usage with Mimirtool
+* Dropping unused metrics on the exporter, or using relabeling rules
+* Finding high-cardinality metrics on Prometheus
+* Finding high-cardinality labels using the Cardinality Explorer Grafana dashboard
+* A potential quick win to reduce Prometheus resource usage
