@@ -1,7 +1,7 @@
 ---
-title: "Jesus Vasquez"
+title: "Jesús Vázquez"
 ---
 
-## Jesus Vasquez
+## Jesús Vázquez
 
 Working at Grafana Labs
