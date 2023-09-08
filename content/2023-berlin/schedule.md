@@ -283,7 +283,7 @@ title: Schedule
       <a href="../talks/yet-another-streaming-promql-engine">Yet Another Streaming PromQL Engine</a>
     </td>
     <td>
-      <a href="../speakers/charles-korn">Charles Korn</a>
+      <a href="../speakers/gyorgy-krajcsovits">György Krajcsovits</a>
       <br>
       <b>Grafana Labs</b>      
     </td>
