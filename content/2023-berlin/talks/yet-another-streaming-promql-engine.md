@@ -4,7 +4,7 @@ title: "Yet Another Streaming PromQL Engine"
 
 ## Yet Another Streaming PromQL Engine
 
-Speaker(s): [Charles Korn](../../speakers/charles-korn)
+Speaker(s): [György Krajcsovits](../../speakers/gyorgy-krajcsovits)
 
 Mimir is great at ingesting enormous amounts of time series data. But we think it can be even better at querying enormous amounts of time series data. So we’ve been working to improve Mimir’s query performance and resource consumption, with the goal to evaluate queries faster while also reducing CPU utilisation and peak memory consumption.
 
