@@ -1,8 +1,8 @@
 ---
-title: "Perses"
+title: "Perses: The CNCF candidate for observability visualisation"
 ---
 
-## Perses
+## Perses: The CNCF candidate for observability visualisation
 
 Speaker(s): [Augustin Husson](../../speakers/augustin-husson) & [Antoine Thebaud](../../speakers/antoine-thebaud)
 
