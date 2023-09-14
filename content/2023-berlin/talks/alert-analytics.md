@@ -1,8 +1,8 @@
 ---
-title: "Alert analytics"
+title: "Alert Analysis as a Service"
 ---
 
-## Alert analytics
+## Alert Analysis as a Service
 
 Speaker(s): [Monika Singh](../../speakers/monika-singh)
 
