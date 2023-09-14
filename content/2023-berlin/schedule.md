@@ -86,12 +86,17 @@ title: Schedule
    <tr class="talk">
     <td>11:15</td>
     <td>
-      <a href="../talks/how-to-monitor-global-tens-of-thousands-of-kubernetes-clusters-with-thanos-federation">How to Monitor Global Tens of Thousands of Kubernetes Clusters with Thanos Federation</a>
+      <a href="../talks/zero-code-application-metrics-with-ebpf">Zero-code application metrics with eBPF and Prometheus</a>
     </td>
     <td>
-      <a href="../speakers/jiaxu-liu">Jiaxu Liu</a>
-      <br>
-      <b>Alibaba Cloud</b>
+      <a href="../speakers/nikola-grcevski">Nikola Grcevski</a>
+      <br/>
+      <b>Grafana Labs</b>
+      <br/>
+      <a href="../speakers/mario-macias">Mario Macias</a>
+      <br/>
+      <b>Grafana Labs</b>
+      <br/>
     </td>
   </tr>
    <tr class="talk">
