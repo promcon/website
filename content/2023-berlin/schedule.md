@@ -50,7 +50,7 @@ title: Schedule
    <tr class="talk">
     <td>9:45</td>
     <td>
-      <a href="../talks/perses">Perses</a>
+      <a href="../talks/perses">Perses: The CNCF candidate for observability visualisation</a>
     </td>
     <td>
       <a href="../speakers/augustin-husson">Augustin Husson</a>
