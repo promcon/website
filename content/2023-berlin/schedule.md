@@ -341,11 +341,11 @@ title: Schedule
       <a href="../talks/learning-from-mistakes-choosing-the-right-metrics-for-prometheus-alerting">Learning from Mistakes - Choosing the Right Metrics for Prometheus Alerting</a>
     </td>
     <td>
-      <a href="../speakers/shubham-srivastava">Shubham Srivastava</a>
+      <a href="../speakers/ankur-rawal">Ankur Rawal</a>
       <br>
       <b>Zenduty</b>
       <br>
-      <a href="../speakers/deepak-kumar">Deepak Kumar</a>
+      <a href="../speakers/dheeraj-reddy">Dheeraj Reddy</a>
       <br>
       <b>Zenduty</b>
     </td>
