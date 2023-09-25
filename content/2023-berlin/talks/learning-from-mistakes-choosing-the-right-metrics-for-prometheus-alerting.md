@@ -4,7 +4,7 @@ title: "Learning from Mistakes - Choosing the Right Metrics for Prometheus Alert
 
 ## Learning from Mistakes - Choosing the Right Metrics for Prometheus Alerting
 
-Speaker(s): [Shubham Srivastava](../../speakers/shubham-srivastava) & [Deepak Kumar](../../speakers/deepak-kumar)
+Speaker(s): [Ankur Rawal](../../speakers/ankur-rawal) & [Dheeraj Reddy](../../speakers/dheeraj-reddy)
 
 > Evolution forged the entirety of sentient life on this planet using only one tool: the mistake.
 
