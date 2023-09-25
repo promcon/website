@@ -10,7 +10,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>8:15</td>
-    <td>Breakfast and Registration</td>
+    <td>Coffee, Snacks, and Registration</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -204,7 +204,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>8:30</td>
-    <td>Breakfast and Registration</td>
+    <td>Coffee, Snacks, and Registration</td>
     <td></td>
   </tr>
    <tr class="talk">
