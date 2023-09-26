@@ -10,7 +10,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>8:15</td>
-    <td>Coffee, Snacks, and Registration</td>
+    <td>Welcome Coffee and Registration</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -80,7 +80,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>10:45</td>
-    <td>Break</td>
+    <td>Break (Bread & Mini-Bagels)</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -112,7 +112,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>12:15</td>
-    <td>Lunch</td>
+    <td>Lunch (Pasta, Salad, Vegan Curry)</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -159,7 +159,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>14:45</td>
-    <td>Break</td>
+    <td>Break (Bagel with Pastrami & Vegan Apple Pie)</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -204,7 +204,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>8:30</td>
-    <td>Coffee, Snacks, and Registration</td>
+    <td>Welcome Coffee and Registration</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -252,7 +252,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>10:45</td>
-    <td>Break</td>
+    <td>Break (Salmon Tramezzini & cookies)</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -279,7 +279,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>12:15</td>
-    <td>Lunch</td>
+    <td>Lunch (Duck Breast, Ragout (vegan), Königsberger Klöpse, Salad)</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -317,7 +317,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>14:45</td>
-    <td>Break</td>
+    <td>Break (Bagel with vegetables & Cake)</td>
     <td></td>
   </tr>
    <tr class="talk">
