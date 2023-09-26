@@ -195,8 +195,8 @@ title: Schedule
     <td></td>
   </tr>
   <tr class="break">
-    <td>17:15</td>
-    <td>Social Event</td>
+    <td>18:00</td>
+    <td>Social Event @ <a href="https://maps.app.goo.gl/zpDexrtXym8SGPQo6">Birgit</a><br/>Until Late</td>
     <td></td>
   </tr>
   <tr class="day">
