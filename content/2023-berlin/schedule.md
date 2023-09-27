@@ -226,17 +226,12 @@ title: Schedule
    <tr class="talk">
     <td>9:45</td>
     <td>
-      <a href="../talks/making-everything-visible-connect-your-gitops-workflow-with-prometheus">Making everything visible - Connect your GitOps workflow with Prometheus</a>
+      <a href="#">TBA</a>
     </td>
     <td>
-      <a href="../speakers/siddhant-khisty">Siddhant Khisty</a>
+      <a href="#">TBA</a>
       <br>
-      <b>WeMakeDevs</b>
-      <br>
-      <a href="../speakers/aakansha-priya">Aakansha Priya</a>
-      <br>
-      <b>WeMakeDevs</b>
-      <br>
+      <b></b>
     </td>
   </tr>
    <tr class="talk">
@@ -258,12 +253,12 @@ title: Schedule
    <tr class="talk">
     <td>11:15</td>
     <td>
-      <a href="../talks/build-your-own-apm-instead-of-buying-one">Build your own APM instead of buying one!</a>
+      <a href="#">TBA</a>
     </td>
     <td>
-      <a href="../speakers/aniket-rao">Aniket Rao</a>
+      <a href="#">TBA</a>
       <br>
-      <b>Last9</b>
+      <b></b>
     </td>
   </tr>
    <tr class="talk">
