@@ -256,7 +256,7 @@ title: Schedule
       <a href="#">TBA</a>
     </td>
     <td>
-      <a href="../speakers/aniket-rao">TBA</a>
+      <a href="#">TBA</a>
       <br>
       <b></b>
     </td>
