@@ -226,12 +226,20 @@ title: Schedule
    <tr class="talk">
     <td>9:45</td>
     <td>
-      <a href="#">TBA</a>
+      <a href="#">Surprise Trivia Quiz</a>
     </td>
     <td>
-      <a href="#">TBA</a>
-      <br>
-      <b></b>
+      <a href="../speakers/matthias-loibl">Matthias Loibl</a>
+      <br/>
+      <b>Polar Signals</b>
+      <a href="../speakers/goutham-veeramachaneni">Goutham Veeramachaneni</a>
+      <br/>
+      <b>Grafana Labs</b>
+      <br/>
+      <a href="../speakers/jesus-vasquez">Jesus Vasquez</a>
+      <br/>
+      <b>Grafana Labs</b>
+      <br/>
     </td>
   </tr>
    <tr class="talk">
@@ -253,12 +261,12 @@ title: Schedule
    <tr class="talk">
     <td>11:15</td>
     <td>
-      <a href="#">TBA</a>
+      <a href="#">Extracting Metrics from pprof profiles</a>
     </td>
     <td>
-      <a href="#">TBA</a>
-      <br>
-      <b></b>
+      <a href="../speakers/frederic-branczyk">Frederic Branczyk</a>
+      <br/>
+      <b>Polar Signals</b>
     </td>
   </tr>
    <tr class="talk">
