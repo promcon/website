@@ -261,7 +261,7 @@ title: Schedule
    <tr class="talk">
     <td>11:15</td>
     <td>
-      <a href="#">Extracting Metrics from pprof profiles</a>
+      <a href="#">From Metrics to Profiles and back again</a>
     </td>
     <td>
       <a href="../speakers/frederic-branczyk">Frederic Branczyk</a>
