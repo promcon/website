@@ -232,6 +232,7 @@ title: Schedule
       <a href="../speakers/matthias-loibl">Matthias Loibl</a>
       <br/>
       <b>Polar Signals</b>
+      <br/>
       <a href="../speakers/goutham-veeramachaneni">Goutham Veeramachaneni</a>
       <br/>
       <b>Grafana Labs</b>
