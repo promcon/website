@@ -2,15 +2,10 @@
 title: Overview
 ---
 
-## Livestream
-
-<%= youtube_player("ymR57Q0qqg4") %>
- 
-
 ## Overview
 
-PromCon EU 2023 is the eighth conference fully dedicated to the
-[Prometheus monitoring system](https://prometheus.io/). It will take place
+PromCon EU 2023 was the eighth conference fully dedicated to the
+[Prometheus monitoring system](https://prometheus.io/). It will took place
 2023-09-28 & 2023-09-29 (Thu & Fri) in Berlin as a single-track event with space for 300 attendees.
 
 PromCon aims to connect Prometheus users and developers from around the world in order to exchange knowledge, best practices, and experience gained around using Prometheus. We also want to collaborate to build a community and grow professional connections around systems and service monitoring.
@@ -37,7 +32,7 @@ organizers.
 
 ## Hashtag
 
-The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
+The event Hashtag was [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 ## Our sponsors
 
