@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/efficientgo/core v1.0.0-rc.2
-	golang.org/x/oauth2 v0.12.0
+	golang.org/x/oauth2 v0.13.0
 	google.golang.org/api v0.143.0
 )
 
