@@ -104,7 +104,7 @@ GEM
     psych (4.0.6)
       stringio
     public_suffix (5.0.3)
-    pygments.rb (2.4.0)
+    pygments.rb (2.4.1)
     racc (1.7.1)
     rack (3.0.8)
     rackup (2.1.0)
