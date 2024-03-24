@@ -15,3 +15,5 @@ The talk covers:
 - Core concepts of Alertmanager.
 - How to do Alert Analysis using open source tools such as Promtheus, Alertmanager, Vector.dev, ClickHouse, Grafana.
 - Outcome and Conclusion.
+
+<%= youtube_player("O2V7wQKtdIg") %>

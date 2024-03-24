@@ -19,3 +19,5 @@ We’ll cover:
 * Finding high-cardinality metrics on Prometheus
 * Finding high-cardinality labels using the Cardinality Explorer Grafana dashboard
 * A potential quick win to reduce Prometheus resource usage
+
+<%= youtube_player("NRXAB_Ug8zo") %>

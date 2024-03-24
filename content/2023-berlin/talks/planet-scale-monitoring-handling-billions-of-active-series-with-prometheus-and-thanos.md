@@ -11,3 +11,5 @@ Deploying and operating a highly available and distributed Prometheus setup at s
 The main part of the presentation will cover the architecture of our current solution. We will demonstrate how we use Prometheus agents with custom service discovery to scrape and write metrics into regional Thanos receiver deployments. We will also explain how we leverage Thanos's long-term storage and distributed querying capabilities to enable long-term querying of billions of time series. Additionally, we will provide insight into how thousands of developers can query, explore, and configure their metrics and alerts through a customized Grafana deployment, and how our setup evaluates rules and alerts across our entire metrics dataset.
 
 At the end of the presentation, we will emphasize some of the challenges we encountered during the time-intensive migration from a third-party monitoring vendor to our current solution.
+
+<%= youtube_player("Or8r46fSaOg") %>

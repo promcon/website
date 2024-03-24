@@ -15,3 +15,5 @@ In this talk, I’ll:
 - demonstrate our prototype PromQL engine that computes results over streams of series, and share our preliminary benchmark results, the lessons we’ve learnt so far, and what we plan to try next
 - compare the pros and cons of the prototype engine, Prometheus’ default PromQL engine and Thanos’ streaming PromQL engine
 - explain how Mimir’s other query optimisation techniques, such as streaming chunks and time splitting of queries, uniquely complement a PromQL engine that computes results over streams of series
+
+<%= youtube_player("3kM2Asj6hcg") %>
