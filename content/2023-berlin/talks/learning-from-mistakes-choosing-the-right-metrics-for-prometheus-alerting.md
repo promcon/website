@@ -13,3 +13,5 @@ We analysed the incident data of 150+ highly active organisations deploying Prom
 We further studied and tested statistical concepts like Z-Score, Elliptic Envelope, Seasonality and their ability to detect and predict anomalies via time-series data at different scales, and will end with a kicker of a financial analysis of how much an average company could be losing to improper alerting.
 
 This talk will give listeners a run-through of best practices and ‘what not to do' when choosing Prometheus metrics for noiseless and proactive alerting; preventing a few more folks from burning their fingers in their o11y journey.
+
+<%= youtube_player("frgHo6WfhPw") %>

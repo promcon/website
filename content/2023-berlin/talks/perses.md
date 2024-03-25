@@ -29,3 +29,5 @@ In a later stage, we will propose:
 - Datasources discovery.
 - Sub folder management.
 - Panels generation.
+
+<%= youtube_player("7G_0TCrcVyg") %>

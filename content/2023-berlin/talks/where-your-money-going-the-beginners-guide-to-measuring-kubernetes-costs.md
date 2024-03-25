@@ -11,3 +11,5 @@ Accurately attributing cloud costs has become a Sisyphean task many companies fa
 You'll get to see how we started, with just the metrics collected from kube-state-metrics and stored within Prometheus. We'll step through crafting the queries to create recording rules that will attribute costs of clusters across many cloud service providers.
 
 Measuring the trends in costs for k8s is easy to get started with. If you're operating a k8s cluster and collecting metrics from kube-state-metrics, you likely already collect enough metrics. Keeping an eye on this and being able to alert on cost changes will allow you to mitigate shock bills in cloud providers.
+
+<%= youtube_player("Cm0VDMXnvNA") %>
