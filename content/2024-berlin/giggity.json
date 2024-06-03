@@ -1,0 +1,24 @@
+{
+    "version": 20220811,
+    "url": "https://promcon.io/2024-berlin/schedule.xml",
+    "title": "PromCon EU 2024",
+        "start": "2022-09-11",
+        "end": "2022-09-12",
+        "metadata": {
+            "icon": "https://promcon.io/assets/favicons/apple-touch-icon.png",
+            "links": [
+                {
+                    "url": "https://promcon.io/2024-berlin/",
+                    "title": "Website"
+                },
+                {
+                    "url": "",
+                    "title": "Venue location"
+                },
+                {
+                    "url": "https://promcon.io/coc/",
+                    "title": "Code of Conduct"
+                }
+            ]
+        }
+}

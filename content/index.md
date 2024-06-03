@@ -1,6 +1,6 @@
 ---
 title: The Prometheus Conference
-redirect: /2023-berlin/
+redirect: /2024-berlin/
 ---
 
 ## PromCon - The Prometheus Conference
