@@ -152,6 +152,22 @@ def conferences
       },
       Banner.new('berlin-banner', 'Céline Lang', 'https://www.flickr.com/photos/line68/10555465713'),
     ),
+    Conference.new(
+      'PromCon EU 2024',
+      'The Prometheus conference — September 11 - 12 in Berlin',
+      '/2024-berlin/',
+      {
+        '/2024-berlin/' => 'Overview',
+        # '/2024-berlin/register/' => 'Register',
+        '/2024-berlin/diversity/' => 'Diversity',
+        # '/2024-berlin/submit/' => 'CfP',
+        #'/2024-berlin/schedule/' => 'Schedule',
+        # '/2024-berlin/sponsor/' => 'Sponsor',
+        # '/2024-berlin/stream/' => 'Live Stream',
+        '/coc/' => 'Code of Conduct',
+      },
+      Banner.new('berlin-banner', 'Céline Lang', 'https://www.flickr.com/photos/line68/10555465713'),
+    ),
   ]
 end
 
