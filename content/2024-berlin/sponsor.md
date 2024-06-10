@@ -12,10 +12,7 @@ banners, and printed materials?**
 
 ## I want to sponsor PromCon. What do I do?
 
-Sponsorships will open soon!
-
-If you wish to take advantage of swag distribution, booth space, or free
-attendee tickets, please let us know in advance.
+Please see the [sponsorship prospectus](/assets/sponsor-promcon-2024.pdf).
 
 ## Why sponsor PromCon?
 
