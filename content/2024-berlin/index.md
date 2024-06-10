@@ -31,7 +31,7 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 ## Our sponsors
 
-Sponshorship will open soon.
+[Sponsorship is open](https://promcon.io/2024-berlin/sponsor/).
 
 ## Contact
 

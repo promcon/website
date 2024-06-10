@@ -162,7 +162,7 @@ def conferences
         '/2024-berlin/diversity/' => 'Diversity',
         # '/2024-berlin/submit/' => 'CfP',
         #'/2024-berlin/schedule/' => 'Schedule',
-        # '/2024-berlin/sponsor/' => 'Sponsor',
+        '/2024-berlin/sponsor/' => 'Sponsor',
         # '/2024-berlin/stream/' => 'Live Stream',
         '/coc/' => 'Code of Conduct',
       },
