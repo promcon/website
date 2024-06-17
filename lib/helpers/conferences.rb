@@ -160,7 +160,7 @@ def conferences
         '/2024-berlin/' => 'Overview',
         # '/2024-berlin/register/' => 'Register',
         '/2024-berlin/scholarship/' => 'Scholarship',
-        # '/2024-berlin/submit/' => 'CfP',
+        '/2024-berlin/submit/' => 'CfP',
         #'/2024-berlin/schedule/' => 'Schedule',
         '/2024-berlin/sponsor/' => 'Sponsor',
         # '/2024-berlin/stream/' => 'Live Stream',
