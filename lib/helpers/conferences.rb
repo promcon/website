@@ -164,6 +164,7 @@ def conferences
         #'/2024-berlin/schedule/' => 'Schedule',
         '/2024-berlin/sponsor/' => 'Sponsor',
         # '/2024-berlin/stream/' => 'Live Stream',
+        '/2024-berlin/health-and-safety/' => 'Health & Safety',
         '/coc/' => 'Code of Conduct',
       },
       Banner.new('berlin-banner', 'Céline Lang', 'https://www.flickr.com/photos/line68/10555465713'),
