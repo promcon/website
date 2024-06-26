@@ -33,6 +33,17 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 [Sponsorship is open](https://promcon.io/2024-berlin/sponsor/).
 
+<h3>Diamond</h3>
+<div class="sponsor-logos">
+  <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"></a>
+  <a href="https://victoriametrics.com/"><img src="/assets/vm_logo.png" class="logo"></a>
+</div>
+
+<h3>Organizational</h3>
+<div class="sponsor-logos">
+  <a href="https://www.polarsignals.com/"><img src="/assets/polarsignals_logo.svg" class="logo"></a>
+</div>
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer
