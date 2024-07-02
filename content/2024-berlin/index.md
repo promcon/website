@@ -39,6 +39,11 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
   <a href="https://victoriametrics.com/"><img src="/assets/vm_logo.svg" class="logo"></a>
 </div>
 
+<h3>Social Event</h3>
+<div class="sponsor-logos">
+  <a href="https://last9.io/"><img src="/assets/last9_logo.svg" class="logo"></a>
+</div>
+
 <h3>Organizational</h3>
 <div class="sponsor-logos">
   <a href="https://www.polarsignals.com/"><img src="/assets/polarsignals_logo.svg" class="logo"></a>
