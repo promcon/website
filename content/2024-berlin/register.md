@@ -9,6 +9,7 @@ The ticket prices are:
 * **Early Bird**: $275 USD (through July 22)
 * **Standard**: $375 USD (July 23 - September 4)
 * **Onsite**: $475 USD (September 5 - September 12)
+* **Academic**: $100 USD (always)
 
 <a class="btn btn-lg btn-default" href="https://cvent.me/a28Z3P" target="_blank" role="button">
   <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Register for PromCon EU 2024
