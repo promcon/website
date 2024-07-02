@@ -16,7 +16,12 @@ Get an impression of PromCon EU 2019:
 
 ## Venue Information
 
-To be announced (TBA) once the contract has been signed. 
+[Tempodrom Berlin](https://www.tempodrom.de/en/location/)  
+Möckernstraße 10  
+10963 Berlin  
+Germany
+
+[Google Maps](https://maps.app.goo.gl/zNYaMfhNxZAXa6Uy6)
 
 ## Code of Conduct
  
