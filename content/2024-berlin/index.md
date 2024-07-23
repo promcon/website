@@ -44,6 +44,11 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
   <a href="https://victoriametrics.com/"><img src="/assets/vm_logo.svg" class="logo"></a>
 </div>
 
+<h3>Platinum</h3>
+<div class="sponsor-logos">
+  <a href="https://www.redhat.com/"><img src="/assets/red_hat-2021-ba2b65bf8a6994ed.svg" class="logo"/></a>
+</div>
+
 <h3>Social Event</h3>
 <div class="sponsor-logos">
   <a href="https://last9.io/"><img src="/assets/last9_logo.svg" class="logo"></a>
