@@ -78,14 +78,26 @@ title: Schedule
   </tr>
    <tr class="talk">
     <td>13:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/shopifys-journey-from-conventional-to-native-histograms">Shopify's journey from conventional to native histograms</a>
+    </td>
+    <td>
+      <a href="../speakers/sebastian-rabenhorst">Sebastian Rabenhorst</a>
+      <br>
+      <a href="../speakers/pedro-tanaka">Pedro Tanaka</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>13:45</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/gluing-it-all-together-aka-building-a-platform-around-prometheus">“Gluing it all together” aka building a platform around Prometheus</a>
+    </td>
+    <td>
+      <a href="../speakers/martin-chodur">Martin Chodur</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>14:15</td>
     <td>
@@ -177,9 +189,16 @@ title: Schedule
   </tr>
    <tr class="talk">
     <td>11:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/the-future-of-metadata-in-prometheus-enhancing-storage-and-usability">The Future of Metadata in Prometheus: Enhancing Storage and Usability</a>
+    </td>
+    <td>
+      <a href="../speakers/ganesh-vernekar">Ganesh Vernekar</a>
+      <br>
+      <a href="../speakers/arve-knudsen">Arve Knudsen</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>11:45</td>
     <td>
@@ -224,6 +243,8 @@ title: Schedule
     </td>
     <td>
       <a href="../speakers/carrie-edwards">Carrie Edwards</a>
+      <br>
+      <a href="../speakers/fiona-liao">Fiona Liao</a>
       <br>
     </td>
   </tr>
