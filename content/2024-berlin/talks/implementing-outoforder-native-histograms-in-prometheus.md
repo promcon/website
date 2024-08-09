@@ -4,7 +4,7 @@ title: "Implementing Out-of-Order Native Histograms in Prometheus"
 
 ## Implementing Out-of-Order Native Histograms in Prometheus
 
-Speaker(s): [Carrie Edwards](../../speakers/carrie-edwards)
+Speaker(s): [Carrie Edwards](../../speakers/carrie-edwards) & [Fiona Liao](../../speakers/fiona-liao)
 
 Support for out-of-order ingestion of float samples was introduced in Prometheus v2.39.0. With the introduction of native histograms in Prometheus 2.41.0, it was necessary to adapt the TSDB’s handling of out-of-order samples in order to support native histograms.
 
