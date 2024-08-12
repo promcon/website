@@ -19,9 +19,14 @@ title: Schedule
   </tr>
    <tr class="talk">
     <td>09:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/prometheus-30-overview">Prometheus 3.0 overview</a>
+    </td>
+    <td>
+      <a href="../speakers/jan-fajerski">Jan Fajerski</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>09:45</td>
     <td>
