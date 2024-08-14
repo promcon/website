@@ -4,7 +4,7 @@ title: "Applying GitOps principles for central alert management"
 
 ## Applying GitOps principles for central alert management
 
-Speaker(s): [Juraj Michálek](../../speakers/juraj-michálek)
+Speaker(s): [Juraj Michálek](../../speakers/juraj-michálek) & [Pradeep Lalwani](../../speakers/pradeep-lalwani)
 
 In this talk we will explore how we can use git to store and review  alerts for Prometheus and compatible backends such as Mimir, Thanos, Cortex.
 
