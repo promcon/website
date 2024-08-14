@@ -20,7 +20,7 @@ title: Schedule
    <tr class="talk">
     <td>09:15</td>
     <td>
-      <a href="../talks/prometheus-30-overview">Prometheus 3.0 overview</a>
+      <a href="../talks/prometheus-30-overview">Prometheus 3.0 Overview</a>
     </td>
     <td>
       <a href="../speakers/jan-fajerski">Jan Fajerski</a>
