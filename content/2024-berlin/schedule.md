@@ -74,6 +74,8 @@ title: Schedule
     <td>
       <a href="../speakers/juraj-michálek">Juraj Michálek</a>
       <br>
+      <a href="../speakers/pradeep-lalwani">Pradeep Lalwani</a>
+      <br>
     </td>
   </tr>
   <tr class="break">
