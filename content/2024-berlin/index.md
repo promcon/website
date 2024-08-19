@@ -46,6 +46,7 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 <h3>Platinum</h3>
 <div class="sponsor-logos">
+  <a href="https://www.reddit.com/"><img src="/assets/reddit_204.svg" class="Reddit logo"/></a>
   <a href="https://www.redhat.com/"><img src="/assets/red_hat-2021-ba2b65bf8a6994ed.svg" class="logo"/></a>
 </div>
 
