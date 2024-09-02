@@ -3,7 +3,11 @@ title: "Bartłomiej Płotka"
 ---
 
 ## Bartłomiej Płotka
+
+<img src="https://sessionize.com/image/86b8-400o400o1-UhKWwHq2CTeRCdepgU6uTC.jpg" style="width: 100px; border-radius: 50%" alt="Bartłomiej Płotka Profile Picture"/>
+
 [Twitter](https://twitter.com/bwplotka), 
+
 [LinkedIn](https://linkedin.com/in/bwplotka)
 
 Working at Google

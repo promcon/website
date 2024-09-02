@@ -2,7 +2,10 @@
 title: "Mihail Mihaylov"
 ---
 
+
+<img src="https://sessionize.com/image/3cd6-400o400o1-ULcKdtVTWi7ZrbN9Ybpb2D.jpg" style="width: 150px; float: right; border-radius: 50%" alt="Mihail Mihaylov Profile Picture"/>
 ## Mihail Mihaylov
+
 [LinkedIn](https://www.linkedin.com/in/mihail-mihaylov-50718852/)
 
 Working at MariaDB Corporation

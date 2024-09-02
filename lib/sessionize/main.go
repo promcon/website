@@ -62,6 +62,7 @@ func main() {
 
 				for l, speaker := range session.Speakers {
 					daysDecoded[i].Rooms[j].Sessions[k].Speakers[l].FilePath = speakers[speaker.ID].FilePath
+					daysDecoded[i].Rooms[j].Sessions[k].Speakers[l].ProfilePicture = speakers[speaker.ID].ProfilePicture
 				}
 			}
 		}
@@ -210,8 +211,9 @@ type Session struct {
 type SessionSpeaker struct {
 	FilePath string
 
-	ID   string `json:"id"`
-	Name string `json:"name"`
+	ID             string `json:"id"`
+	Name           string `json:"name"`
+	ProfilePicture string `json:"profilePicture"`
 }
 
 func urlString(r rune) rune {
