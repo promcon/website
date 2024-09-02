@@ -4,8 +4,6 @@ title: "Practical OpenTelemetry with Prometheus 3.0"
 
 ## Practical OpenTelemetry with Prometheus 3.0
 
-Speaker(s): [Arve Knudsen](../../speakers/arve-knudsen) & [Jesus Vazquez](../../speakers/jesus-vazquez)
-
 A lot of hard work has gone into making Prometheus 3.0 a great OpenTelemetry (OTel) metrics store. In this talk we dive into the new features and what you need to effectively store and query OTel data inside Prometheus.
 
 OTLP ingestion is now GA.
@@ -29,3 +27,13 @@ OTLP ingestion is now GA.
 
 * up metric implementation in push
 * . in metric names and how that'll look like
+
+### Speakers
+[Arve Knudsen](../../speakers/arve-knudsen)
+
+<img src="https://sessionize.com/image/eda9-400o400o1-fFNkViNmjhiRjXSV5PyZuG.jpg" style="width: 100px; border-radius: 50%" alt="Arve Knudsen Profile Picture"/>
+
+[Jesus Vazquez](../../speakers/jesus-vazquez)
+
+<img src="https://sessionize.com/image/bf5b-400o400o1-RF4Lh7w4ojhMqoVyraBU96.jpg" style="width: 100px; border-radius: 50%" alt="Jesus Vazquez Profile Picture"/>
+

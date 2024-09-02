@@ -2,8 +2,12 @@
 title: "Krisztian Fekete"
 ---
 
+
+<img src="https://sessionize.com/image/a5aa-400o400o1-TC4DuXXv1treN3Pv4BsYSN.jpg" style="width: 150px; float: right; border-radius: 50%" alt="Krisztian Fekete Profile Picture"/>
 ## Krisztian Fekete
+
 [X (Twitter)](https://twitter.com/kfekete), 
+
 [LinkedIn](https://www.linkedin.com/in/fekete-krisztian/)
 
 Working at solo.io

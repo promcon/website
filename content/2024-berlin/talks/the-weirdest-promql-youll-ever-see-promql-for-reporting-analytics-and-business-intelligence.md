@@ -4,8 +4,6 @@ title: "The weirdest PromQL you’ll ever see: PromQL for Reporting, Analytics, 
 
 ## The weirdest PromQL you’ll ever see: PromQL for Reporting, Analytics, and Business Intelligence
 
-Speaker(s): [Sam Jewell](../../speakers/sam-jewell)
-
 Prometheus is fantastic at managing high frequency data. But what if you have an analytics use case? Sometimes we just want to lower the frequency; to see daily, weekly or monthly data and find long-term trends or growth rates.
 
 We might want to consider any of these use cases per day, week or month, such as:
@@ -31,4 +29,10 @@ In this talk I’ll:
   - Use `and day_of_month()` in your query to get true monthly data from a counter
 
 After this talk you will be able to query for daily, weekly or monthly data directly from Prometheus. As a result, you’ll be able to spot longer term trends or growth rates. And you’ll be able to compare with data from your other sources, for correlation or auditing purposes.
+
+
+### Speakers
+[Sam Jewell](../../speakers/sam-jewell)
+
+<img src="https://sessionize.com/image/52fb-400o400o1-ECQMwRp99qX1scHwVVgjYE.jpg" style="width: 100px; border-radius: 50%" alt="Sam Jewell Profile Picture"/>
 

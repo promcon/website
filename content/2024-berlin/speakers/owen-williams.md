@@ -2,8 +2,12 @@
 title: "Owen Williams"
 ---
 
+
+<img src="https://sessionize.com/image/6b38-400o400o1-wGCbhnjGXPkCZrh57tsMQF.jpg" style="width: 150px; float: right; border-radius: 50%" alt="Owen Williams Profile Picture"/>
 ## Owen Williams
+
 [X (Twitter)](https://twitter.com/ywwg), 
+
 [LinkedIn](https://www.linkedin.com/in/owengwilliams/)
 
 Working at Grafana Labs

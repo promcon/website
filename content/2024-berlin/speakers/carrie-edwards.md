@@ -2,7 +2,10 @@
 title: "Carrie Edwards"
 ---
 
+
+<img src="https://sessionize.com/image/0f8b-400o400o1-HKdRFE5M6BimTbXex7SYwo.jpg" style="width: 150px; float: right; border-radius: 50%" alt="Carrie Edwards Profile Picture"/>
 ## Carrie Edwards
+
 [LinkedIn](https://www.linkedin.com/in/carrie-l-edwards/)
 
 Working at Grafana Labs
