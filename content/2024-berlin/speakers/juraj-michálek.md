@@ -2,8 +2,8 @@
 title: "Juraj Michálek"
 ---
 
-## Juraj Michálek
 
+## Juraj Michálek
 
 [X (Twitter)](https://x.com/MichalekJuraj), 
 
