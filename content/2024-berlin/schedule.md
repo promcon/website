@@ -147,7 +147,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>18:00</td>
-    <td>Social Event</td>
+    <td>Social Event at NAUMANNS Biergarten</td>
     <td></td>
   </tr>
   <tr class="day">
