@@ -42,6 +42,7 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 <div class="sponsor-logos">
   <a href="https://chronosphere.io/"><img src="/assets/chronosphere_logo_2022.svg" class="logo"></a>
   <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"></a>
+  <a href="https://oodle.ai/"><img src="/assets/oodle_logo_blue_web.png" class="logo"></a>
   <a href="https://victoriametrics.com/"><img src="/assets/vm_logo.svg" class="logo"></a>
 </div>
 
