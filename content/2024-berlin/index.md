@@ -2,6 +2,10 @@
 title: Overview
 ---
 
+## Livestream
+
+<%= youtube_player("drSSR8RE2jM") %>
+
 ## Overview
 
 PromCon EU 2024 is the ninth conference fully dedicated to the
