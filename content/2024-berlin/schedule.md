@@ -130,15 +130,10 @@ title: Schedule
       <br>
     </td>
   </tr>
-   <tr class="talk">
+  <tr class="break">
     <td>15:45</td>
-    <td>
-      <a href="../talks/scaling-slos-with-open-source-tools">Scaling SLOs with open source tools</a>
-    </td>
-    <td>
-      <a href="../speakers/george-hantzaras">George Hantzaras</a>
-      <br>
-    </td>
+    <td>Original Session Won't Happen - To Be Announced</td>
+    <td></td>
   </tr>
   <tr class="break">
     <td>16:15</td>
