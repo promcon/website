@@ -5,9 +5,8 @@ title: "Sam Jewell"
 
 <img src="https://sessionize.com/image/52fb-400o400o1-ECQMwRp99qX1scHwVVgjYE.jpg" style="width: 150px; float: right; border-radius: 50%" alt="Sam Jewell Profile Picture"/>
 ## Sam Jewell
-
+<br>
 [X (Twitter)](https://x.com/SOJewell), 
-
 [LinkedIn](https://www.linkedin.com/in/sam-jewell)
 
 Working at Grafana Labs

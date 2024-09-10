@@ -4,9 +4,8 @@ title: "Juraj Michálek"
 
 
 ## Juraj Michálek
-
+<br>
 [X (Twitter)](https://x.com/MichalekJuraj), 
-
 [LinkedIn](https://www.linkedin.com/in/jurajmichalek/)
 
 Working at Swiss RE

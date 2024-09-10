@@ -5,7 +5,7 @@ title: "Pradeep Lalwani"
 
 <img src="https://sessionize.com/image/bf9b-400o400o1-nBd4qVBDsr2asfE8vXTPdY.jpg" style="width: 150px; float: right; border-radius: 50%" alt="Pradeep Lalwani Profile Picture"/>
 ## Pradeep Lalwani
-
+<br>
 [LinkedIn](https://ch.linkedin.com/in/pradeep-lalwani-6a8b437)
 
 SRE at SwissRe

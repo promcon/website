@@ -5,9 +5,8 @@ title: "Bryan Boreham"
 
 <img src="https://sessionize.com/image/80de-400o400o1-3NEWQ8tkccc68Ws7anRFkJ.jpg" style="width: 150px; float: right; border-radius: 50%" alt="Bryan Boreham Profile Picture"/>
 ## Bryan Boreham
-
+<br>
 [X (Twitter)](https://twitter.com/bboreham), 
-
 [LinkedIn](https://www.linkedin.com/in/bryanboreham)
 
 Working at Grafana Labs
