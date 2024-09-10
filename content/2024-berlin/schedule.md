@@ -12,11 +12,11 @@ title: Schedule
     <td>Welcome Coffee and Registration</td>
     <td></td>
   </tr>
-  <tr class="break">
+   <tr class="talk">
     <td>09:00</td>
-    <td>Welcome</td>
+    <td>To Be Announced</td>
     <td></td>
-  </tr>
+   </tr>
    <tr class="talk">
     <td>09:15</td>
     <td>
@@ -130,11 +130,11 @@ title: Schedule
       <br>
     </td>
   </tr>
-  <tr class="break">
+   <tr class="talk">
     <td>15:45</td>
-    <td>Original Session Won't Happen - To Be Announced</td>
+    <td>To Be Announced</td>
     <td></td>
-  </tr>
+   </tr>
   <tr class="break">
     <td>16:15</td>
     <td>Lightning Talks</td>
