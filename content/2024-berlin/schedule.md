@@ -53,7 +53,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>10:45</td>
-    <td>Break</td>
+    <td>Break, Sponsored by Reddit</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -80,7 +80,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>12:15</td>
-    <td>Lunch</td>
+    <td>Lunch, Sponsored by Reddit</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -117,7 +117,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>14:45</td>
-    <td>Break</td>
+    <td>Break, Sponsored by Reddit</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -142,7 +142,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>18:00</td>
-    <td>Social Event at NAUMANNS Biergarten</td>
+    <td>Social Event at NAUMANNS Biergarten, Sponsored by Last9</td>
     <td></td>
   </tr>
   <tr class="day">
@@ -186,7 +186,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>10:45</td>
-    <td>Break</td>
+    <td>Break, Sponsored by Reddit</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -213,7 +213,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>12:15</td>
-    <td>Lunch</td>
+    <td>Lunch, Sponsored by Reddit</td>
     <td></td>
   </tr>
    <tr class="talk">
@@ -252,7 +252,7 @@ title: Schedule
   </tr>
   <tr class="break">
     <td>14:45</td>
-    <td>Break</td>
+    <td>Break, Sponsored by Reddit</td>
     <td></td>
   </tr>
    <tr class="talk">
