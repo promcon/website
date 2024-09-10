@@ -14,9 +14,14 @@ title: Schedule
   </tr>
    <tr class="talk">
     <td>09:00</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/welcome">Welcome</a>
+    </td>
+    <td>
+      <a href="../speakers/matthias-loibl">Matthias Loibl</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>09:15</td>
     <td>
@@ -132,9 +137,16 @@ title: Schedule
   </tr>
    <tr class="talk">
     <td>15:45</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/trivia-quiz">Trivia Quiz</a>
+    </td>
+    <td>
+      <a href="../speakers/goutham-veeramachaneni">Goutham Veeramachaneni</a>
+      <br>
+      <a href="../speakers/matthias-loibl">Matthias Loibl</a>
+      <br>
+    </td>
+  </tr>
   <tr class="break">
     <td>16:15</td>
     <td>Lightning Talks</td>
