@@ -2,9 +2,9 @@
 title: Overview
 ---
 
-## Livestream
+## PromCon EU 2024 is a wrap!
 
-<%= youtube_player("7lKvlGqOkL4") %>
+Thank you to all the attendees, speakers, and sponsors that joined us in Berlin.  
 
 ## Overview
 
