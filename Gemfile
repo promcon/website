@@ -12,3 +12,5 @@ gem 'builder'
 gem 'rb-inotify', :require => false
 gem 'rb-fsevent', :require => false
 gem 'rb-fchange', :require => false
+
+gem "base64", "~> 0.3.0"
