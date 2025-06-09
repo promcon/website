@@ -6,6 +6,7 @@ GEM
     adsf (1.4.7)
       rack (>= 1.0.0, < 4.0.0)
       rackup (~> 2.1)
+    base64 (0.3.0)
     builder (3.2.4)
     coderay (1.1.3)
     colored (1.2)
@@ -139,6 +140,7 @@ PLATFORMS
 
 DEPENDENCIES
   adsf
+  base64 (~> 0.3.0)
   builder
   guard-livereload
   guard-nanoc

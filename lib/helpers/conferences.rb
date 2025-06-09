@@ -169,6 +169,22 @@ def conferences
       },
       Banner.new('berlin-banner', 'Céline Lang', 'https://www.flickr.com/photos/line68/10555465713'),
     ),
+    Conference.new(
+      'PromCon EU 2025',
+      'The Prometheus conference — October 21 - 22 in Munich',
+      '/2025-munich/',
+      {
+        '/2025-munich/' => 'Overview',
+        # '/2024-berlin/register/' => 'Register',
+        # '/2025-munich/diversity/' => 'Diversity',
+        '/2025-munich/submit/' => 'CfP',
+        #'/2024-berlin/schedule/' => 'Schedule',
+        # '/2024-berlin/sponsor/' => 'Sponsor',
+        # '/2024-berlin/stream/' => 'Live Stream',
+        '/coc/' => 'Code of Conduct',
+      },
+      Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
+    ),
   ]
 end
 
