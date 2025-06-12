@@ -1,6 +1,6 @@
 ## Submit a talk
 
-The [PromCon Call for Papers](https://sessionize.com/promcon-2024/) is open until 2024-07-16, 23:59 CEST
+The [PromCon Call for Papers](https://sessionize.com/promcon-2025/) is open until 2025-07-16, 23:59 CEST
 
 <a class="btn btn-lg btn-default" href="https://sessionize.com/promcon-2025/" target="_blank" role="button">
   <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Submit to speak
