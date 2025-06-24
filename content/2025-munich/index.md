@@ -38,6 +38,7 @@ The [PromCon Call for Papers](./submit) is open until 2025-07-16, 23:59 CEST.
 ## Registration
 
 The ticket prices are:
+
 * **Early Bird**: $150 USD (through July 18)
 * **Standard**: $200 USD (July 19 - September 22)
 * **Late**: $250 USD (September 22 - October 22)
