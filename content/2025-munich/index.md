@@ -34,19 +34,23 @@ organizers.
 ## CFP
 
 The [PromCon Call for Papers](./submit) is open until 2025-07-16, 23:59 CEST.
+
+## Registration
+
+The ticket prices are:
+* **Early Bird**: $150 USD (through July 18)
+* **Standard**: $200 USD (July 19 - September 22)
+* **Late**: $250 USD (September 22 - October 22)
+
+Register for PromCon EU 2025 [here](https://promcon.io/2025-munich/register).
  
 ## Hashtag
  
 The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
-## Stay Updated
-
-Follow us for updates:
-- [Mailing list](https://groups.google.com/forum/#!forum/prometheus-announce)
-
 ## Our sponsors
 
-Sponshorship will open soon.
+[Sponsorship is open](https://promcon.io/2025-munich/sponsor/).
 
 ## Contact
 
