@@ -175,11 +175,11 @@ def conferences
       '/2025-munich/',
       {
         '/2025-munich/' => 'Overview',
-        # '/2024-berlin/register/' => 'Register',
+        '/2025-munich/register/' => 'Register',
         # '/2025-munich/diversity/' => 'Diversity',
         '/2025-munich/submit/' => 'CfP',
         #'/2024-berlin/schedule/' => 'Schedule',
-        # '/2024-berlin/sponsor/' => 'Sponsor',
+        '/2025-munich/sponsor/' => 'Sponsor',
         # '/2024-berlin/stream/' => 'Live Stream',
         '/coc/' => 'Code of Conduct',
       },
