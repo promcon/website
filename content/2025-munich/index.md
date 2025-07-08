@@ -53,6 +53,10 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 [Sponsorship is open](https://promcon.io/2025-munich/sponsor/).
 
+<h3>Diamond</h3>
+  <a href="https://victoriametrics.com/"><img src="/assets/vm_logo.svg" class="logo"></a>
+</div>
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer
