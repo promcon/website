@@ -17,6 +17,8 @@ Please see the [sponsorship prospectus](https://events.linuxfoundation.org/wp-co
 If you wish to take advantage of swag distribution, booth space, or free
 attendee tickets, please let us know in advance.
 
+If you're ready to sign, [please do so here](https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=f87758f1-7486-4e51-98b0-fdb25ff91329&env=na3&acct=f30e10ec-fea1-4dd8-a262-384a61edabb5&v=2) or reach out to sponsor@cncf.io.
+
 ## Why sponsor PromCon?
 
 Prometheus is a leading open-source monitoring system and time series database
