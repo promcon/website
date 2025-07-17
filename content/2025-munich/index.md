@@ -33,7 +33,7 @@ organizers.
 
 ## CFP
 
-The [PromCon Call for Papers](./submit) is open until 2025-07-16, 23:59 CEST.
+The [PromCon Call for Papers](./submit) is open until 2025-07-21, 23:59 CEST (extended deadline).
 
 ## Registration
 
