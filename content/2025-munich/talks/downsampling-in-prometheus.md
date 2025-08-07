@@ -4,7 +4,7 @@ title: "Downsampling in Prometheus"
 
 ## Downsampling in Prometheus
 
-Downsampling of TSDB data has been requested repeatedly in the past. In this session we will first take breif look at the histoy of thes feature requests and I iwll outline common use cases. Then we'll look at examples of how downsampling use cases can be solved today with Prometheus. Last but not least we'll explore some upcoming features and undecided feature requests that could open up new setups, as well as scenarios that will forever stay outside of Prometheus' scope.
+Downsampling of TSDB data has been requested repeatedly in the past. In this session we will first take brief look at the history of this feature requests and I will outline common use cases. Then we'll look at examples of how downsampling use cases can be solved today with Prometheus. Last but not least we'll explore some upcoming features and undecided feature requests that could open up new setups, as well as scenarios that will forever stay outside of Prometheus' scope.
 
 ### Speakers
 [Jan Fajerski](../../speakers/jan-fajerski)
