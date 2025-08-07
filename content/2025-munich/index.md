@@ -33,7 +33,7 @@ organizers.
 
 ## Schedule 
 
-The PromCon Schedule can be found here: [Schedule](https://promcon.org/2025-munich/schedule/).
+The PromCon Schedule can be found here: [Schedule](https://promcon.io/2025-munich/schedule/).
 
 ## Registration
 
