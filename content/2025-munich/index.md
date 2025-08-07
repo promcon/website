@@ -31,9 +31,9 @@ follow the [Linux Foundation's Code of Conduct](https://events.linuxfoundation.o
 which applies to all attendees including speakers, guests, and
 organizers.
 
-## CFP
+## Schedule 
 
-The [PromCon Call for Papers](./submit) is open until 2025-07-21, 23:59 CEST (extended deadline).
+The PromCon Schedule can be found here: [Schedule](https://promcon.io/2025-munich/schedule/).
 
 ## Registration
 
