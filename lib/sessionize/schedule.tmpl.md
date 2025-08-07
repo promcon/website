@@ -15,12 +15,6 @@ title: Schedule
     <td>{{ $session.Title }}</td>
     <td></td>
   </tr>
-    {{- else if eq $session.IsConfirmed false }}
-   <tr class="talk">
-    <td>{{ hour $session.StartsAt }}</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
     {{- else}}
    <tr class="talk">
     <td>{{ hour $session.StartsAt }}</td>
