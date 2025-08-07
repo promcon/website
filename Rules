@@ -1,11 +1,15 @@
 #!/usr/bin/env ruby
 
 passthrough '/README.md'
-
+passthrough '/_redirects'
 passthrough '/assets/bootstrap-3.3.1/**/*'
 passthrough '/assets/favicons/**/*'
 passthrough '/assets/font-awesome-4.6.1/**/*'
 passthrough '/**/slides/*'
+
+compile '/_redirects' do
+  write item.identifier
+end
 
 compile '/assets/*' do
   unless item.binary?
