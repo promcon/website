@@ -40,7 +40,7 @@ title: Schedule
     <td>
       <a href="../speakers/györgy-krajcsovits">György Krajcsovits</a>
       <br>
-      <a href="../speakers/arthur-sens">Arthur Sens</a>
+      <a href="../speakers/bartłomiej-płotka">Bartłomiej Płotka</a>
       <br>
     </td>
   </tr>
@@ -125,6 +125,8 @@ title: Schedule
     </td>
     <td>
       <a href="../speakers/jorge-creixell">Jorge Creixell</a>
+      <br>
+      <a href="../speakers/manoj-acharya">Manoj Acharya</a>
       <br>
     </td>
   </tr>

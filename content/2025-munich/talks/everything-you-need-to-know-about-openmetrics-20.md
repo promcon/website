@@ -17,7 +17,7 @@ Also this talk covers most of the topic choices below, we picked internals and c
 
 <img src="https://sessionize.com/image/0fec-400o400o1-HNmVBJoCAxir3kk3Kgeeb7.jpg" style="width: 100px; border-radius: 50%" alt="György Krajcsovits Profile Picture"/>
 
-[Arthur Sens](../../speakers/arthur-sens)
+[Bartłomiej Płotka](../../speakers/bartłomiej-płotka)
 
-<img src="https://sessionize.com/image/0a59-400o400o1-9bgMMK9ZRAAsY3mMb57iRK.jpg" style="width: 100px; border-radius: 50%" alt="Arthur Sens Profile Picture"/>
+<img src="https://sessionize.com/image/86b8-400o400o1-UhKWwHq2CTeRCdepgU6uTC.jpg" style="width: 100px; border-radius: 50%" alt="Bartłomiej Płotka Profile Picture"/>
 

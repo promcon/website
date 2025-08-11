@@ -24,3 +24,7 @@ https://github.com/grafana/promql-anomaly-detection
 
 <img src="https://sessionize.com/image/b0b6-400o400o1-BioT8o1sdtC7aQtX1xumrL.jpg" style="width: 100px; border-radius: 50%" alt="Jorge Creixell Profile Picture"/>
 
+[Manoj Acharya](../../speakers/manoj-acharya)
+
+<img src="https://sessionize.com/image/498b-400o400o1-7mna8GxAAKWZtWS5Uc8sBw.jpg" style="width: 100px; border-radius: 50%" alt="Manoj Acharya Profile Picture"/>
+
