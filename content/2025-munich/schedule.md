@@ -184,6 +184,8 @@ title: Schedule
       <br>
       <a href="../speakers/alan-protasio">Alan Protasio</a>
       <br>
+      <a href="../speakers/michael-hoffmann">Michael Hoffmann</a>
+      <br>
     </td>
   </tr>
    <tr class="talk">

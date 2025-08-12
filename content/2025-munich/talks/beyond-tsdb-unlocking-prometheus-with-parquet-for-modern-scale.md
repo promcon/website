@@ -20,3 +20,7 @@ All this work happened in the open, with conversations and code shared in CNCF S
 
 <img src="https://sessionize.com/image/7955-400o400o1-SHbWsm2cXsQJv29pSYQi29.jpg" style="width: 100px; border-radius: 50%" alt="Alan Protasio Profile Picture"/>
 
+[Michael Hoffmann](../../speakers/michael-hoffmann)
+
+<img src="https://sessionize.com/image/167e-400o400o1-9bfFDvbKBd736hHM3VC68V.jpg" style="width: 100px; border-radius: 50%" alt="Michael Hoffmann Profile Picture"/>
+
