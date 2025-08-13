@@ -10,15 +10,6 @@ At Grafana Labs, we have built a scalable, fully automated alerting system that 
 
 In this talk, we will introduce the SAAFE method with real-world examples of how this has been useful. We will also share the open-source framework built purely using PromQL and Grafana that you can adopt.      
 
-Benefits to the ecosystem 
-Alert fatigue is a hot topic in the observability community. Symptom-based alerting methodologies like SLOs are effective in tracking availability. However, causal alerts, albeit noisy, are essential in identifying the root cause. In this talk, we will demonstrate how we can find the key signals from our alerts using just PromQL and Grafana. 
-
-Additional resources 
-This talk extends the framework we originally shared at Promcon 2024 - “Practical Anomaly Detection at scale with PromQL” 
-
-PromCon 2024 - Practical Anomaly Detection at Scale With PromQL
-https://github.com/grafana/promql-anomaly-detection
-
 ### Speakers
 [Jorge Creixell](../../speakers/jorge-creixell)
 
