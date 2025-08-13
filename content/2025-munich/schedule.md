@@ -25,7 +25,7 @@ title: Schedule
    <tr class="talk">
     <td>09:15</td>
     <td>
-      <a href="../talks/the-prometheus-philosophy">The Prometheus Philosophy</a>
+      <a href="../talks/why-i-recommend-native-prometheus-instrumentation-over-opentelemetry">Why I Recommend Native Prometheus Instrumentation over OpenTelemetry</a>
     </td>
     <td>
       <a href="../speakers/julius-volz">Julius Volz</a>
