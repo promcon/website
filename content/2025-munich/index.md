@@ -58,6 +58,11 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
   <a href="https://victoriametrics.com/"><img src="/assets/vm_logo.svg" class="logo"></a>
 </div>
 
+<h3>Gold</h3>
+<div class="sponsor-logos">
+  <a href="https://www.hudsonrivertrading.com/"><img src="/assets/hrt2024.svg" class="Hudson River Trading logo"/></a>
+</div>
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer
