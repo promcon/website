@@ -55,12 +55,17 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 <h3>Diamond</h3>
   <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"></a>
-  <a href="https://victoriametrics.com/"><img src="/assets/vm_logo.svg" class="logo"></a>
+  <a href="https://victoriametrics.com/"><img src="/assets/vm_logo2025.png" class="logo"></a>
+</div>
+
+<h3>Platinum</h3>
+<div class="sponsor-logos">
+  <a href="https://www.redhat.com/"><img src="/assets/red_hat-2021-ba2b65bf8a6994ed.svg" class="logo"/></a>
 </div>
 
 <h3>Gold</h3>
 <div class="sponsor-logos">
-  <a href="https://www.hudsonrivertrading.com/"><img src="/assets/hrt2024.svg" class="Hudson River Trading logo"/></a>
+  <a href="https://www.hudsonrivertrading.com/"><img src="/assets/hrt2024.svg" class="logo"/></a>
 </div>
 
 ## Contact
