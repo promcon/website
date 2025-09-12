@@ -65,7 +65,7 @@ The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
 
 <h3>Gold</h3>
 <div class="sponsor-logos">
-  <a href="https://www.hudsonrivertrading.com/"><img src="/assets/hrt2024.svg" class="logo"/></a>
+  <a href="https://www.hudsonrivertrading.com/"><img src="/assets/hrt2024.svg" class="logo narrower"/></a>
   <a href="https://amadeus.com"><img src="/assets/amadeus2025.svg" class="logo"/></a>
 </div>
 
