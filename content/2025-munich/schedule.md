@@ -231,7 +231,7 @@ title: Schedule
     <td>
       <a href="../speakers/arve-knudsen">Arve Knudsen</a>
       <br>
-      <a href="../speakers/carrie-edwards">Carrie Edwards</a>
+      <a href="../speakers/owen-williams">Owen Williams</a>
       <br>
     </td>
   </tr>
@@ -264,18 +264,20 @@ title: Schedule
       <br>
     </td>
   </tr>
-  <tr class="talk">
+   <tr class="talk">
     <td>14:45</td>
     <td>
-     To Be Announced 
+      <a href="../talks/debugging-the-pipeline-observability-for-your-observability-with-otel--prometheus">Debugging the Pipeline: Observability for Your Observability with OTel + Prometheus</a>
     </td>
     <td>
+      <a href="../speakers/israel-blancas">Israel Blancas</a>
+      <br>
     </td>
   </tr>
   <tr class="talk">
-    <td>15:15</td>
-    <td>
-     To Be Announced 
+     <td>15:15</td>
+     <td>
+     To Be Announced
     </td>
     <td>
     </td>
