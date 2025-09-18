@@ -35,6 +35,8 @@ organizers.
 
 The PromCon Schedule can be found here: [Schedule](https://promcon.io/2025-munich/schedule/).
 
+We'd love to have your 5-minute lightning talk at PromCon! Please submit them via our [Lightning talk form](https://forms.gle/2JF13tSBGzrcuZD7A).
+
 ## Registration
 
 The ticket prices are:

@@ -2,6 +2,8 @@
 title: Schedule
 ---
 
+We'd love to have your 5-minute lightning talk at PromCon! Please submit them via our [Lightning talk form](https://forms.gle/2JF13tSBGzrcuZD7A).
+
 <table class="table schedule-table">
   <tr class="day">
     <th colspan="3">Day 1 - Tuesday, 21 October 2025</th>
