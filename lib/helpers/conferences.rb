@@ -181,6 +181,7 @@ def conferences
         '/2025-munich/schedule/' => 'Schedule',
         '/2025-munich/sponsor/' => 'Sponsor',
         # '/2024-berlin/stream/' => 'Live Stream',
+        '/2025-munich/health-and-safety/' => 'Health & Safety',
         '/coc/' => 'Code of Conduct',
       },
       Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
