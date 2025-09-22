@@ -13,15 +13,14 @@ Since last year's PromCon, there have been numerous improvements to Prometheus' 
 * Support for translating OpenTelemetry explicit bucket histograms into native histograms with custom buckets
 * Promote OpenTelemetry scope metadata to metric labels
 
-Carrie and Arve will, as core contributors to the Prometheus OTLP receiver, give an introduction to the most important improvements that have been made to Prometheus' OpenTelemetry support over the last year.
-
+Owen and Arve will, as core contributors to the Prometheus OTLP receiver, give an introduction to the most important improvements that have been made to Prometheus' OpenTelemetry support over the last year.
 
 ### Speakers
 [Arve Knudsen](../../speakers/arve-knudsen)
 
 <img src="https://sessionize.com/image/eda9-400o400o1-fFNkViNmjhiRjXSV5PyZuG.jpg" style="width: 100px; border-radius: 50%" alt="Arve Knudsen Profile Picture"/>
 
-[Carrie Edwards](../../speakers/carrie-edwards)
+[Owen Williams](../../speakers/owen-williams)
 
-<img src="https://sessionize.com/image/0f8b-400o400o1-HKdRFE5M6BimTbXex7SYwo.jpg" style="width: 100px; border-radius: 50%" alt="Carrie Edwards Profile Picture"/>
+<img src="https://sessionize.com/image/6b38-400o400o1-wGCbhnjGXPkCZrh57tsMQF.jpg" style="width: 100px; border-radius: 50%" alt="Owen Williams Profile Picture"/>
 
