@@ -10,9 +10,18 @@ The ticket prices are:
 * **Standard**: $200 USD (July 19 - September 22)
 * **Late**: $250 USD (September 22 - October 22)
 
-<a class="btn btn-lg btn-default" href="https://register.linuxfoundation.org/YMye4d" target="_blank" role="button">
-  <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Register for PromCon EU 2025
-</a>
+**PromCon EU 2025 is sold out!**
+
+[Join the waitlist](https://forms.gle/f213RYnNAaZGhgep6)! If you have a speaker or a sponsor code, you will still be able to register.
+
+If space opens, and you’re next on the list, you’ll receive an email and will have 48 hours to register. If you have not registered in that timeframe, we will provide your spot to the next person on the list. Everyone on the waitlist will receive a notification regarding their status by Monday, 13 October.
+
+We will live stream the talks, and you can bookmark the links below:
+
+[Livestream Day 1](https://www.youtube.com/live/8h99_mfY6U4)
+[Livestream Day 2](https://www.youtube.com/live/SzSUa5y7Ji0)
+
+Should you have any questions, please contact us at events@cncf.io.
 
 ## Letter for Visa
 
