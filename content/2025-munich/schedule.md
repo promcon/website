@@ -276,12 +276,14 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
       <br>
     </td>
   </tr>
-  <tr class="talk">
-     <td>15:15</td>
-     <td>
-     To Be Announced
+   <tr class="talk">
+    <td>15:15</td>
+    <td>
+      <a href="../talks/counting-what-you-care-about-in-your-security-data-pipeline">Counting What You Care About in Your Security Data Pipeline</a>
     </td>
     <td>
+      <a href="../speakers/attila-szakács">Attila Szakács</a>
+      <br>
     </td>
   </tr>
   <tr class="break">
