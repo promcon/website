@@ -10,7 +10,8 @@ But there are also counters inside the CPU itself, such as number of cache hits,
 
 Historically it was impossible to get at CPU-level counters on cloud servers, as they were hidden by the hypervisor. But in the few years, CPU manufacturers and cloud providers have added interfaces to bridge this gap
 
-This talk looks at
+This talk looks at:
+
  * What kinds of CPU counters are most useful.
  * When you can get access to CPU counters on cloud servers.
  * How to get those counters into Prometheus.
