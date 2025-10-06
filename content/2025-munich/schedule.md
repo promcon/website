@@ -142,13 +142,23 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
       <br>
     </td>
   </tr>
-  <tr class="break">
+   <tr class="talk">
     <td>15:45</td>
+    <td>
+      <a href="../talks/building-an-observability-agent-for-rapid-root-cause-analysis-using-prometheus-metrics">Building an Observability Agent for Rapid Root Cause Analysis using Prometheus metrics</a>
+    </td>
+    <td>
+      <a href="../speakers/pavan-yekbote">Pavan Yekbote</a>
+      <br>
+    </td>
+  </tr>
+  <tr class="break">
+    <td>16:10</td>
     <td>Break</td>
     <td></td>
   </tr>
   <tr class="break">
-    <td>16:15</td>
+    <td>16:30</td>
     <td>Lightning talks</td>
     <td></td>
   </tr>
