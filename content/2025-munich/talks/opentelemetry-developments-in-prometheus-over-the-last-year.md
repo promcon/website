@@ -4,16 +4,11 @@ title: "OpenTelemetry developments in Prometheus over the last year"
 
 ## OpenTelemetry developments in Prometheus over the last year
 
-Since last year's PromCon, there have been numerous improvements to Prometheus' OpenTelemetry support, more specifically its OTLP receiver. Among them:
+At the last PromCon in Berlin, general availability of the OpenTelemetry ingestion (OTLP) endpoint was announced. Since then, Prometheus developers have been very active in further improving support for the OpenTelemetry standard.
 
-* Converting OpenTelemetry metric metadata to Prometheus equivalent
-* Support for keeping identifying attributes in the target_info metric
-* Primitive support for ingesting OpenTelemetry delta temporality metrics without converting to cumulative
-* Support for ingesting OpenTelemetry metrics without translating metric or attribute names
-* Support for translating OpenTelemetry explicit bucket histograms into native histograms with custom buckets
-* Promote OpenTelemetry scope metadata to metric labels
+Owen and Arve will be talking about the numerous improvements that have gone into Prometheus' OTLP endpoint in the meantime. Most of them are functional, but performance has also been significantly tuned!
 
-Owen and Arve will, as core contributors to the Prometheus OTLP receiver, give an introduction to the most important improvements that have been made to Prometheus' OpenTelemetry support over the last year.
+We round off the talk with a quick demo.
 
 ### Speakers
 [Arve Knudsen](../../speakers/arve-knudsen)
