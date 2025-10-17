@@ -47,9 +47,7 @@ The ticket prices are:
 
 **PromCon EU 2025 is sold out!**
 
-[Join the waitlist](https://forms.gle/f213RYnNAaZGhgep6)! If you have a speaker or a sponsor code, you will still be able to register.
-
-If space opens, and you’re next on the list, you’ll receive an email and will have 48 hours to register. If you have not registered in that timeframe, we will provide your spot to the next person on the list. Everyone on the waitlist will receive a notification regarding their status by Monday, 13 October.
+PromCon EU 2025 is sold out, and the waitlist is now closed. Should you have any questions, please contact us at events@cncf.io.
 
 We will live stream the talks, and you can bookmark the links below:
 
