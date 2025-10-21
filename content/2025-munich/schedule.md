@@ -111,7 +111,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     <td></td>
   </tr>
    <tr class="talk">
-    <td>14:15</td>
+    <td>14:30</td>
     <td>
       <a href="../talks/from-manual-to-managed-prometheus-agent-deployment-at-scale">From Manual to Managed: Prometheus Agent Deployment at Scale</a>
     </td>
@@ -121,7 +121,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     </td>
   </tr>
    <tr class="talk">
-    <td>14:45</td>
+    <td>15:00</td>
     <td>
       <a href="../talks/saafe--a-prioritized-alerting-model-to-troubleshoot-your-incidents">SAAFE - A prioritized alerting model to troubleshoot your incidents</a>
     </td>
@@ -133,7 +133,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     </td>
   </tr>
    <tr class="talk">
-    <td>15:15</td>
+    <td>15:30</td>
     <td>
       <a href="../talks/a-history-of-automatic-aggregations">A History of Automatic Aggregations</a>
     </td>
@@ -143,7 +143,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     </td>
   </tr>
    <tr class="talk">
-    <td>15:45</td>
+    <td>16:00</td>
     <td>
       <a href="../talks/building-an-observability-agent-for-rapid-root-cause-analysis-using-prometheus-metrics">Building an Observability Agent for Rapid Root Cause Analysis using Prometheus metrics</a>
     </td>
@@ -153,17 +153,17 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     </td>
   </tr>
   <tr class="break">
-    <td>16:10</td>
+    <td>16:25</td>
     <td>Break</td>
     <td></td>
   </tr>
   <tr class="break">
-    <td>16:30</td>
+    <td>16:45</td>
     <td>Lightning talks</td>
     <td></td>
   </tr>
   <tr class="break">
-    <td>18:00</td>
+    <td>18:30</td>
     <td>Social Event at Augustiner Bräustuben, Landsberger Str. 19</td>
     <td></td>
   </tr>
