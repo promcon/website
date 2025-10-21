@@ -16,7 +16,7 @@ PromCon aims to connect Prometheus users and developers from around the world in
 
 Get an impression of PromCon EU 2019:
 
-<%= youtube_player("TUbj9ykgafM") %>
+<%= youtube_player("8h99_mfY6U4") %>
 
 ## Venue Information
 
