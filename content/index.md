@@ -1,6 +1,6 @@
 ---
 title: The Prometheus Conference
-redirect: /2025-munich/
+redirect: /2026-munich/
 ---
 
 ## PromCon - The Prometheus Conference
