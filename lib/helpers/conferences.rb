@@ -186,6 +186,18 @@ def conferences
       },
       Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
     ),
+    Conference.new(
+      'PromCon EU 2026',
+      'The Prometheus conference — October 7 - 8 in Munich',
+      '/2026-munich/',
+      {
+        '/2026-munich/' => 'Overview',
+        '/2026-munich/diversity/' => 'Diversity',
+        '/2026-munich/health-and-safety/' => 'Health & Safety',
+        '/coc/' => 'Code of Conduct',
+      },
+      Banner.new('munich-banner', 'Qwrt!', 'https://www.flickr.com/photos/qwertworks/9983260225/'),
+    ),
   ]
 end
 
