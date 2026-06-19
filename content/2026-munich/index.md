@@ -44,6 +44,10 @@ The ticket prices are (cheaper then last year!):
 
 see [Registration](/2026-munich/register)
 
+We will live stream the talks, and you can bookmark the links below:
+
+[Livestream Day 1](https://youtube.com/live/kTD1sjPWrsU) [Livestream Day 2](https://youtube.com/live/BDryNblRXUE)
+
 ## Hashtag
 
 The event Hashtag is [#PromCon](https://twitter.com/search?q=%23PromCon).
@@ -55,7 +59,7 @@ Follow us for updates:
 
 ## Our sponsors
 
-[Sponsorship is open](https://promcon.io/2025-munich/sponsor/).
+[Sponsorship is open](/2026-munich/sponsor/).
 
 ## Contact
 
