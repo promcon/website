@@ -45,7 +45,7 @@ Follow us for updates:
 
 ## Our sponsors
 
-Sponshorship will open soon.
+[Sponsorship is open](https://promcon.io/2025-munich/sponsor/).
 
 ## Contact
 
