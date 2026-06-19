@@ -42,7 +42,7 @@ The ticket prices are (cheaper then last year!):
 * **Standard**: $170 USD - $45 USD for Academic (July 22 - September 15)
 * **Late**: $215 USD - $85 USD for Academic (September 15 - October 8)
 
-see [Registration](/2026-munich/registration)
+see [Registration](/2026-munich/register)
 
 ## Hashtag
 
