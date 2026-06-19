@@ -13,9 +13,9 @@ PromCon EU 2026 will be the eleventh conference fully dedicated to the
 
 PromCon aims to connect Prometheus users and developers from around the world in order to exchange knowledge, best practices, and experience gained around using Prometheus. We also want to collaborate to build a community and grow professional connections around systems and service monitoring.
 
-Get an impression of PromCon EU 2019:
+Get an impression of PromCon EU 2025:
 
-<%= youtube_player("TUbj9ykgafM") %>
+<%= youtube_player("Vpc_cwxUKN4") %>
 
 ## Venue Information
 
