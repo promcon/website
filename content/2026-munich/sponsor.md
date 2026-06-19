@@ -72,4 +72,4 @@ leftover funds will be used for future conferences or the project.
 * Further sponsorship terms will be laid out in a sponsorship agreement
   between Linux Foundation and the sponsor.
 
-Thanks for your interest in sponsoring PromCon!Add comment
+Thanks for your interest in sponsoring PromCon!
