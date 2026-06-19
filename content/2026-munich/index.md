@@ -32,7 +32,17 @@ organizers.
 
 ## CFP
 
-The _PromCon Call for Papers_ will open soon.
+The [PromCon Call for Papers](https://sessionize.com/promcon-eu-2026/) is open until 2025-07-13 11:59 PM CEST(UTC+2)
+
+## Registration
+
+The ticket prices are (cheaper then last year!):
+
+* **Early Bird**: $130 USD (through July 21)
+* **Standard**: $170 USD (July 22 - September 15)
+* **Late**: $215 USD (September 15 - October 8)
+
+see [Registration](/2026-munich/registration)
 
 ## Hashtag
 

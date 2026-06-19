@@ -192,6 +192,7 @@ def conferences
       '/2026-munich/',
       {
         '/2026-munich/' => 'Overview',
+        '/2026-munich/register/' => 'Register',
         '/2026-munich/diversity/' => 'Diversity',
         '/2026-munich/health-and-safety/' => 'Health & Safety',
         '/coc/' => 'Code of Conduct',
