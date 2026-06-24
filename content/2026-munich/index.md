@@ -36,7 +36,7 @@ The [PromCon Call for Papers](https://sessionize.com/promcon-eu-2026/) is open u
 
 ## Registration
 
-The ticket prices are (cheaper then last year!):
+The ticket prices are (cheaper than last year!):
 
 * **Early Bird**: $130 USD - $45 USD for Academic (through July 21)
 * **Standard**: $170 USD - $45 USD for Academic (July 22 - September 15)
