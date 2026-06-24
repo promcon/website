@@ -19,7 +19,7 @@ Scholarship recipients will receive complimentary registration to attend PromCon
 Please note that travel funding is NOT included.
 
 <a class="btn btn-lg btn-default" href="https://www.surveymonkey.com/r/PromConEU26" target="_blank" role="button">
-  <i class="fa fa-pen"></i>&nbsp;&nbsp;Apply for scholarships + Travel funding
+  <i class="fa fa-pen"></i>&nbsp;&nbsp;Apply for a Scholarship
 </a>
 
 
