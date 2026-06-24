@@ -14,6 +14,9 @@ banners, and printed materials?**
 
 Please see the [sponsorship prospectus](/assets/sponsor-PromCon-2026.pdf).
 
+Contact sponsor@cncf.io to secure your sponsorship today. 
+Signed contracts must be received by 15 September 2026, 11:59 PM PDT
+
 If you wish to take advantage of swag distribution, booth space, or free
 attendee tickets, please let us know in advance.
 

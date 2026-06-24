@@ -2,27 +2,34 @@
 title: Diversity Scholarships
 ---
 
-## Scholarships + Travel Funding
+## Scholarships
 
-The Dan Kohn Scholarship + Travel Fund is intended to enable open source developers and community members to attend events that they would otherwise be unable to attend due to a lack of funding. We place an emphasis on funding applicants who are from historically underrepresented or untapped groups and/or those of lower socioeconomic status. If you work for a company that has the ability to fund your travel, we ask that you not apply, to save funds for those that need it.
+The Dan Kohn scholarship program for PromCon EU 2026 exists to support individuals with complimentary registration who are unable to attend without registration assistance.
 
-Fill out the form using the button below to have your funding request considered. In order to maximize spending, travel fund assistance may only be used for: Coach airfare tickets, accommodation for the dates of the event plus one night prior to the event start date, ground transportation to/from the airport. Funds may not be used for miscellaneous travel expenses including food, visa costs, non-airport transportation, baggage fees, etc.
+Applicants should be from traditionally underrepresented and/or marginalized groups in the technology and/or open source communities who are unable to attend without registration assistance. Including, but not limited to, persons identifying as: LGBTQIA+, women, persons of color, and/or persons with disabilities.
 
-A standard in-person ticket for the PromCon EU 2026 will be included.
+Applicants should be active community members who are not being assisted or sponsored by a company or organization, have recently experienced job loss or a budget freeze, and are unable to attend due to financial constraints.
 
-Receipt of Travel Funding does not guarantee entry to the event.  Recipients need to adhere to The Linux Foundation COVID-19 rules and regulations. If the recipient does not meet COVID-19 requirements for the event, the travel fund allotted is null and void. Should the recipient not be able to travel due to COVID-19 and travel has already been booked, the recipient will need to work with airlines and hotels to receive a refund. If a refund is not a possibility, The Linux Foundation will reimburse for incurred travel expenses within the allotted amount.
+Registration Scholarships are awarded based on a combination of need and impact. Scholarships are NOT transferable to another person, or any other event. Selection will be made by an assembled group of reviewers who will assess each applicant’s request. Application information will be kept confidential.
 
-For questions, please contact <a href="mailto:travelfund@linuxfoundation.org">travelfund@linuxfoundation.org</a>.
+The event will take place in Munich, Germany.
 
+Scholarship recipients will receive complimentary registration to attend PromCon Europe 2026.
 
-<a class="btn btn-lg btn-default" href="https://events.linuxfoundation.org/about/travel-fund-request/" target="_blank" role="button">
+Please note that travel funding is NOT included.
+
+<a class="btn btn-lg btn-default" href="https://www.surveymonkey.com/r/PromConEU26" target="_blank" role="button">
   <i class="fa fa-pen"></i>&nbsp;&nbsp;Apply for scholarships + Travel funding
 </a>
 
+
 ### Timeline
 
-<!---
-TBD
--->
+Registration Scholarship Applications Due:
 
-The timeline will be announced soon.
+23 August, 2026 (11:59 Pacific Time)
+
+Registration Scholarship Notification:
+
+1 September, 2026
+
