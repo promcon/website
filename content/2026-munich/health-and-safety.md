@@ -12,10 +12,6 @@ _Our community’s well-being is extremely important to us, and creating a safe,
 
 ### Health Measures
 
-#### Vaccines 
-
-We encourage flu shots, COVID-19 vaccination and boosters to reduce the threat of illness.
-
 ### Food Allergies
 
 The Linux Foundation believes it’s essential to prioritize the safety and well-being of all attendees, including those with food allergies.
@@ -27,9 +23,6 @@ If you have a food allergy we need to be aware of, please email us at promcon-or
 
 ### Onsite Personal Protection
 
-* If you feel ill while at the event, please take a COVID-19 self-test and isolate as needed. 
-* Hand sanitizing stations will be available throughout the event venue. 
-* A limited supply of face masks will be available upon request at Registration. 
 * We respectfully remind all attendees, speakers, sponsors, and staff to: 
 	* Stay home if you experience any cold or flu-like symptoms. 
 	* Wash your hands for at least 20 seconds. 
@@ -48,3 +41,18 @@ Attendee safety is our top priority. Always exercise common sense and good judgm
 * If something doesn’t feel right, walk into a business/hotel for help.
 * Be careful and alert when using a cash machine.
 * Carry your purse or wallet safely. Purses should be closed and held in front of your body. Wallets should be carried in a front pants pocket or in an interior jacket pocket.
+
+
+### When Visiting Any Venue
+
+* Know where you are; the venue name, street address or cross street.
+* Take a moment to identify at least two exit routes from any building or event and emergency exit signs.
+* If an alarm sounds, evacuate immediately. Follow directions from First Responders and venue staff.
+* Do not carry any unnecessary valuables with you, or leave personal items unattended.
+* Do not leave drinks unattended, or accept open drinks or food products from strangers.
+
+### Emergency Evacuations
+
+* In the event of an emergency evacuation, make your way quickly and calmly to an emergency exit. Be aware of any hazards or dangers around you and proceed to a safe area.
+* Follow the advice of venue staff, security personnel and First Responders.
+* Do not put yourself in danger by stopping to collect belongings unless directed by First Responders.
