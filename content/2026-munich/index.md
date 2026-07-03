@@ -61,6 +61,10 @@ Follow us for updates:
 
 [Sponsorship is open](/2026-munich/sponsor/).
 
+<h3>Diamond</h3>
+  <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"></a>
+</div>
+
 ## Contact
 
 PromCon is organized by the [Prometheus developer
