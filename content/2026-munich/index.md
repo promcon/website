@@ -32,7 +32,7 @@ organizers.
 
 ## CFP
 
-The [PromCon Call for Papers](https://sessionize.com/promcon-eu-2026/) is open until 2025-07-13 11:59 PM CEST(UTC+2)
+The [PromCon Call for Papers](https://sessionize.com/promcon-eu-2026/) has been extended and is now open until 2026-07-19 11:59 PM CEST(UTC+2)
 
 ## Registration
 

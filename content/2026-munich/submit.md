@@ -1,8 +1,16 @@
+---
+title: Submit Talk
+---
+
 ## Submit a talk
 
-The _PromCon Call for Papers_ will open soon.
+The [PromCon Call for Papers](https://sessionize.com/promcon-eu-2026/) has been extended and is now open until 2026-07-19 11:59 PM CEST(UTC+2).
 
-We will be accepting talk proposals around the following topics, with experience levels ranging from beginner to expert:
+<a class="btn btn-lg btn-default" href="https://sessionize.com/promcon-eu-2026/" target="_blank" role="button">
+  <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Submit to speak
+</a>
+
+We are accepting talk proposals around the following topics, with experience levels ranging from beginner to expert:
 
 * Prometheus internals and core development
 * Prometheus fundamentals and philosophy
