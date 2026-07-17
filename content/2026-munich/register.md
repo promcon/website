@@ -7,9 +7,9 @@ title: Register
 
 The ticket prices are:
 
-* **Early Bird**: €130 EUR - €45 EUR for Academic (through July 21)
-* **Standard**: €170 EUR - €45 EUR for Academic (July 22 - September 15)
-* **Late**: €215 EUR - €85 EUR for Academic (September 15 - October 8)
+* **Early Bird**: €130 EUR - €45 EUR for Academic (through 21 July, 2026)
+* **Standard**: €170 EUR - €45 EUR for Academic (22 July - 15 September, 2026)
+* **Late**: €215 EUR - €85 EUR for Academic (15 September - 8 October, 2026)
 
 
 <a class="btn btn-lg btn-default" href="https://register.linuxfoundation.org/promcon-eu-2026" target="_blank" role="button">

@@ -4,7 +4,7 @@ title: Submit Talk
 
 ## Submit a talk
 
-The [PromCon Call for Papers](https://sessionize.com/promcon-eu-2026/) has been extended and is now open until 2026-07-19 11:59 PM CEST(UTC+2).
+The [PromCon Call for Papers](https://sessionize.com/promcon-eu-2026/) has been extended and is now open until 19 July, 2026, 11:59 PM CEST(UTC+2).
 
 <a class="btn btn-lg btn-default" href="https://sessionize.com/promcon-eu-2026/" target="_blank" role="button">
   <i class="fa fa-briefcase"></i>&nbsp;&nbsp;Submit to speak

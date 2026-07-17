@@ -7,7 +7,7 @@ title: Overview
 PromCon EU 2026 will be the eleventh conference fully dedicated to the
 [Prometheus monitoring system](https://prometheus.io/). 
 
-**📅 When:** October 7th and 8th, 2026 
+**📅 When:** 7 and 8 October, 2026
 
 **📍 Where:** Munich, Germany at the Google office
 
@@ -32,15 +32,15 @@ organizers.
 
 ## CFP
 
-The [PromCon Call for Papers](https://sessionize.com/promcon-eu-2026/) has been extended and is now open until 2026-07-19 11:59 PM CEST(UTC+2)
+The [PromCon Call for Papers](https://sessionize.com/promcon-eu-2026/) has been extended and is now open until 19 July, 2026, 11:59 PM CEST(UTC+2)
 
 ## Registration
 
 The ticket prices are (cheaper than last year!):
 
-* **Early Bird**: €130 EUR - €45 EUR for Academic (through July 21)
-* **Standard**: €170 EUR - €45 EUR for Academic (July 22 - September 15)
-* **Late**: €215 EUR - €85 EUR for Academic (September 15 - October 8)
+* **Early Bird**: €130 EUR - €45 EUR for Academic (through 21 July, 2026)
+* **Standard**: €170 EUR - €45 EUR for Academic (22 July - 15 September, 2026)
+* **Late**: €215 EUR - €85 EUR for Academic (15 September - 8 October, 2026)
 
 see [Registration](/2026-munich/register)
 
