@@ -7,7 +7,7 @@ title: Register
 
 The ticket prices are:
 
-* **Early Bird**: €130 EUR - €45 EUR for Academic (through 21 July, 2026)
+* ~~**Early Bird**: €130 EUR - €45 EUR for Academic (through 21 July, 2026)~~
 * **Standard**: €170 EUR - €45 EUR for Academic (22 July - 15 September, 2026)
 * **Late**: €215 EUR - €85 EUR for Academic (15 September - 8 October, 2026)
 
