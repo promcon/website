@@ -20,7 +20,7 @@ end
 
 compile '/**/*.md' do
   filter :erb
-  filter :redcarpet, options: {filter_html: true, autolink: true, no_intraemphasis: true, fenced_code_blocks: true, gh_blockcode: true, tables: true}, renderer_options: {with_toc_data: true}
+  filter :redcarpet, options: {filter_html: true, autolink: true, no_intraemphasis: true, fenced_code_blocks: true, gh_blockcode: true, tables: true, strikethrough: true}, renderer_options: {with_toc_data: true}
   filter :bootstrappify
 
   case
