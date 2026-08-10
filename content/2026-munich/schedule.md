@@ -66,14 +66,26 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
    </tr>
    <tr class="talk">
     <td>15:00</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/predictive-scrape-scheduling-mldriven-interval-adaptation-in-prometheus">Predictive Scrape Scheduling: ML-Driven Interval Adaptation in Prometheus</a>
+    </td>
+    <td>
+      <a href="../speakers/yogesh-sardana">Yogesh Sardana</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>15:25</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/kubernetes-engineering-promql-queries-for-prometheus-and-opentelemetry-convergence">Kubernetes: Engineering PromQL Queries for Prometheus and OpenTelemetry Convergence</a>
+    </td>
+    <td>
+      <a href="../speakers/serena-kei">Serena Kei</a>
+      <br>
+      <a href="../speakers/stephen-lang">Stephen Lang</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>15:55</td>
     <td>To Be Announced</td>
