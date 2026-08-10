@@ -13,9 +13,9 @@ import (
 	"unicode"
 )
 
-const dir = "../../content/2025-munich/"
-const urlSchedule = "https://sessionize.com/api/v2/gijsw01e/view/GridSmart"
-const urlSpeakers = "https://sessionize.com/api/v2/gijsw01e/view/Speakers"
+const dir = "../../content/2026-munich/"
+const urlSchedule = "https://sessionize.com/api/v2/fx7c71mx/view/GridSmart"
+const urlSpeakers = "https://sessionize.com/api/v2/fx7c71mx/view/Speakers"
 
 func main() {
 	respSpeakers, err := http.Get(urlSpeakers)
