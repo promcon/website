@@ -41,9 +41,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>11:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/fast-startup-in-prometheus">Fast Startup in Prometheus</a>
+    </td>
+    <td>
+      <a href="../speakers/rushabh-mehta">Rushabh Mehta</a>
+      <br>
+      <a href="../speakers/ganesh-vernekar">Ganesh Vernekar</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>11:45</td>
     <td>To Be Announced</td>
