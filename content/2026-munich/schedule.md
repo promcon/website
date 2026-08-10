@@ -88,9 +88,14 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>15:55</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/rss-lied-to-me-a-field-guide-to-linux-memory-metrics">RSS Lied to Me: A Field Guide to Linux Memory Metrics</a>
+    </td>
+    <td>
+      <a href="../speakers/bryan-boreham">Bryan Boreham</a>
+      <br>
+    </td>
+  </tr>
   <tr class="break">
     <td>16:20</td>
     <td>Break</td>
@@ -117,9 +122,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>09:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/finding-the-right-metric-among-millions-of-series">Finding the Right Metric Among Millions of Series</a>
+    </td>
+    <td>
+      <a href="../speakers/ismail-simsek">Ismail Simsek</a>
+      <br>
+      <a href="../speakers/arve-knudsen">Arve Knudsen</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>09:45</td>
     <td>To Be Announced</td>
@@ -147,9 +159,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
    </tr>
    <tr class="talk">
     <td>12:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/tracking-cardinality-explosions-in-flight">Tracking Cardinality Explosions In Flight</a>
+    </td>
+    <td>
+      <a href="../speakers/roman-khavronenko">Roman Khavronenko</a>
+      <br>
+      <a href="../speakers/langson-zhang">Langson Zhang</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>12:45</td>
     <td>To Be Announced</td>
