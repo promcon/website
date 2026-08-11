@@ -1,8 +1,8 @@
 ---
-title: "having the PromQL Yak: 6 PromQL Functions to Escape from Analytical Workarounds"
+title: "Shaving the PromQL Yak: 6 PromQL Functions to Escape from Analytical Workarounds"
 ---
 
-## having the PromQL Yak: 6 PromQL Functions to Escape from Analytical Workarounds
+## Shaving the PromQL Yak: 6 PromQL Functions to Escape from Analytical Workarounds
 
 Prometheus is great at storing metrics and answering the questions we already know how to ask. We all love that.
 

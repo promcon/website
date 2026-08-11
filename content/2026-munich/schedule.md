@@ -76,7 +76,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
    <tr class="talk">
     <td>14:30</td>
     <td>
-      <a href="../talks/having-the-promql-yak-6-promql-functions-to-escape-from-analytical-workarounds">having the PromQL Yak: 6 PromQL Functions to Escape from Analytical Workarounds</a>
+      <a href="../talks/shaving-the-promql-yak-6-promql-functions-to-escape-from-analytical-workarounds">Shaving the PromQL Yak: 6 PromQL Functions to Escape from Analytical Workarounds</a>
     </td>
     <td>
       <a href="../speakers/juan-jose-ciarlante">Juan Jose Ciarlante</a>
