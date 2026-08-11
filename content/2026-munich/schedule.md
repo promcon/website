@@ -21,9 +21,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>09:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/tales-from-the-alertmanager">Tales from the Alertmanager</a>
+    </td>
+    <td>
+      <a href="../speakers/guido-trotter">Guido Trotter</a>
+      <br>
+      <a href="../speakers/siavash-safi">Siavash Safi</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>09:45</td>
     <td>To Be Announced</td>
@@ -68,9 +75,14 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>14:30</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/having-the-promql-yak-6-promql-functions-to-escape-from-analytical-workarounds">having the PromQL Yak: 6 PromQL Functions to Escape from Analytical Workarounds</a>
+    </td>
+    <td>
+      <a href="../speakers/juan-jose-ciarlante">Juan Jose Ciarlante</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>15:00</td>
     <td>
