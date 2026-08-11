@@ -146,9 +146,14 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
    </tr>
    <tr class="talk">
     <td>10:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/does-anyone-still-need-prometheus-agent-mode">Does anyone still need Prometheus Agent mode?</a>
+    </td>
+    <td>
+      <a href="../speakers/kyle-eckhart">Kyle Eckhart</a>
+      <br>
+    </td>
+  </tr>
   <tr class="break">
     <td>10:45</td>
     <td>Break</td>
@@ -193,9 +198,14 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
    </tr>
    <tr class="talk">
     <td>14:45</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/thymian-a-prometheusnative-approach-to-global-querying">Thymian: A Prometheus-Native Approach to Global Querying</a>
+    </td>
+    <td>
+      <a href="../speakers/victor-herrero-otal">Victor Herrero Otal</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>15:15</td>
     <td>To Be Announced</td>
