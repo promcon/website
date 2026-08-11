@@ -166,9 +166,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
    </tr>
    <tr class="talk">
     <td>11:45</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/bring-order-to-metrics-chaos-building-a-canonical-data-model-with-prometheus-relabeling">Bring Order to Metrics Chaos: Building a Canonical Data Model with Prometheus Relabeling</a>
+    </td>
+    <td>
+      <a href="../speakers/jorge-creixell">Jorge Creixell</a>
+      <br>
+      <a href="../speakers/nandakumar-devi">Nandakumar Devi</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>12:15</td>
     <td>
