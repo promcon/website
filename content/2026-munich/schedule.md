@@ -190,9 +190,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>12:45</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/unlocking-prometheus-exporters-in-the-opentelemetry-ecosystem">Unlocking Prometheus Exporters in the OpenTelemetry Ecosystem</a>
+    </td>
+    <td>
+      <a href="../speakers/arthur-sens">Arthur Sens</a>
+      <br>
+      <a href="../speakers/kyle-eckhart">Kyle Eckhart</a>
+      <br>
+    </td>
+  </tr>
   <tr class="break">
     <td>13:15</td>
     <td>Lunch</td>
