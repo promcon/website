@@ -33,9 +33,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>09:45</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/benefit-from-native-histograms-without-breaking-your-promql-queries">Benefit from Native Histograms Without Breaking Your PromQL Queries</a>
+    </td>
+    <td>
+      <a href="../speakers/raphaël-bizos">Raphaël Bizos</a>
+      <br>
+      <a href="../speakers/bartłomiej-płotka">Bartłomiej Płotka</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>10:15</td>
     <td>To Be Announced</td>
@@ -65,9 +72,14 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
    </tr>
    <tr class="talk">
     <td>12:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/from-a-plan-span-to-a-prometheus-alert-an-slo-you-can-page-an-agent-on">From a plan span to a Prometheus alert: an SLO you can page an agent on</a>
+    </td>
+    <td>
+      <a href="../speakers/krishna-chaitanya">Krishna Chaitanya</a>
+      <br>
+    </td>
+  </tr>
   <tr class="break">
     <td>13:15</td>
     <td>Lunch</td>
