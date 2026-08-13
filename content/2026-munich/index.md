@@ -66,6 +66,10 @@ Follow us for updates:
   <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"></a>
   <a href="https://victoriametrics.com/"><img src="/assets/vm_logo2025.png" class="logo"></a>
 </div>
+<h3>Platinum</h3>
+<div class="sponsor-logos">
+  <a href="https://www.hudsonrivertrading.com/"><img src="/assets/hrt2026.svg" class="logo"/></a>
+</div>
 
 <h3>Gold</h3>
 <div class="sponsor-logos">

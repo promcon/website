@@ -12,7 +12,7 @@ banners, and printed materials?**
 
 ## I want to sponsor PromCon. What do I do?
 
-Please see the [sponsorship prospectus](/assets/sponsor-PromCon-2026.pdf).
+Please see the [sponsorship prospectus](https://events.linuxfoundation.org/sponsor-promcon2026).
 
 Contact sponsor@cncf.io to secure your sponsorship today. 
 Signed contracts must be received by 15 September 2026, 11:59 PM PDT
