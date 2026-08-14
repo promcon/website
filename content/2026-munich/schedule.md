@@ -45,9 +45,14 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>10:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/using-delta-temporality-in-prometheus">Using Delta Temporality in Prometheus</a>
+    </td>
+    <td>
+      <a href="../speakers/owen-williams">Owen Williams</a>
+      <br>
+    </td>
+  </tr>
   <tr class="break">
     <td>10:45</td>
     <td>Break</td>
@@ -67,9 +72,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>11:45</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/metrics-deserve-contracts">Metrics deserve contracts</a>
+    </td>
+    <td>
+      <a href="../speakers/nicolas-takashi">Nicolas Takashi</a>
+      <br>
+      <a href="../speakers/arve-knudsen">Arve Knudsen</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>12:15</td>
     <td>
