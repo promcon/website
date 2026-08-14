@@ -7,4 +7,4 @@ title: "Nicolas Takashi"
 ## Nicolas Takashi
 <br>
 
-Nicolas is a Software Engineer with a Platform Engineer role at Coralogix. He's mostly interested in topics related to the observability ecosystem, as well as Kubernetes and distributed systems. He is also an open-source contributor to projects such as Prometheus Operator, Perses, and OpenTelemetry.
+Nicolas is a Principal Product Engineer at Dash0. He's mostly interested in topics related to the observability ecosystem, as well as Kubernetes and distributed systems. He is also an open-source contributor to projects such as Prometheus Operator, Perses, and OpenTelemetry.
