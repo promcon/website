@@ -177,9 +177,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>09:45</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/materialized-metrics-scrapetime-aggregation-in-prometheus">Materialized metrics: scrape-time aggregation in Prometheus</a>
+    </td>
+    <td>
+      <a href="../speakers/walther-lee">Walther Lee</a>
+      <br>
+      <a href="../speakers/aleksandr-krivoshchekov">Aleksandr Krivoshchekov</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>10:15</td>
     <td>
