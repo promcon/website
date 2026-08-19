@@ -92,6 +92,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
       <br>
     </td>
   </tr>
+   <tr class="talk">
+    <td>12:45</td>
+    <td>
+      <a href="../talks/pushing-the-limits-scaling-prometheus-for-highperformance-ai--gpu-workloads">Pushing the Limits: Scaling Prometheus for High-Performance AI & GPU Workloads</a>
+    </td>
+    <td>
+      <a href="../speakers/sagar-utekar">Sagar Utekar</a>
+      <br>
+    </td>
+  </tr>
   <tr class="break">
     <td>13:15</td>
     <td>Lunch</td>
@@ -250,9 +260,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>14:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/from-buckets-to-native-histograms-lessons-from-a-production-migration">From Buckets to Native Histograms: Lessons from a Production Migration</a>
+    </td>
+    <td>
+      <a href="../speakers/shivani-rathod">Shivani Rathod</a>
+      <br>
+      <a href="../speakers/rushabh-shah">Rushabh Shah</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>14:45</td>
     <td>
