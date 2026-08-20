@@ -214,9 +214,16 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
    <tr class="talk">
     <td>11:15</td>
-    <td>To Be Announced</td>
-    <td></td>
-   </tr>
+    <td>
+      <a href="../talks/leastprivilege-metrics-securing-promql-in-multitenant-clusters">Least-Privilege Metrics: Securing PromQL in Multi-Tenant Clusters</a>
+    </td>
+    <td>
+      <a href="../speakers/oshi-gupta">Oshi Gupta</a>
+      <br>
+      <a href="../speakers/neel-shah">Neel Shah</a>
+      <br>
+    </td>
+  </tr>
    <tr class="talk">
     <td>11:45</td>
     <td>
