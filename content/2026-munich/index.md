@@ -68,7 +68,7 @@ Follow us for updates:
 </div>
 <h3>Platinum</h3>
 <div class="sponsor-logos">
-  <a href="https://www.hudsonrivertrading.com/"><img src="/assets/hrt2026.png" class="logo"/></a>
+  <a href="https://www.hudsonrivertrading.com/"><img src="/assets/hrt2026.svg" class="logo"/></a>
 </div>
 
 <h3>Gold</h3>
