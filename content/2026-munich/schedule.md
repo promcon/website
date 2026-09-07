@@ -88,7 +88,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
       <a href="../talks/from-a-plan-span-to-a-prometheus-alert-an-slo-you-can-page-an-agent-on">From a plan span to a Prometheus alert: an SLO you can page an agent on</a>
     </td>
     <td>
-      <a href="../speakers/krishna-chaitanya">Krishna Chaitanya</a>
+      <a href="../speakers/krishna-chaitanya-balusu">Krishna Chaitanya Balusu</a>
       <br>
     </td>
   </tr>
@@ -220,7 +220,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     <td>
       <a href="../speakers/oshi-gupta">Oshi Gupta</a>
       <br>
-      <a href="../speakers/neel-shah">Neel Shah</a>
+      <a href="../speakers/anushka-saxena">Anushka Saxena</a>
       <br>
     </td>
   </tr>

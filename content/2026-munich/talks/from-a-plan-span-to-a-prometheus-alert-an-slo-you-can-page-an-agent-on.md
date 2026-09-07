@@ -27,7 +27,7 @@ Key takeaways:
 
 
 ### Speakers
-[Krishna Chaitanya](../../speakers/krishna-chaitanya)
+[Krishna Chaitanya Balusu](../../speakers/krishna-chaitanya-balusu)
 
-<img src="https://cdn.sessionize.com/image/9427-400o400o1-3EJdwPYrGWHFtciPjtR9on.jpg" style="width: 100px; border-radius: 50%" alt="Krishna Chaitanya Profile Picture"/>
+<img src="https://cdn.sessionize.com/image/9427-400o400o1-3EJdwPYrGWHFtciPjtR9on.jpg" style="width: 100px; border-radius: 50%" alt="Krishna Chaitanya Balusu Profile Picture"/>
 

@@ -13,7 +13,7 @@ We'll live-demo a kind cluster running a policy-enforcing query proxy in front o
 
 <img src="https://cdn.sessionize.com/image/a9c0-400o400o1-nQXNuwqhsoJGvJTYu7i5Xw.jpg" style="width: 100px; border-radius: 50%" alt="Oshi Gupta Profile Picture"/>
 
-[Neel Shah](../../speakers/neel-shah)
+[Anushka Saxena](../../speakers/anushka-saxena)
 
-<img src="https://cdn.sessionize.com/image/dc9b-400o400o1-3rkgDovdUZgvanVZHeevzf.jpg" style="width: 100px; border-radius: 50%" alt="Neel Shah Profile Picture"/>
+<img src="https://cdn.sessionize.com/image/0ba7-400o400o1-QvTWsjNTz7UBhHd83bGLhV.jpg" style="width: 100px; border-radius: 50%" alt="Anushka Saxena Profile Picture"/>
 
