@@ -128,7 +128,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     </td>
   </tr>
    <tr class="talk">
-    <td>15:25</td>
+    <td>15:30</td>
     <td>
       <a href="../talks/kubernetes-engineering-promql-queries-for-prometheus-and-opentelemetry-convergence">Kubernetes: Engineering PromQL Queries for Prometheus and OpenTelemetry Convergence</a>
     </td>
@@ -140,7 +140,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     </td>
   </tr>
    <tr class="talk">
-    <td>15:55</td>
+    <td>16:00</td>
     <td>
       <a href="../talks/rss-lied-to-me-a-field-guide-to-linux-memory-metrics">RSS Lied to Me: A Field Guide to Linux Memory Metrics</a>
     </td>
@@ -150,7 +150,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     </td>
   </tr>
   <tr class="break">
-    <td>16:20</td>
+    <td>16:25</td>
     <td>Break</td>
     <td></td>
   </tr>
