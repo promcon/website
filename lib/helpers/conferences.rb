@@ -196,7 +196,7 @@ def conferences
         '/2026-munich/diversity/' => 'Diversity',
        # '/2026-munich/submit/' => 'CFP',
         '/2026-munich/schedule/' => 'Schedule',
-        '/2026-munich/sponsor/' => 'Sponsor',
+       # '/2026-munich/sponsor/' => 'Sponsor',
         '/2026-munich/health-and-safety/' => 'Health & Safety',
         '/coc/' => 'Code of Conduct',
       },
