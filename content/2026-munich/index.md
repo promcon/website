@@ -63,7 +63,7 @@ Follow us for updates:
 
 <h3>Diamond</h3>
 <div class="sponsor-logos">
-  <a href="https://grafana.com/"><img src="/assets/grafana_labs_logo_light.svg" class="logo"></a>
+  <a href="https://grafana.com/"><img src="/assets/Grafana-Labs-horizontal.svg" class="logo"></a>
   <a href="https://victoriametrics.com/"><img src="/assets/vm_logo2025.png" class="logo"></a>
 </div>
 <h3>Platinum</h3>
