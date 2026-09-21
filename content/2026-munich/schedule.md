@@ -161,7 +161,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
   </tr>
   <tr class="break">
     <td>18:30</td>
-    <td>Social Event at Augustiner Bräustuben, Landsberger Str. 19</td>
+    <td>Social Event at Augustiner Bräustuben, Landsberger Str. 19 - Sponsored by Hudson River Trading</td>
     <td></td>
   </tr>
   <tr class="day">
