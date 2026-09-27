@@ -18,7 +18,3 @@ The impact: it dropped network load and response time by 85%, with 99.85% accura
 
 <img src="https://cdn.sessionize.com/image/a366-400o400o1-VyYcDu8TX6t9cWxp9XHXhC.jpg" style="width: 100px; border-radius: 50%" alt="Walther Lee Profile Picture"/>
 
-[Aleksandr Krivoshchekov](../../speakers/aleksandr-krivoshchekov)
-
-<img src="https://cdn.sessionize.com/image/83ba-400o400o1-JtecvJZTZ3kstpGnRUhwmQ.png" style="width: 100px; border-radius: 50%" alt="Aleksandr Krivoshchekov Profile Picture"/>
-
