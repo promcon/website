@@ -193,8 +193,6 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
     <td>
       <a href="../speakers/walther-lee">Walther Lee</a>
       <br>
-      <a href="../speakers/aleksandr-krivoshchekov">Aleksandr Krivoshchekov</a>
-      <br>
     </td>
   </tr>
    <tr class="talk">
