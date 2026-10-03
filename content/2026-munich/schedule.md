@@ -278,7 +278,7 @@ We'd love to have your 5-minute lightning talk at PromCon! Please submit them vi
    <tr class="talk">
     <td>14:45</td>
     <td>
-      <a href="../talks/thymian-a-prometheusnative-approach-to-global-querying">Thymian: A Prometheus-Native Approach to Global Querying</a>
+      <a href="../talks/a-prometheusnative-approach-to-global-querying">A Prometheus-Native Approach to Global Querying</a>
     </td>
     <td>
       <a href="../speakers/victor-herrero-otal">Victor Herrero Otal</a>
