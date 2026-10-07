@@ -37,6 +37,26 @@ bundle exec nanoc view
 You should now be able to view the generated site at
 [http://localhost:3000/](http://localhost:3000).
 
+## Docker
+
+As an alternative to a local Ruby setup, you can build and preview the site
+using the provided [Dockerfile](Dockerfile):
+
+```bash
+docker build -t promcon-site .
+docker run --rm -p 3000:3000 promcon-site
+```
+
+The site is then available at [http://localhost:3000/](http://localhost:3000).
+
+The image contains the site as it was at build time. To preview local changes,
+rebuild the image, or mount your checkout and rebuild inside the container:
+
+```bash
+docker run --rm -p 3000:3000 -v "$PWD":/site promcon-site \
+  sh -c 'bundle exec nanoc && bundle exec nanoc view --host 0.0.0.0'
+```
+
 ## License
 
 Apache License 2.0, see [LICENSE](LICENSE).
