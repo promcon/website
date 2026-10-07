@@ -128,7 +128,7 @@ Speaker: Łukasz Mierzwa
 
 ### #16 - Cacheability of PromQL Queries
 
-Speaker: [Björn Rabenstein](/2019-munich/speakers/Björn Rabenstein/)
+Speaker: [Björn Rabenstein](/2019-munich/speakers/bjorn-rabenstein/)
 
 ---
 
